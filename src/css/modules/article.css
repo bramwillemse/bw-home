@@ -1,0 +1,19 @@
+/** 
+ * ARTICLE
+ * A blog post or content page
+ */
+.article {
+    grid-column: span 4;
+}
+
+.article__header {
+    margin-bottom: var(--regular);
+}
+
+.article__header h1 {
+    margin-bottom: 0;
+}
+
+@media ( --br-m ) {
+    .article { grid-column: span 2; }
+}

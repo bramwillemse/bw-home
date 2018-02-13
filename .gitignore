@@ -1,0 +1,12 @@
+node_modules
+_assets
+styleguide
+*.scssc
+*.map
+*.min.js
+*.min.css
+_site
+.DS_Store
+.jekyll-metadata
+dist/*
+tmp/*

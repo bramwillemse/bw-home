@@ -1,0 +1,135 @@
+/** 
+ * BASE
+ * Styling of base elements
+ */
+html {
+    font-family: -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif,
+        "Apple Color Emoji",
+        "Segoe UI Emoji",
+        "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.6;
+}
+@media screen and (min-width: 20rem) {
+    html { font-size: 18px; }
+}
+@media ( --br-xs ) {
+    html { font-size: 21px; }
+}
+@media ( --br-s ) {
+    html { font-size: 24px; }
+}
+@media ( --br-l ) {
+    html { font-size: 26px; }
+}
+@media ( --br-xl ) {
+    html { font-size: 29px; }
+}
+
+
+/* BODY */
+body { 
+    margin: 0;
+}
+
+
+/* HEADINGS */
+h1,
+.h1 { /* Helps keeping HTML semantics intact */
+    margin: 0 0 var(--regular);
+
+    font-size: var(--regular);
+    font-weight: 600;
+    line-height: 1;
+}
+
+h1 ~ h2 {
+    margin-top: -var(--regular);
+}
+
+h2,
+.h2 { /* Helps keeping HTML semantics intact */
+    margin: 0 0 var(--regular);
+
+    font-size: var(--regular);
+    font-weight: 600;
+}
+
+h3,
+.h3 { /* Helps keeping HTML semantics intact */
+    margin: 0 0 var(--regular);
+
+    font-size: var(--regular);
+    font-weight: 600;
+}
+
+
+p { 
+    margin: 0 0 var(--regular);
+}
+
+
+/* DEFINITION LISTS */
+dl { margin: 0 0 var(--regular); }
+
+dt,
+dd { display: block; }
+
+dt { font-weight: 300; }
+
+dd { margin: 0 0 var(--regular); }
+
+@media ( --br-s ) {
+    dt,
+    dd { 
+        display: inline-block;
+        margin-right: var(--xs);
+    }
+
+    dd { 
+        margin-right: var(--regular);
+    }
+}
+
+
+/* IMAGE */
+img { 
+    max-width: 100%;
+}
+
+
+/* ANCHOR */
+a {
+    color: var(--blue-50);
+    text-decoration: none;
+
+    padding-bottom: .1rem;
+    border-bottom: 2px solid var(--blue-50);
+}
+
+
+/* BLOCKQUOTE */
+blockquote { 
+    /* display: inline; */
+    margin: 0 0 var(--regular);
+
+    /* font-size: var(--m); */
+    font-weight: 600;
+    text-align: left;
+}
+
+blockquote p { margin-bottom: 0; }
+
+blockquote:before {
+    content: "<quote>";
+}
+blockquote:after {
+    content: "</quote>";
+}

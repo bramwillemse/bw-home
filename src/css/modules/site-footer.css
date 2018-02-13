@@ -1,0 +1,30 @@
+/**
+ * Site footer
+ * The site's main footer module
+ */
+.site-footer {
+    grid-column: span 4;
+}
+
+/* UNORDERED LISTS */
+.site-footer ul { 
+    display: block;
+    margin: 0 0 var(--l);
+
+    padding: 0;
+}
+
+.site-footer li { 
+    display: block;
+    margin: 0 var(--regular) var(--regular) 0;
+    list-style: none;
+}
+
+@media ( --br-s ) {
+    .site-footer ul { margin-bottom: 0; }
+    .site-footer li { display: inline-block; }
+}
+
+@media ( --br-m ) {
+    .site-footer { grid-column: span 3; }
+}
