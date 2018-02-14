@@ -1,3 +1,7 @@
+/** 
+ * GULP CONFIG
+ * Config file for gulpfile.js
+ */
 const config = {
     hugoArgsDefault: ['-d', '../dist', '-s', 'site', '-v'],
     hugoArgsPreview: ['--buildDrafts', '--buildFuture'],
@@ -19,6 +23,9 @@ const config = {
         html: {
             src: 'site/**/*'
         }
+    },
+    urls: {
+        localhost: 'https://hugo.dev'
     }
 }
 

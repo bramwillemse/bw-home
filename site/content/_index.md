@@ -1,7 +1,7 @@
 ---
 type: "page"
-title: "Home"
-description: "Bram Willemse - Developer of websites, driver of cars, runner of trails"
+title: "Bram Willemse"
+description: "Developer of websites, driver of cars, runner of trails. Bram is a senior front-end developer and interaction designer."
 ---
 
 # Bram Willemse
