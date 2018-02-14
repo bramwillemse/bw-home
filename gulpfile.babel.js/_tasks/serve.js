@@ -10,7 +10,7 @@ import watch from 'gulp-watch'
 // Task: Static Server
 gulp.task('serve', () => {
     browserSync.init({
-        host: "https://hugo.dev",
-        proxy: "https://hugo.dev"
+        host: 'https://hugo.dev',
+        proxy: 'https://hugo.dev'
     });
 });

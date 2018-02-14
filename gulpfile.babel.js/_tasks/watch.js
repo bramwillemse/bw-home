@@ -17,8 +17,7 @@ function watchTemplates() {
     gulp.watch([
         './site/**/*.{html,md}',
         '!.site/**/*.xml',
-        '!./site/public/**/*', 
-        '!./site/static/**/*'
+        '!./site/public/**/*'
         ]).on('change', gulp.series('hugo', reload))
 }
 

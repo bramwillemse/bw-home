@@ -1,7 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "My new Victor-Hugo site"
+DefaultContentLanguage = "en"
+title = "Bram Willemse"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 

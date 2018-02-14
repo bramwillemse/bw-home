@@ -8,7 +8,9 @@ import gulp from 'gulp';
 import { spawn } from 'child_process';
 import hugoBin from 'hugo-bin';
 import gutil from 'gulp-util';
-import browserSync from 'browser-sync';
+import BrowserSync from 'browser-sync';
+
+const browserSync = BrowserSync.create();
 
 /**
  * Run hugo and build the site

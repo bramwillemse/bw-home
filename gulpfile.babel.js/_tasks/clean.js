@@ -9,32 +9,37 @@ var gulp = require('gulp'),
 // Main task
 // Clean up all generated files
 gulp.task('clean', gulp.parallel(
-	cleanStyle,
+	cleanStyles,
 	cleanScripts, 
-    cleanStyleguide,
-    cleanHtml
+    cleanTemplates
 ))
 
 	// Sub-task: Clean up generated stylesheets
-	function cleanStyle() {
-		return gulp.src('./dist/css/*', { read: false })
-			.pipe(clean());
+	function cleanStyles() {
+		return gulp.src([
+            './site/static/css',
+            './site/public/css'    
+        ], { 
+            read: false,
+            allowEmpty: true 
+        })
+		.pipe(clean());
 	}
 
 	// Sub-task: Clean up generated scripts
 	function cleanScripts() {
-		return gulp.src('./dist/js/*', { read: false })
+		return gulp.src([
+            './site/static/js', 
+            './site/public/js'
+            ], { 
+                read: false,
+                allowEmpty: true
+            })
 			.pipe(clean());
 	}
 
-	// Sub-task: Clean up generated styleguide
-	function cleanStyleguide() {
-		return gulp.src('./dist/styleguide/*', { read: false })
-			.pipe(clean());
-	}
-
-    // Sub-task: Clean up generated styleguide
-    function cleanHtml() {
-        return gulp.src('./dist/html/*', { read: false })
+    // Sub-task: Clean up generated html
+    function cleanTemplates() {
+        return gulp.src('./site/public/**/*.{html,xml}', { read: false })
             .pipe(clean());
     }
