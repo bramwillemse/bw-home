@@ -11,6 +11,6 @@ slug: ""
 draft: false
 ---
 
-## Article one title
+## Article one titles
 
 Article one content

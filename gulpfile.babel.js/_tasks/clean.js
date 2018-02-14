@@ -18,7 +18,7 @@ gulp.task('clean', gulp.parallel(
 	function cleanStyles() {
 		return gulp.src([
             './site/static/css',
-            './site/public/css'    
+            './dist/css'    
         ], { 
             read: false,
             allowEmpty: true 
@@ -30,7 +30,7 @@ gulp.task('clean', gulp.parallel(
 	function cleanScripts() {
 		return gulp.src([
             './site/static/js', 
-            './site/public/js'
+            './dist/js'
             ], { 
                 read: false,
                 allowEmpty: true
@@ -40,6 +40,6 @@ gulp.task('clean', gulp.parallel(
 
     // Sub-task: Clean up generated html
     function cleanTemplates() {
-        return gulp.src('./site/public/**/*.{html,xml}', { read: false })
+        return gulp.src('./dist/**/*.{html,xml}', { read: false })
             .pipe(clean());
     }
