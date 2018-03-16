@@ -6,11 +6,10 @@
  * [2.2] Preview build - also shows drafts
  * [2] A build function that accepts arguments
  */
-import config from '../../gulp-config'
+import config from '../../config'
 import gulp from 'gulp'
 import { spawn } from 'child_process'
 import hugoBin from 'hugo-bin'
-import gutil from 'gulp-util'
 import BrowserSync from 'browser-sync'
 
 const browserSync = BrowserSync.create()

@@ -1,16 +1,6 @@
-import './_module'
-import './_timeline'
 
-console.log('main, yeah!')
-
-if(bla) {
-    document.write('bla')
-} else {
-    document.write('not bla')
+const jeFunctie = () => {
+    console.log('Herro Wolrd!!!')
 }
 
-const jeMoeder = () => {
-    console.log('jeMoeder')
-}
-
-jeMoeder();
+jeFunctie()

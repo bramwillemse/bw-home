@@ -3,7 +3,7 @@
  * Convert ES6 ode in all js files in src/js folder and copy to
  * build folder as bundle.js
  */
-import config from '../../gulp-config.js'
+import config from '../../config.js'
 import gulp from 'gulp'
 import browserify from 'browserify'
 import source from 'vinyl-source-stream'
@@ -18,13 +18,12 @@ import browserSync from 'browser-sync'
 /** 
  * SCRIPTS: LINT SCRIPTS
  */
-gulp.task('scripts:lint', function() {
+const scriptsLint = () => {
     return gulp.src(config.paths.js.src)
-    .pipe(eslint())
-})
+        .pipe(eslint())
+}
 
-gulp.task('scripts', gulp.parallel('scripts:lint'), function(){
-    console.log('scripts fired!')
+const scriptsCompile = () => {
     return browserify({
             entries: config.paths.js.srcMain, 
             debug: true 
@@ -41,4 +40,6 @@ gulp.task('scripts', gulp.parallel('scripts:lint'), function(){
         .pipe(sourcemaps.write('./'))
         .pipe(gulp.dest(config.paths.js.dest))
         .pipe(browserSync.reload({stream:true}))
-})
+}
+
+gulp.task('scripts', gulp.series(scriptsLint, scriptsCompile))
