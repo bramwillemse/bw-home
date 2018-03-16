@@ -1,7 +1,13 @@
 {{ partial "header" . }}
 
-<p>
-    {{.Content }}
-</p>
+<section class="l-grid">
+    <article class="article">
+        <header>
+            <h1>{{ .Title }}</h1>
+        </header>
+
+        {{.Content }}
+    </article>
+</section>
 
 {{ partial "footer" . }}

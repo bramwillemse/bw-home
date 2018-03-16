@@ -8,3 +8,9 @@ if(bla) {
 } else {
     document.write('not bla')
 }
+
+const jeMoeder = () => {
+    console.log('jeMoeder')
+}
+
+jeMoeder();

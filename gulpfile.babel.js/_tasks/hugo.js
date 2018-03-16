@@ -20,9 +20,9 @@ gulp.task('hugo', (cb) => buildSite(cb)) // [1.1]
 gulp.task('hugo-preview', (cb) => buildSite(cb, config.hugoArgsPreview)) // [1.2]
 
 /**
- * Run hugo and build the site
+ * [2] Run hugo and build the site
  */
-function buildSite(cb, options, environment = 'development') {
+function buildSite(cb, options, environment = 'development') { // [2]
     const args = options ? config.hugoArgsDefault.concat(options) : config.hugoArgsDefault
 
     process.env.NODE_ENV = environment

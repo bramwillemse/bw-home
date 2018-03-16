@@ -1,8 +1,8 @@
 ---
-title: "Article One"
+title: "Article Three"
 type: "articles"
 author: "Bram Willemse"
-date: 2018-02-13T15:48:05+01:00
+date: 2018-02-14T12:48:05+01:00
 description: ""
 summary: "This is a summary of an article. Very interesting indeed."
 resources: []

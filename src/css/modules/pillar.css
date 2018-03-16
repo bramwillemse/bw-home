@@ -4,6 +4,8 @@
  */
 .pillar { grid-column: span 4; }
 
+.pillar h1 { margin-bottom:  0; }
+
 @media ( --br-s ) {
     .pillar { grid-column: span 2;  }
 }
@@ -33,12 +35,12 @@
     margin: 0 auto;
 }
 
-
 /* PILLAR: IMAGE */
 @media ( --br-xs ) {
     .pillar--developer .pillar__image { padding-top: 10px; }
     .pillar--driver .pillar__image { padding-top: 15px; }
 }
+
 
 /* PILLAR: TITLE */
 .pillar__title {

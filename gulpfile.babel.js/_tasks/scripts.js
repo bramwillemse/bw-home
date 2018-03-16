@@ -23,7 +23,8 @@ gulp.task('scripts:lint', function() {
     .pipe(eslint())
 })
 
-gulp.task('scripts', gulp.parallel('scripts:lint'), function(){ 
+gulp.task('scripts', gulp.parallel('scripts:lint'), function(){
+    console.log('scripts fired!')
     return browserify({
             entries: config.paths.js.srcMain, 
             debug: true 

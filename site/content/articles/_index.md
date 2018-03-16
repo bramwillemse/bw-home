@@ -6,7 +6,6 @@ slug: ""
 draft: false
 ---
 
-
 # Articles
 
-List of articles
+When I'm enthusiastic enough about something I'm working on, I tend to start writing..
