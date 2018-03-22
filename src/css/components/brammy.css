@@ -1,0 +1,86 @@
+/** 
+ * Brammy
+ * All about Bram and his mad skills
+ */
+.brammy { /* Start with 4 columns */
+    display: grid;
+    grid-template-columns: [col1-start] 1fr [col1-end col2-start] 1fr [col2-end col3-start] 1fr [col3-end col4-start] 1fr [col4-end];
+    grid-gap: var(--xl);
+    margin: var(--xl);
+}
+
+@media ( --br-s ) {
+    .brammy { 
+        grid-gap: var(--xl);
+        margin: var(--xl); 
+    }
+}
+
+@media ( --br-m ) {
+    .brammy { /* Change to 3 columns */
+        grid-template-columns: [col1-start] 1fr [col2-start] 1fr [col3-start] 1fr [col3-end];
+        grid-gap: var(--xxl);
+        margin: var(--xxl);
+    }
+}
+
+@media ( --br-l ) {
+    .brammy { grid-gap: var(--xxl); }
+}
+
+/** 
+ * ONE MAD SKILL
+ * Exclusive to Bram.
+ */
+.brammy__skill { 
+    grid-column: span 4;
+}
+
+.brammy__skill h1 { margin-bottom: 0; }
+
+@media ( --br-s ) {
+    .brammy__skill { grid-column: span 2;  }
+}
+
+@media ( --br-m ) {
+    .brammy__skill { grid-column: span 1; }
+}
+
+/* BRAMMY HEADER */ 
+@media ( --br-m ) {
+    .brammy__header { 
+        grid-column: span 3 !important;
+        display: flex;
+        flex-direction: column;
+
+        text-align: center;
+    }
+}
+
+/* BRAMMY HEADER: PORTRAIT */
+.brammy__header-portrait { margin-bottom: 0; }
+.brammy__header-portrait img { height: 46px; }
+
+/* BRAMMY HEADER: TEXT */
+.brammy__header-intro {
+    max-width: 45ch;
+    margin: 0 auto;
+}
+
+/* BRAMMY: IMAGE */
+@media ( --br-xs ) {
+    .brammy__developer .brammy__image { padding-top: 10px; }
+    .brammy__driver .brammy__image { padding-top: 15px; }
+}
+
+
+/* BRAMMY: TITLE */
+.brammy__title {
+    font-weight: 600;
+}
+
+
+/* brammy: TEXT */
+.brammy__text { 
+    max-width: 60ch;
+}
