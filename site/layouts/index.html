@@ -6,10 +6,12 @@
         <p class="brammy__header-intro">I have an analytical mind. I naturally connect dots and people. I am eager to learn, eager to lead and an ambassador to your users.</p>
     </header>
 
-    {{ $type := "header" }}
-    {{ $title := "This is a title." }}
-    {{ $text := "This is a text. This is a text. This is a text." }}
-    {{ partial "components/skill" (dict "type" $type "title" $title "text" $text ) }}
+    {{/*
+        {{ $type := "header" }}
+        {{ $title := "This is a title." }}
+        {{ $text := "This is a text. This is a text. This is a text." }}
+        {{ partial "components/skill" (dict "type" $type "title" $title "text" $text ) }}
+    */}}
 
     {{ .Content }}
 </main>

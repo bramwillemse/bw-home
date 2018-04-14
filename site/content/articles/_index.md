@@ -1,11 +1,11 @@
 ---
-title: "Article One"
+title: "Articles by Bram Willemse"
 type: "articles"
-description: ""
+description: "An overview of articles written by Bram Willemse."
 slug: ""
 draft: false
 ---
 
 # Articles
 
-When I'm enthusiastic enough about something I'm working on, I tend to start writing..
+When I get enthused, I might occasionally write about it. 

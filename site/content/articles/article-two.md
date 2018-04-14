@@ -3,7 +3,7 @@ title: "Article Two"
 type: "articles"
 author: "Bram Willemse"
 date: 2018-02-13T18:48:05+01:00
-description: ""
+description: "Description"
 summary: "This is a summary of an article. Very interesting indeed."
 resources: []
 categories: []

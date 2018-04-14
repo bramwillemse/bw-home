@@ -1,11 +1,11 @@
 {{ partial "header" . }}
 
-<section class="l-grid">
+<section class="articles">
     <div>
         {{.Content}}
     </div>
 
-    <section class="articles">
+    <section class="articles__list">
         {{ range first 10 .Data.Pages }}
             {{ if eq .Type "articles" }}
                 <article class="article">
@@ -18,7 +18,7 @@
                     {{ .Summary }}
                     
                     <a class="button" href="{{ .Permalink }}">
-                        I want to read this
+                        Let me read this
                     </a>
                 </article>
             {{ end }}
