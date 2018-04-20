@@ -3,7 +3,7 @@
  * The site's main footer module
  */
 .site-footer {
-    padding: var(--xl);
+    padding: 0 var(--xl) var(--xl);
 }
 
 /* UNORDERED LISTS */
@@ -28,6 +28,6 @@
 @media ( --br-m ) {
     .site-footer { 
         grid-column: span 3;
-        padding: var(--xxl);
+        padding: 0 var(--xxl) var(--xxl);
     }
 }
