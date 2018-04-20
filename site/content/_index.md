@@ -5,7 +5,7 @@ description: "Developer of websites, driver of cars, runner of trails. Bram is a
 ---
 
 <figure class="brammy__skill brammy__image">
-    <img src="/img/bram-willemse.jpg" alt="A photo of Bram Willemse smiling out loud.">
+    <img src="/img/bram-willemse.jpg" alt="A photo of Bram Willemse smiling out loud." width="762" height="763">
 </figure>
 
 <header class="brammy__skill brammy__header">
