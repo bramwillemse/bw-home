@@ -2,7 +2,7 @@
  * IMAGES
  * Optimise gif, jpg, png and svg files
  */
-import config from '../../gulp-config.js'
+import config from '../../config'
 import gulp from 'gulp'
 import imagemin from 'gulp-imagemin'
 

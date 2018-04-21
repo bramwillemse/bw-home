@@ -1,9 +1,14 @@
 {{ partial "header" . }}
 
-<h1>{{.Title}}</h1>
+<main class="brammy">
+    {{/*
+        {{ $type := "header" }}
+        {{ $title := "This is a title." }}
+        {{ $text := "This is a text. This is a text. This is a text." }}
+        {{ partial "components/skill" (dict "type" $type "title" $title "text" $text ) }}
+    */}}
 
-<p>
-    {{.Content }}
-</p>
+    {{ .Content }}
+</main>
 
 {{ partial "footer" . }}

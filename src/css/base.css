@@ -2,17 +2,16 @@
  * BASE
  * Styling of base elements
  */
+
+/** 
+ * HTML + scaling base font size system
+ * The scaling font is used to scale all contents based on screen size, using rem
+ * as the standard sizing unit.
+ * 
+ * Read more about this method:
+ */ 
 html {
-    font-family: -apple-system,
-        BlinkMacSystemFont,
-        "Segoe UI",
-        Roboto,
-        Helvetica,
-        Arial,
-        sans-serif,
-        "Apple Color Emoji",
-        "Segoe UI Emoji",
-        "Segoe UI Symbol";
+    font-family: "Overpass", sans-serif;
     font-size: 16px;
     font-weight: 300;
     line-height: 1.6;
@@ -47,7 +46,6 @@ h1,
 
     font-size: var(--regular);
     font-weight: 600;
-    line-height: 1;
 }
 
 h2,
@@ -67,9 +65,8 @@ h3,
 }
 
 
-p { 
-    margin: 0 0 var(--regular);
-}
+p { margin: 0 0 var(--regular); }
+p:last-child { margin: 0; }
 
 
 /* DEFINITION LISTS */
@@ -95,9 +92,16 @@ dd { margin: 0 0 var(--regular); }
 }
 
 
+/* FIGURE */
+figure {
+    margin: 0;
+}
+
 /* IMAGE */
-img { 
+img {
+    display: block;
     max-width: 100%;
+    height: auto;
 }
 
 

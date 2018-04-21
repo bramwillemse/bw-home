@@ -1,0 +1,68 @@
+/** 
+ * Brammy
+ * All about Bram and his mad skills
+ */
+.brammy { /* Start with 4 columns */
+    display: grid;
+    align-items: start;
+    grid-template-columns: [col1-start] 1fr [col1-end col2-start] 1fr [col2-end col3-start] 1fr [col3-end col4-start] 1fr [col4-end];
+    grid-gap: var(--xl);
+    margin: var(--xl);
+}
+
+@media ( --br-s ) {
+    .brammy { 
+        grid-gap: var(--xl);
+        margin: var(--xl); 
+    }
+}
+
+@media ( --br-l ) {
+    .brammy { /* Change to 3 columns */
+        grid-template-columns: [col1-start] 1fr [col2-start] 1fr [col3-start] 1fr [col3-end];
+        grid-gap: var(--xl);
+        grid-template-rows: auto auto;
+        margin: var(--xxl);
+    }
+}
+
+@media ( --br-xl ) {
+    .brammy { grid-gap: var(--xxl); }
+}
+
+/** 
+ * ONE MAD SKILL
+ * Exclusive to Bram.
+ */
+.brammy__skill {
+    grid-column: span 4;
+}
+
+.brammy__skill h1 { margin-bottom: 0; }
+
+.brammy__image img {
+    width: 10rem;
+}
+
+@media ( --br-s ) {
+    .brammy__skill { grid-column: span 2; }
+    .brammy__image { 
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-start;
+        grid-column: ;
+    }
+    .brammy__image img { width: 10rem; }
+}
+
+@media ( --br-l ) {
+    .brammy__skill {
+        grid-column: span 1;
+        grid-row: 2 / 4;
+    }
+    .brammy__image { 
+        grid-row: 1 / 2;
+    }
+    .brammy__image img { width: 10rem; }
+    .brammy__header { grid-row: 1 / 2; }
+}

@@ -4,11 +4,8 @@
 /* BASE */
 @import "base.css";
 
-/* LAYOUT */
-@import "layout/l-grid.css";
-
 /* MODULES */
-@import "modules/article.css";
-@import "modules/pillar.css";
-@import "modules/site-header.css";
-@import "modules/site-footer.css";
+@import "components/article.css";
+@import "components/brammy.css";
+@import "components/site-header.css";
+@import "components/site-footer.css";

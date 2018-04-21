@@ -6,10 +6,25 @@ import gulp from 'gulp'
 import clean from 'gulp-rimraf'
 
 gulp.task('clean', gulp.parallel(
-	cleanStyles,
+	cleanImages,
+    cleanStyles,
 	cleanScripts, 
     cleanTemplates
 ))
+
+
+/**
+ * CLEAN: IMAGES
+ * Cleans compiled / optimised images
+ */
+function cleanImages() {
+    return gulp.src('./dist/img', 
+        { 
+            read: false, 
+            allowEmpty: true 
+        })
+        .pipe(clean());
+}
 
 /**
  * CLEAN: STYLES
