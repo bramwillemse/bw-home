@@ -32,11 +32,11 @@ Het is een app van Nederlandse makelij en doet precies wat ik wil.
 
 Dialogue is handsfree bellen op je Mac. Je koppelt je iPhone via bluetooth en vervolgens kun je via je Macbook bellen en gebeld worden. Simple as that!
 
-<img class="alignright size-full wp-image-4789" src="https://bramwillemse.nl/app/uploads/2014/04/0-headerimage.png" alt="Dialogue - Handsfree bellen op je Mac" width="940" height="500" />
+<img class="alignright size-full wp-image-4789" src="http://blog.bramwillemse.nl/app/uploads/2014/04/0-headerimage.png" alt="Dialogue - Handsfree bellen op je Mac" width="940" height="500" />
 
 ## Wat Dialogue goed doet
 
-<img class="alignright  wp-image-4791" src="https://bramwillemse.nl/app/uploads/2014/04/2-integration.png" alt="Dialogue - Zoekinterface" width="286" height="218" />De kracht van deze app ligt in hoe simpel het is. Het bestaat alleen uit een zoekveld waarmee in je contacten kunt zoeken en een popup waarin je kunt opnemen, ophangen én opnemen. Eh, ja opnemen als in een audio opname van een gesprek maken.
+<img class="alignright  wp-image-4791" src="http://blog.bramwillemse.nl/app/uploads/2014/04/2-integration.png" alt="Dialogue - Zoekinterface" width="286" height="218" />De kracht van deze app ligt in hoe simpel het is. Het bestaat alleen uit een zoekveld waarmee in je contacten kunt zoeken en een popup waarin je kunt opnemen, ophangen én opnemen. Eh, ja opnemen als in een audio opname van een gesprek maken.
 
 Dat laatste heb ik nog niet kunnen testen, gezien dit niet meer samen gaat met Mavericks. Zodra dat mogelijk is update ik dit artikel.
 
@@ -46,19 +46,10 @@ Verder werkt het niet alleen met je iPhone, maar Android- en zelfs Windows Phone
 
 ## Wat Dialogue minder doet
 
-De audio is niet om over naar huis te schrijven. Mijn eerste gesprek was vooral aan de andere kant niet goed te horen. Na enkele tips van de developer werd dit al wat beter, maar beter dan een carkit wordt het niet.<figure class="box box-tweet"> 
+De audio is niet om over naar huis te schrijven. Mijn eerste gesprek was vooral aan de andere kant niet goed te horen. Na enkele tips van de developer werd dit al wat beter, maar beter dan een carkit wordt het niet.
 
-<blockquote class="twitter-tweet" width="500">
-  <p>
-    <a href="https://twitter.com/bramwillemse">@bramwillemse</a> het is ook het beste om omgevingsgeluid NIET te onderdrukken (wordt hapering van)
-  </p>
-  
-  <p>
-    &mdash; Emiel Janson (@emieljanson) <a href="https://twitter.com/emieljanson/statuses/461424627282350080">April 30, 2014</a>
-  </p>
-</blockquote>
-
-</figure> 
+><a href="https://twitter.com/bramwillemse">@bramwillemse</a> het is ook het beste om omgevingsgeluid NIET te onderdrukken (wordt hapering van)
+>&mdash; Emiel Janson (@emieljanson) <a href="https://twitter.com/emieljanson/statuses/461424627282350080">April 30, 2014</a>
 
 ## Waarom Dialogue er toe doet
 
