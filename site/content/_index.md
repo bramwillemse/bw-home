@@ -1,21 +1,18 @@
 ---
 type: "page"
 title: "Bram Willemse"
-description: "Developer of websites, driver of cars, runner of trails. Bram is a senior front-end developer and interaction designer."
+description: "Bram Willemse is a freelance senior front-end developer and interaction designer."
 ---
 
-<figure class="brammy__skill brammy__image">
-    <img src="/img/bram-willemse.jpg" alt="A photo of Bram Willemse smiling out loud." width="762" height="763">
-</figure>
-
 <header class="brammy__skill brammy__header">
+    <img class="brammy__image" src="/img/bram-willemse.jpg" alt="A photo of Bram Willemse smiling out loud." width="762" height="763">
     <h1>Hi, my name is Bram.</h1>
     <p>I have an analytical mind. I naturally connect dots and people. I am eager to learn, eager to lead and an ambassador to your users.</p>
 </header>
 
 <article class="brammy__skill">
     <h1>Developer of Websites</h1>
-    <p>I am a senior front-end developer and interaction designer, focusing on web standards, architecture and design systems.</p>
+    <p>I am a senior front-end developer and interaction designer, focusing on web standards, accessibility and architecture.</p>
 </article>
 
 <article class="brammy__skill">
