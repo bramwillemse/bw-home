@@ -25,7 +25,7 @@ const config = {
         }
     },
     urls: {
-        localhost: 'https://hugo.dev'
+        localhost: 'https://bramwillemse.dev'
     }
 }
 
