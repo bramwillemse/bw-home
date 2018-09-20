@@ -28,7 +28,7 @@ const scriptsCompile = () => {
             entries: config.paths.js.srcMain, 
             debug: true 
         })
-        .transform('babelify', { presets: ['env'] })
+        .transform('babelify')
         .bundle()
         .pipe(source('main.js'))
         .pipe(buffer())

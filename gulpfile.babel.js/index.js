@@ -2,9 +2,11 @@
  * MAIN GULPFILE.JS
  * [1.1] Include all tasks
  * [1.2] And one specific function for Hugo build
+ * 
  * [2] Set build tasks:
  * [2.1] Production build
- * [2.2] Preview build - also builds drafts 
+ * [2.2] Preview build - also builds drafts
+ *
  * [3] Set default gulp task 
  */
 import config from '../config'
