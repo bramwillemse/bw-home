@@ -15,10 +15,10 @@
         "lint": "eslint src"
     },
     "dependencies": {
-        "babel-cli": "^6.26.0",
-        "babel-preset-env": "^1.6.1",
-        "babel-register": "^6.26.0",
-        "babelify": "*",
+        "@babel/core": "^7.1.0",
+        "@babel/preset-env": "^7.1.0",
+        "@babel/register": "^7.0.0",
+        "babelify": "^10.0.0",
         "browser-sync": "^2.23.6",
         "browserify": "*",
         "gulp": "^4.0.0",
@@ -31,7 +31,6 @@
         "gulp-sourcemaps": "^2.6.4",
         "gulp-uglify": "^3.0.0",
         "hugo-bin": "^0.22.0",
-        "npm": "^5.7.1",
         "postcss": "^6.0.17",
         "postcss-cssnext": "*",
         "postcss-custom-media": "*",
@@ -40,8 +39,8 @@
         "require-dir": "^1.0.0",
         "stylelint": "*",
         "stylelint-order": "*",
-        "vinyl-buffer": "*",
-        "vinyl-source-stream": "*"
+        "vinyl-buffer": "^1.0.1",
+        "vinyl-source-stream": "^2.0.0"
     },
     "version": "1.0.0",
     "description": "Blog and website for Bram Willemse",
