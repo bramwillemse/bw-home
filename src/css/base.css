@@ -11,11 +11,12 @@
  * Read more about this method:
  */ 
 html {
-    font-family: "Overpass", sans-serif;
+    font-family: Overpass, sans-serif;
     font-size: 16px;
     font-weight: 300;
     line-height: 1.6;
 }
+
 @media screen and (min-width: 20rem) {
     html { font-size: 18px; }
 }
