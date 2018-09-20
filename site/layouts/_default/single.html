@@ -1,11 +1,15 @@
+{{- /* Article */ -}}
+
 {{ partial "header" . }}
 
-<article class="article">
-    <header>
-        <h1>{{ .Title }}</h1>
-    </header>
+<main>
+    <article class="article">
+        <header>
+            <h1>{{ .Title }}</h1>
+        </header>
 
-    {{.Content }}
-</article>
+        {{ .Content }}
+    </article>
+</main>
 
 {{ partial "footer" . }}
