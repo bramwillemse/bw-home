@@ -1,6 +1,6 @@
 /** 
  * Brammy
- * All about Bram and his mad skills
+ * All about Bram and his mad cards
  */
 .brammy { /* Start with 4 columns */
     display: grid;
@@ -31,10 +31,10 @@
 }
 
 /** 
- * ONE MAD SKILL
- * Exclusive to Bram.
+ * A singular card
+ * Describing something about Brammy.
  */
-.brammy__skill {
+.brammy__card {
     grid-column: span 4;
 }
 
@@ -42,11 +42,11 @@
     width: 3.3rem;
     margin-bottom: .3rem;
 }
-.brammy__skill h1 { margin-bottom: 0; }
+.brammy__card h1 { margin-bottom: 0; }
 
 @media ( --br-s ) {
-    .brammy__skill { grid-column: span 2; }
-    .brammy__skill:nth-child(2) { margin-top: 3.6rem; } /* correct image space */
+    .brammy__card { grid-column: span 2; }
+    .brammy__card:nth-child(2) { margin-top: 3.6rem; } /* correct image space */
     .brammy__image { 
         display: flex;
         justify-content: flex-end;
@@ -55,10 +55,10 @@
 }
 
 @media ( --br-l ) {
-    .brammy__skill {
+    .brammy__card {
         grid-column: span 1;
         grid-row: 2 / 4;
     }
-    .brammy__skill:nth-child(2) { margin-top: 0; } /* correct image space */
+    .brammy__card:nth-child(2) { margin-top: 0; } /* correct image space */
     .brammy__header { grid-row: 1 / 2; }
 }
