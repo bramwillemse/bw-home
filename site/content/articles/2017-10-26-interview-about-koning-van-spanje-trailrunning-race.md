@@ -1,20 +1,18 @@
 ---
-title: Interview about Koning van Spanje trailrunning race
-author: bram
 type: articles
 date: 2017-10-26T12:27:19+00:00
+title: Interview about Koning van Spanje trailrunning race
+introduction: We have triathletes, cyclists and Bram Willemse. Apparently he only runs! But he does mix up the Vondelpark with trailrunning. Which is something you can actually do in the Netherlands like he will explain. Bram went to Gulpen, Limburg to do the Koning van Spanje (KvS) trailrun.
 url: /interview-about-koning-van-spanje-trailrunning-race/
 featured_image: http://blog.bramwillemse.nl/app/uploads/2017/10/sportograf-95152348.jpg
+author: bram
 dsq_thread_id:
   - 6242794859
 categories:
   - Trailrunning
 
----
-<p class="lead">
-  We have triathletes, cyclists and Bram Willemse. Apparently he only runs! But he does mix up the Vondelpark with trailrunning. Which is something you can actually do in the Netherlands like he will explain. Bram went to Gulpen, Limburg to do the Koning van Spanje (KvS) trailrun.
-</p>
 
+---
 _This is an interview conducted with me, by [my training buddies of ATAC (Amsterdam Triathlon And Cycling) Club][1]. It was published in their monthly newsletter._
 
 Southern Limburg is the most hilly part of the Netherlands which most of us already know through cycling. It&#8217;s also a beautiful and demanding region for the KvS. This year there were 2 Atac members present. Brian Gibson did the 32k event on Saterday, Bram did the 42k on Sunday. Some real amateurs/masochists did both. The 42k was also the Dutch Championships trailrunning.<!--more-->

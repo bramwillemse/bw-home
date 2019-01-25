@@ -1,0 +1,8 @@
+{{ if .Params.featured_image }}
+    <figure class="m-visual-banner">
+        <img class="visual-banner__image" src="{{ .Params.featured_image }}" alt="{{ .Params.feature_image_label }}">
+        {{ if .Params.feature_image_label }}
+            <figcaption>{{ .Params.feature_image_label }}</figcaption>
+        {{ end }}
+    </figure>
+{{ end }}
