@@ -134,3 +134,7 @@ blockquote:before {
 blockquote:after {
     content: "</quote>";
 }
+
+date { 
+    font-style: italic;
+}

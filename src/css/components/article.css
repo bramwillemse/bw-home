@@ -3,11 +3,12 @@
  * A blog post or content page
  */
 .article {
+    max-width: 56ch;
     margin-bottom: var(--xxl);   
 }
 
 .article__header {
-    margin-bottom: var(--regular);
+    margin-bottom: var(--spacing-l);
 }
 
 .article__header h1 {

@@ -4,8 +4,13 @@
 /* BASE */
 @import "base.css";
 
-/* MODULES */
+/* COMPONENTS */
+@import "components/site-header.css";
+@import "components/site-main.css";
+@import "components/site-footer.css";
+
 @import "components/article.css";
 @import "components/brammy.css";
-@import "components/site-header.css";
-@import "components/site-footer.css";
+@import "components/introduction.css";
+
+/* UTILITIES */

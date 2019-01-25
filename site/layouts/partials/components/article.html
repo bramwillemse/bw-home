@@ -1,0 +1,9 @@
+<article class="article">
+    <header class="article__header">
+        <h1>{{ .Title }}</h1>
+        <date>{{ .Date.Format "Monday, January 2, 2006" }}</date>
+        <p class="introduction">{{ .Params.introduction }}</p>
+    </header>
+
+    {{ .Content }}
+</article>

@@ -1,15 +1,7 @@
-{{- /* Article */ -}}
-
 {{ partial "header" . }}
 
-<main>
-    <article class="article">
-        <header>
-            <h1>{{ .Title }}</h1>
-        </header>
-
-        {{ .Content }}
-    </article>
+<main class="site-main">
+    {{ partial "components/article" . }}
 </main>
 
 {{ partial "footer" . }}
