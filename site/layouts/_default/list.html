@@ -1,6 +1,6 @@
 {{ partial "header" . }}
 
-<section class="articles">
+<main class="c-articles">
     <div>
         {{.Content}}
     </div>
@@ -16,14 +16,14 @@
                     </h1>
 
                     {{ .Summary }}
-                    
-                    <a class="button" href="{{ .Permalink }}">
+
+                    <a class="a-button" href="{{ .Permalink }}">
                         Let me read this
                     </a>
                 </article>
             {{ end }}
         {{ end }}
     </section>
-</section>
+</main>
 
 {{ partial "footer" . }}

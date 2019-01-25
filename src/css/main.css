@@ -1,8 +1,19 @@
 /* SETTINGS */
-@import "settings.css";
+@import "_settings/breakpoints.css";
+@import "_settings/colors.css";
+@import "_settings/sizes.css";
+@import "_settings/spacing.css";
 
 /* BASE */
 @import "base.css";
+
+/* ATOMS */
+@import "atoms/date.css";
+@import "atoms/introduction.css";
+
+/* MOLECULES */
+@import "molecules/article-header.css";
+@import "molecules/header-visual.css";
 
 /* COMPONENTS */
 @import "components/site-header.css";
@@ -11,6 +22,5 @@
 
 @import "components/article.css";
 @import "components/brammy.css";
-@import "components/introduction.css";
 
 /* UTILITIES */

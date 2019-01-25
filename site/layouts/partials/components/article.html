@@ -1,9 +1,11 @@
-<article class="article">
-    <header class="article__header">
-        <h1>{{ .Title }}</h1>
-        <date>{{ .Date.Format "Monday, January 2, 2006" }}</date>
-        <p class="introduction">{{ .Params.introduction }}</p>
-    </header>
+<article class="c-article">
+    {{ partial "molecules/article-header" . }}
 
-    {{ .Content }}
+    <section class="article__content">
+        {{ .Content }}
+    </section>
+
+    <footer class="c-article__footer">
+        {# Add related content or other click through material #}
+    </footer>
 </article>

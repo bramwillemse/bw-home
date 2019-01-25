@@ -1,10 +1,1 @@
-.site-main {
-    padding: 0 var(--xl) var(--xl);    
-}
-
-@media ( --br-m ) {
-    .site-main { 
-        grid-column: span 3;
-        padding: 0 var(--xxl) var(--xxl);
-    }
-}
+/* .c-site-main {} */

@@ -2,31 +2,31 @@
  * Site footer
  * The site's main footer module
  */
-.site-footer {
+.c-site-footer {
     padding: 0 var(--xl) var(--xl);
 }
 
 /* UNORDERED LISTS */
-.site-footer ul { 
+.c-site-footer ul {
     display: block;
     margin: 0 0 var(--l);
 
     padding: 0;
 }
 
-.site-footer li { 
+.c-site-footer li {
     display: block;
     margin: 0 var(--regular) var(--regular) 0;
     list-style: none;
 }
 
 @media ( --br-s ) {
-    .site-footer ul { margin-bottom: 0; }
-    .site-footer li { display: inline-block; }
+    .c-site-footer ul { margin-bottom: 0; }
+    .c-site-footer li { display: inline-block; }
 }
 
 @media ( --br-m ) {
-    .site-footer { 
+    .c-site-footer {
         grid-column: span 3;
         padding: 0 var(--xxl) var(--xxl);
     }

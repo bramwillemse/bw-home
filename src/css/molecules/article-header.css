@@ -1,0 +1,11 @@
+.m-article-header {
+    margin-bottom: var(--spacing-l);
+}
+
+.m-article-header h1 {
+    margin-bottom: 0;
+}
+
+.article-header__date {
+    margin-bottom: var(--spacing);
+}
