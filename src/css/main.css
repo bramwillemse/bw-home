@@ -13,7 +13,7 @@
 
 /* MOLECULES */
 @import "molecules/article-header.css";
-@import "molecules/header-visual.css";
+@import "molecules/visual-banner.css";
 
 /* COMPONENTS */
 @import "components/site-header.css";

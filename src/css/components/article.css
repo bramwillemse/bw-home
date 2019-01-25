@@ -5,3 +5,15 @@
 .c-article {
     margin-bottom: var(--xxl);
 }
+
+.article__content {
+    background-color: var(--white);
+    padding: var(--s) var(--s) var(--xl);
+}
+
+@media ( --br-m ) {
+    .article__content {
+        grid-column: span 3;
+        padding: var(--xxl) var(--xxl) var(--xxl);
+    }
+}
