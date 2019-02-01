@@ -110,11 +110,11 @@ img {
 
 /* ANCHOR */
 a {
-    color: var(--blue-50);
+    color: var(--blue);
     text-decoration: none;
 
     padding-bottom: .1rem;
-    border-bottom: 2px solid var(--blue-50);
+    border-bottom: 2px solid var(--blue);
 }
 
 

@@ -1,9 +1,15 @@
+{{ $type := "back" }}
+{{ $url := "http://www.google.com" }}
+{{ $text := "Back to articles overview" }}
+
 <article class="c-article">
-    {{ partial "molecules/visual-banner.html" . }}
+    {{ partial "molecules/visual-banner" . }}
+
+    {{ partial "atoms/button" (dict "type" $type "url" $url "text" $text) }}
 
     {{ partial "molecules/article-header" . }}
 
-    <section class="article__content">
+    <section class="m-content-block">
         {{ .Content }}
     </section>
 

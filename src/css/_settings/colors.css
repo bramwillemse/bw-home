@@ -1,8 +1,14 @@
 /* COLORS */
 :root {
-    --blue-50: #006C90;
-    --yellow-50: #FFFF00;
+    /* Brand pallette */
+    --blue: #006C90;
+    --yellow: #FFFF00;
+
     --white: #FFF;
+
+    /* Greys pallette */
+    --grey-90: #888;
+    --grey-80: #666;
     --grey-50: #CCC;
-    --grey-10: #f9f9f9;
+    --grey-10: #F9F9F9;
 }

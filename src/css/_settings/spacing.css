@@ -2,7 +2,7 @@
 :root{
     --spacing-xs: .5rem;
     --spacing-s: 1rem;
-    --spacing: 2rem;
+    --spacing-m: 2rem;
     --spacing-l: 3rem;
     --spacing-xl: 4rem;
 }

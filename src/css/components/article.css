@@ -6,14 +6,19 @@
     margin-bottom: var(--xxl);
 }
 
-.article__content {
+.m-content-block {
+    max-width: 56ch;
+    margin: 0 var(--spacing-xs) var(--spacing-l);
+
     background-color: var(--white);
-    padding: var(--s) var(--s) var(--xl);
+    padding: 0 var(--s) var(--xl);
 }
 
 @media ( --br-m ) {
-    .article__content {
+    .m-content-block {
         grid-column: span 3;
-        padding: var(--xxl) var(--xxl) var(--xxl);
+        margin: 0 var(--xl) var(--spacing-xl);
+
+        padding: var(--xl) var(--xl) var(--xxl);
     }
 }
