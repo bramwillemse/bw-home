@@ -1,15 +1,9 @@
-/** 
+/**
  * ARTICLE
  * A blog post or content page
  */
-.article {
-    margin-bottom: var(--xxl);   
-}
-
-.article__header {
-    margin-bottom: var(--regular);
-}
-
-.article__header h1 {
-    margin-bottom: 0;
+.c-article {
+    position: relative;
+    z-index: var(--z-content);
+    margin-bottom: var(--xxl);
 }

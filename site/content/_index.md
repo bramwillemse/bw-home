@@ -11,7 +11,7 @@ description: "Bram Willemse is a freelance senior front-end developer and intera
 </header>
 
 <article class="brammy__card">
-    <h1>Developer of Websites</h1>
+    <h1>Developer of websites</h1>
     <p>I am a senior front-end developer and interaction designer, focusing on web standards, accessibility and architecture.</p>
 </article>
 

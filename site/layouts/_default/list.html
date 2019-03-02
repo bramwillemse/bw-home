@@ -1,14 +1,23 @@
+{{ $type := "back" }}
+{{ $url := "/" }}
+{{ $text := "Back to homepage" }}
+
 {{ partial "header" . }}
 
-<section class="articles">
-    <div>
+<main class="c-articles">
+    <nav class="m-article-navigation o-content-block content-block--transparent">
+        {{ partial "atoms/button" (dict "type" $type "url" $url "text" $text) }}
+    </nav>
+
+
+    <div class="o-content-block content-block--transparent">
         {{.Content}}
     </div>
 
     <section class="articles__list">
         {{ range first 10 .Data.Pages }}
             {{ if eq .Type "articles" }}
-                <article class="article">
+                <article class="article o-content-block">
                     <h1>
                         <a href="{{ .Permalink }}">
                             {{ .Title }}
@@ -16,14 +25,14 @@
                     </h1>
 
                     {{ .Summary }}
-                    
-                    <a class="button" href="{{ .Permalink }}">
+
+                    <a class="a-button" href="{{ .Permalink }}">
                         Let me read this
                     </a>
                 </article>
             {{ end }}
         {{ end }}
     </section>
-</section>
+</main>
 
 {{ partial "footer" . }}

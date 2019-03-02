@@ -1,16 +1,18 @@
-/** 
+/**
  * BASE
  * Styling of base elements
  */
 
-/** 
+/**
  * HTML + scaling base font size system
  * The scaling font is used to scale all contents based on screen size, using rem
  * as the standard sizing unit.
- * 
+ *
  * Read more about this method:
- */ 
+ */
 html {
+    background-color: var(--grey-10);
+
     font-family: Overpass, sans-serif;
     font-size: 16px;
     font-weight: 300;
@@ -35,7 +37,7 @@ html {
 
 
 /* BODY */
-body { 
+body {
     margin: 0;
 }
 
@@ -70,6 +72,13 @@ p { margin: 0 0 var(--regular); }
 p:last-child { margin: 0; }
 
 
+ul,
+ol,
+dl {
+    margin: 0;
+    padding: 0;
+}
+
 /* DEFINITION LISTS */
 dl { margin: 0 0 var(--regular); }
 
@@ -82,12 +91,12 @@ dd { margin: 0 0 var(--regular); }
 
 @media ( --br-s ) {
     dt,
-    dd { 
+    dd {
         display: inline-block;
         margin-right: var(--xs);
     }
 
-    dd { 
+    dd {
         margin-right: var(--regular);
     }
 }
@@ -108,16 +117,20 @@ img {
 
 /* ANCHOR */
 a {
-    color: var(--blue-50);
+    color: var(--blue);
     text-decoration: none;
 
     padding-bottom: .1rem;
-    border-bottom: 2px solid var(--blue-50);
+    border-bottom: 2px solid var(--blue);
+}
+
+strong {
+    font-weight: 600;
 }
 
 
 /* BLOCKQUOTE */
-blockquote { 
+blockquote {
     /* display: inline; */
     margin: 0 0 var(--regular);
 
@@ -125,9 +138,7 @@ blockquote {
     font-weight: 600;
     text-align: left;
 }
-
 blockquote p { margin-bottom: 0; }
-
 blockquote:before {
     content: "<quote>";
 }

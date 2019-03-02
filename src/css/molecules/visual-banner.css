@@ -1,0 +1,21 @@
+.m-visual-banner {
+    display: flex;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 88vh;
+    overflow: hidden;
+    z-index: var(--z-rel-basement);
+}
+
+.visual-banner--is-empty {
+    height: 25vh;
+    background-color: var(--blue);
+}
+
+.visual-banner__image {
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
