@@ -1,0 +1,23 @@
+.o-content-block {
+    display: block;
+    width: 56ch;
+    max-width: 100%;
+    margin: 0 var(--spacing-xs) var(--spacing-l);
+
+    padding: var(--spacing-m) var(--s);
+    background-color: var(--white);
+}
+
+@media ( --br-m ) {
+    .o-content-block {
+        grid-column: span 3;
+        margin: 0 var(--spacing-xl) var(--spacing-xl);
+
+        padding: var(--xl);
+    }
+}
+
+.content-block--transparent {
+    padding: 0;
+    background-color: transparent;
+}

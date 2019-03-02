@@ -1,4 +1,4 @@
-/** 
+/**
  * GULP CONFIG
  * Config file for gulpfile.js
  */
@@ -19,13 +19,14 @@ const config = {
         img: {
             src: './src/img/**/*',
             dest: './dist/img'
-        }, 
+        },
         html: {
             src: 'site/**/*'
         }
     },
     urls: {
-        localhost: 'https://bramwillemse.dev'
+        localhost: 'bramwillemse.dev',
+        proxy: 'https://bramwillemse.dev'
     }
 }
 

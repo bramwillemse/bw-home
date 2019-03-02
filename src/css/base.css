@@ -117,6 +117,10 @@ a {
     border-bottom: 2px solid var(--blue);
 }
 
+strong {
+    font-weight: 600;
+}
+
 
 /* BLOCKQUOTE */
 blockquote {

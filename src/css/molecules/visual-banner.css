@@ -1,8 +1,12 @@
 .m-visual-banner {
     display: flex;
-    height: 45vh;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 88vh;
     overflow: hidden;
-    margin-bottom: var(--spacing);
+    z-index: var(--z-rel-basement);
 }
 
 .visual-banner--is-empty {
@@ -11,6 +15,7 @@
 }
 
 .visual-banner__image {
+    width: 100%;
     object-fit: cover;
     object-position: top;
 }
