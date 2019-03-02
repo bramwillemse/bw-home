@@ -16,7 +16,6 @@ categories:
 _This is an interview conducted with me, by [my training buddies of ATAC (Amsterdam Triathlon And Cycling) Club][1]. It was published in their monthly newsletter._
 
 Southern Limburg is the most hilly part of the Netherlands which most of us already know through cycling. It&#8217;s also a beautiful and demanding region for the KvS. This year there were 2 Atac members present. Brian Gibson did the 32k event on Saterday, Bram did the 42k on Sunday. Some real amateurs/masochists did both. The 42k was also the Dutch Championships trailrunning.
-<!--more-->
 
 ## Bram, I thougt we didnt have any trailrunning in the Netherlands??
 But we do! From the Wadden islands, to the Utrechte Heuvelrug to Limburg. It might be relatively flat, but we have so much beautiful nature and lengthy trails to run as far as you want. Even though I live in Amsterdam I&#8217;m still able to call myself a trail runner. If you look carefully you&#8217;ll actually find trails in parks (Westerpark), along canals (like Nassaukade) and the best place: het Amsterdamse Bos.

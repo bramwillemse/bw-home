@@ -13,7 +13,6 @@ categories:
 ---
 
 In high school history classes I wrote down the important stuff and connected everything with arrows. And nowadays when I take written notes, I write them in lists: Agenda items, issues, possible solutions and actions. Workflowy facilitates just that: taking note in lists. A match made in heaven!
-<!--more-->
 
 ## Using Workflowy for travel
 
