@@ -20,7 +20,6 @@ tags:
 ---
 
 My blog is not very suited to it, but I'm going to try and make this post visual. Because that's what today mainly was about: getting out all my ideas and make a choice on what to prototype.
-<!--more-->
 
 ## Applied user story mapping
 
