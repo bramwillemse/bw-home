@@ -51,7 +51,7 @@
 
 @media ( --br-s ) {
     .brammy__card { grid-column: span 2; }
-    .brammy__card:nth-child(2) { margin-top: 3.6rem; } /* correct image space */
+    .brammy__card:nth-child(2) { margin-top: calc(3.3rem + var(--spacing-s)); } /* correct image space */
     .brammy__image {
         display: flex;
         justify-content: flex-end;
