@@ -1,4 +1,12 @@
 .a-button {
     display: inline-flex;
+
+    padding: var(--xxs) var(--s);
+    background-color: var(--blue);
+
+    color: var(--white);
+}
+
+.a-button:hover {
     background-color: var(--blue);
 }

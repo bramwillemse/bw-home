@@ -24,10 +24,3 @@
     .c-site-footer ul { margin-bottom: 0; }
     .c-site-footer li { display: inline-block; }
 }
-
-@media ( --br-m ) {
-    .c-site-footer {
-        grid-column: span 3;
-        padding: 0 var(--xxl) var(--xxl);
-    }
-}
