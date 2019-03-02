@@ -41,13 +41,13 @@ And this how it&#8217;s done (by me, today 8-). Off course it&#8217;s better to 
 
 As you might already know my idea for Travel Notes has come from my own personal travel journey. So what you&#8217;re seeing here is mostly based on my 4 month trip to South America last year.
 
-<img class="alignnone wp-image-5140 size-medium" src="http://bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-1-800x450.jpg" alt="Travel Notes User Journey - Idea and preparation phase" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-1-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-1-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
-  
-<img class="alignnone wp-image-5137 size-medium" src="http://bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-2-800x450.jpg" alt="Travel Notes User Journey - Travel phase (part 1)" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-2-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-2-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
-  
-<img class="alignnone wp-image-5139 size-medium" src="http://bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-3-800x450.jpg" alt="Travel Notes user journey - travel phase part 2" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-3-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-3-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
-  
-<img class="alignnone wp-image-5138 size-medium" src="http://bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-4-800x450.jpg" alt="Travel Notes User Journey - Post Travel Phase" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-4-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-4-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
+<img class="alignnone wp-image-5140 size-medium" src="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-1-800x450.jpg" alt="Travel Notes User Journey - Idea and preparation phase" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-1-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-1-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
+
+<img class="alignnone wp-image-5137 size-medium" src="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-2-800x450.jpg" alt="Travel Notes User Journey - Travel phase (part 1)" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-2-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-2-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
+
+<img class="alignnone wp-image-5139 size-medium" src="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-3-800x450.jpg" alt="Travel Notes user journey - travel phase part 2" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-3-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-3-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
+
+<img class="alignnone wp-image-5138 size-medium" src="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-4-800x450.jpg" alt="Travel Notes User Journey - Post Travel Phase" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-4-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-user-journey-4-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
 
 ## 2. Grouping the actions
 
@@ -62,23 +62,23 @@ As you could see in the pictures, I kept it simple:
 
 Quantity is more important than quality. As I was on my own I took quite a lot of time for this phase. The only limitation I set was the amount of blue post-its I had.
 
-[<img class="wp-image-5135 size-medium alignnone" src="http://bramwillemse.nl/app/uploads/2017/02/travelnotes-user-story-map-800x450.jpg" alt="Travel Notes Brainstorm phase: adding as much ideas as possible" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travelnotes-user-story-map-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travelnotes-user-story-map-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />][2]
+[<img class="wp-image-5135 size-medium alignnone" src="http://blog.bramwillemse.nl/app/uploads/2017/02/travelnotes-user-story-map-800x450.jpg" alt="Travel Notes Brainstorm phase: adding as much ideas as possible" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travelnotes-user-story-map-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travelnotes-user-story-map-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />][2]
 
 ## 4. Vote and arrange ideas
 
 I put little asterisks on the ideas I liked best. All me, so no real limit on votes here. Normally everyone would get a limited set of dots to stick to their favourite ideas. The ideas with the most votes get through to the prioritisation phase.
 
-<img class="size-medium wp-image-5145 alignnone" src="http://bramwillemse.nl/app/uploads/2017/02/IMG_1623-720x450.jpg" alt="" width="720" height="450" />
+<img class="size-medium wp-image-5145 alignnone" src="http://blog.bramwillemse.nl/app/uploads/2017/02/IMG_1623-720x450.jpg" alt="" width="720" height="450" />
 
 ## 5. Prioritise!
 
 So here I took the highest voted ideas (all of them ?) and put them on a scale: Impact vs. Effort. The idea is to pick the ideas with the highest impact and the least impact. So the upper left quadrant in the scale.
 
-<img class="alignnone size-medium wp-image-5148" src="http://bramwillemse.nl/app/uploads/2017/02/travel-notes-applied-user-story-mapping-effort-vs--800x450.jpg" alt="" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-applied-user-story-mapping-effort-vs--800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-applied-user-story-mapping-effort-vs--768x432.jpg 768w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-applied-user-story-mapping-effort-vs--1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
+<img class="alignnone size-medium wp-image-5148" src="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-applied-user-story-mapping-effort-vs--800x450.jpg" alt="" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-applied-user-story-mapping-effort-vs--800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-applied-user-story-mapping-effort-vs--768x432.jpg 768w, http://blog.bramwillemse.nl/app/uploads/2017/02/travel-notes-applied-user-story-mapping-effort-vs--1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
 
 What surprised me here was my choice for photos over sharing. Because sharing is one of the key features of my concept. But nope. The impact might be big, but the effort&#8217;s too. So you&#8217;re out, sharing! **\*BAM\***
 
-<img class="alignnone size-medium wp-image-5147" src="http://bramwillemse.nl/app/uploads/2017/02/IMG_1628-800x450.jpg" alt="The first features I will develop: view notes, add notes and add photos" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/IMG_1628-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/IMG_1628-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
+<img class="alignnone size-medium wp-image-5147" src="http://blog.bramwillemse.nl/app/uploads/2017/02/IMG_1628-800x450.jpg" alt="The first features I will develop: view notes, add notes and add photos" width="800" height="450" srcset="http://blog.bramwillemse.nl/app/uploads/2017/02/IMG_1628-800x450.jpg 800w, http://blog.bramwillemse.nl/app/uploads/2017/02/IMG_1628-1280x720.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />
 
 Off course I&#8217;ll have to feature the sharing part. But not now. First I&#8217;ll go for photos, because it&#8217;s a (presumably) easy addition with a (presumed) big impact. First let&#8217;s get that in order, than sharing will get it&#8217;s chance!
 
@@ -89,11 +89,11 @@ That&#8217;s it. Now I&#8217;ll get back to building something. I&#8217;ll spend
 _If you&#8217;re interested in helping me out in a next ideation session like this. Give me a shout!_
 
 Cheers,
-  
+
 Bram
 
 PS
-  
+
 Be sure [to check out AJ&Smart][3]. Thanks for the inspiration, guys!
 
 &nbsp;
@@ -105,7 +105,7 @@ Be sure [to check out AJ&Smart][3]. Thanks for the inspiration, guys!
   * **Taking a step back with Applied User Story Mapping** &#8211; You are here!
 
  [1]: /travel-notes
- [2]: http://bramwillemse.nl/app/uploads/2017/02/travelnotes-user-story-map.jpg
+ [2]: http://blog.bramwillemse.nl/app/uploads/2017/02/travelnotes-user-story-map.jpg
  [3]: http://www.ajsmart.com/
- [4]: http://bramwillemse.nl/about-travel-notes/
- [5]: http://bramwillemse.nl/travel-notes-concept/
+ [4]: http://blog.bramwillemse.nl/about-travel-notes/
+ [5]: http://blog.bramwillemse.nl/travel-notes-concept/
