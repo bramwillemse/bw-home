@@ -4,5 +4,5 @@
     @custom-media --br-s (min-width: 40em);
     @custom-media --br-m (min-width: 60em);
     @custom-media --br-l (min-width: 70em);
-    @custom-media --br-xl (min-width: 150em);
+    @custom-media --br-xl (min-width: 90em);
 }
