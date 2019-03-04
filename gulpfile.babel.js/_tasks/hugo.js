@@ -1,4 +1,4 @@
-/** 
+/**
  * HUGO
  * Generate HTML with Hugo
  * [1] Set Hugo tasks

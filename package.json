@@ -6,7 +6,7 @@
     "bugs": {
         "url": "https://github.com/bramwillemse/bw-hugo/issues"
     },
-    "homepage": "https://blog.bramwillemse.nl",
+    "homepage": "https://bramwillemse.nl",
     "scripts": {
         "hugo": "gulp hugo",
         "build": "gulp build",
