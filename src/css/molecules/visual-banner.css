@@ -11,7 +11,7 @@
 
 .visual-banner--is-empty {
     height: 25vh;
-    background-color: var(--blue);
+    background-color: var(--grey-90);
 }
 
 .visual-banner__image {

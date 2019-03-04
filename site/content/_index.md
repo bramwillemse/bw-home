@@ -1,7 +1,7 @@
 ---
 type: "page"
-title: "Bram Willemse"
-description: "Bram Willemse is a freelance senior front-end developer and interaction designer."
+title: "Bram Willemse - freelance front-end developer"
+description: "Bram Willemse is a freelance senior front-end developer and interaction designer in Amsterdam, the Netherlands."
 ---
 
 <header class="brammy__card brammy__header">

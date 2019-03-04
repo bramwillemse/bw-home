@@ -3,8 +3,17 @@
  * Config file for gulpfile.js
  */
 const config = {
-    hugoArgsDefault: ['-d', '../dist', '-s', 'site', '-v'],
-    hugoArgsPreview: ['--buildDrafts', '--buildFuture'],
+    hugoArgsDefault: [
+        '-d',
+        '../dist',
+        '-s',
+        'site',
+        '-v'
+    ],
+    hugoArgsPreview: [
+        '--buildDrafts',
+        '--buildFuture'
+    ],
     paths: {
         css: {
             src: './src/css/**/*.css',

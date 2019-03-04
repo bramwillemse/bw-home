@@ -7,8 +7,9 @@
     --white: #FFF;
 
     /* Greys pallette */
-    --grey-90: #888;
+    --grey-90: #333;
     --grey-80: #666;
+    --grey-60: #888;
     --grey-50: #CCC;
     --grey-10: #F9F9F9;
 }
