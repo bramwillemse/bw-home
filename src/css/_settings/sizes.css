@@ -1,8 +1,8 @@
 /* SIZES - following modular scale */
 :root {
-  --xxs: 0.317rem;
-  --xs: 0.563rem;
-  --s: 0.75rem;
+  --xxs: .317rem;
+  --xs: .563rem;
+  --s: .75rem;
   --regular: 1rem;
   --m: 1.333rem;
   --l: 1.777rem;

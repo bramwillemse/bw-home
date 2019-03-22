@@ -1,31 +1,31 @@
 .a-button {
-    --color-default: var(--blue);
-    --color-hover: var(--blue-50);
-    --color-active: var(--blue);
+  --color-default: var(--blue);
+  --color-hover: var(--blue-50);
+  --color-active: var(--blue);
 
-    display: inline-flex;
+  display: inline-flex;
 
-    padding: var(--xxs) var(--s);
-    background-color: var(--color-default);
-    border: 5px solid var(--color-default);
+  padding: var(--xxs) var(--s);
+  background-color: var(--color-default);
+  border: 5px solid var(--color-default);
 
-    color: var(--white);
+  color: var(--white);
 
-    transition: .15s ease-in;
-    transition-property: background-color, border-color, box-shadow;
+  transition: .15s ease-in;
+  transition-property: background-color, border-color, box-shadow;
 }
 
 .a-button:hover {
-    background-color: var(--color-hover);
-    border-top-color: var(--blue-30);
-    border-left-color: var(--blue-30);
-    box-shadow: 1px 1px 1px var(--blue-90);
+  background-color: var(--color-hover);
+  border-top-color: var(--blue-30);
+  border-left-color: var(--blue-30);
+  box-shadow: 2px 2px 0px 1px rgba(0, 51, 68, .3);
 }
 
 .a-button:active {
-    background-color: var(--color-active);
-    border-color: var(--blue-50);
-    border-top-color: var(--blue-90);
-    border-left-color: var(--blue-90);
-    box-shadow: none;
+  background-color: var(--color-active);
+  border-color: var(--blue-50);
+  border-top-color: var(--blue-90);
+  border-left-color: var(--blue-90);
+  box-shadow: none;
 }

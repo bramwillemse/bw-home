@@ -3,19 +3,21 @@
 {{ $text := "Back to articles overview" }}
 
 <article class="c-article">
-    {{ partial "molecules/visual-banner" . }}
+  {{ partial "molecules/visual-banner" . }}
 
-    <nav class="m-article-navigation o-content-block content-block--transparent">
-        {{ partial "atoms/button" (dict "type" $type "url" $url "text" $text) }}
-    </nav>
+  <nav class="m-article-navigation o-content-block content-block--transparent">
+    {{ partial "atoms/button" (dict "type" $type "url" $url "text" $text) }}
+  </nav>
 
-    {{ partial "molecules/article-header" . }}
+  {{ partial "molecules/article-header" . }}
 
-    <section class="o-content-block">
-        {{ .Content }}
-    </section>
+  <section class="o-content-block">
+    {{ .Content }}
+  </section>
 
-    {{/*<footer class="c-article__footer o-content-block content-block--transparent">
-        {# Add related content or other click through material #}
-    </footer>*/}}
+  {{/*
+  <footer class="c-article__footer o-content-block content-block--transparent">
+    {# Add related content or other click through material #}
+  </footer>
+  */}}
 </article>
