@@ -1,15 +1,21 @@
 /* COLORS */
 :root {
-    /* Brand pallette */
-    --blue: #006C90;
-    --yellow: #FFFF00;
+  /* Brand pallette */
+  --blue-10: #77ddff;
+  --blue-30: #2bc9ff;
+  --blue-50: #00a5dd;
+  --blue-70: #006c90;
+  --blue-90: #003344;
 
-    --white: #FFF;
+  --blue: var(--blue-70);
+  --yellow: #ffff00;
 
-    /* Greys pallette */
-    --grey-90: #333;
-    --grey-80: #666;
-    --grey-60: #888;
-    --grey-50: #CCC;
-    --grey-10: #F9F9F9;
+  /* Greys pallette */
+  --black: #000;
+  --grey-90: #333;
+  --grey-80: #666;
+  --grey-60: #888;
+  --grey-50: #ccc;
+  --grey-10: #f9f9f9;
+  --white: #fff;
 }

@@ -1,0 +1,37 @@
+.m-skip-links {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: var(--z-modal);
+
+  background-color: var(--blue-90);
+
+  color: var(--white);
+
+  transform: translateY(-100%);
+  transition: 0.3s ease-in-out;
+  transition-property: transform;
+}
+
+.m-skip-links:focus-within {
+  transform: translateY(0);
+}
+
+.skip-links__list {
+  margin: 0 var(--spacing-xs) var(--spacing-l);
+
+  list-style: none;
+}
+
+@media (--br-m) {
+  .skip-links__list {
+    margin: var(--spacing-xl);
+  }
+}
+
+.skip-links__link {
+  color: var(--white);
+  border-color: var(--white);
+}

@@ -69,7 +69,7 @@
         "at-rule-name-case": "lower",
         "at-rule-no-vendor-prefix": true,
         "block-closing-brace-empty-line-before": "never",
-        "block-closing-brace-newline-after": [ 
+        "block-closing-brace-newline-after": [
             "always",
             "ignoreAtRules": ["media"]
         ],
@@ -100,7 +100,7 @@
         "function-name-case": "lower",
         "function-url-quotes": "never",
         "function-whitespace-after": "always",
-        "indentation": 4,
+        "indentation": 2,
         "keyframe-declaration-no-important": true,
         "max-empty-lines": 5,
         "max-line-length": 120,

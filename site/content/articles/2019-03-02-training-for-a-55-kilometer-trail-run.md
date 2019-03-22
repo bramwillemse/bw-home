@@ -1,11 +1,11 @@
 ---
 title: "Why I'm training for a 55km trail run"
-introduction: "You might have noticed that I've registered for a big race this july. If I tell people about this, often their first question is: \"WHY?!\" And because the answer to that is mainly about my training I thought I'd write down a bit of insight on how I am preparing for another toughest race of my life. First off: why. A bit of a personal history."
+introduction: "You might have noticed that I've registered for a big race this July. If I tell people about this, often their first question is: \"WHY?!\" And because the answer to that is mainly about my training I thought I'd write down a bit of insight on how I am preparing for another toughest race of my life. First off: why. A bit of a personal history."
 date: 2019-03-02T17:04:33+01:00
 draft: true
 ---
 
-I dare say I'm becoming a bit experienced on training for big races, but I definitely do not claim this is the way to do it. The more I run, read and talk about training, the more I discover rules to follow. But every body is different, so I think everyone should write their own rulebook. This is a bit of a golden circlish insight into mine.
+I dare say I'm becoming a bit experienced on training for big races, but I definitely do not claim this is the way to do it. The more I run, read and talk about training, the more I discover rules to follow. But every body is different, so I think everyone should write their own rulebook. This is a bit of a golden circlish insight into (the current version) mine.
 
 ## As a kid
 I never was the most sportive kid, but I was active. I grew up in a big family on a single salary, so we got to choose between sports or music. Most of us went for music, as did I. I was lucky to be the youngest. My parents had a bit of money to spare - I guess - and next to playing the saxophone I tried tennis for a few years. In general I wasn't too bad at all the sports we tried at school. As a teenager I bought my own pair of inline skates, which got me moving at last.
@@ -19,7 +19,9 @@ I managed to keep up in the gym for a while, even though I hated exercising indo
 
 After a few years (or quite a lot actually), I made some friends that did their own bootcamp style training. It caught on. I created a Facebook group and the group grew from three friends to a bunch of friends of friends and colleagues that pushed each other to train hard.
 
-For the first time in my life I got really, properly fit. For the first time in my life I felt strong. Writing this now, I realise that probably was the moment I
+For the first time in my life I got really, properly fit. For the first time in my life I felt strong.
+
+
 
 <!--
 1. **Why** - you are here
