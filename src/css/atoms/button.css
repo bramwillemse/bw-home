@@ -12,14 +12,14 @@
   color: var(--white);
 
   transition: .15s ease-in;
-  transition-property: background-color, border-color, box-shadow;
+  transition-property: background-color, border-color;
 }
 
 .a-button:hover {
   background-color: var(--color-hover);
+  border: 5px solid var(--color-default);
   border-top-color: var(--blue-30);
   border-left-color: var(--blue-30);
-  box-shadow: 1px 1px 0px 1px rgba(0, 51, 68, .3);
 }
 
 .a-button:active {
@@ -27,5 +27,4 @@
   border-color: var(--blue-50);
   border-top-color: var(--blue-90);
   border-left-color: var(--blue-90);
-  box-shadow: none;
 }

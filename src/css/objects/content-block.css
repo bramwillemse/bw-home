@@ -1,7 +1,7 @@
 .o-content-block {
   display: block;
   width: 56ch;
-  max-width: 100%;
+  max-width: calc(100% - 2.5rem);
   margin: 0 var(--spacing-xs) var(--spacing-l);
 
   padding: var(--spacing-m) var(--s);
