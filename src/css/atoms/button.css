@@ -19,7 +19,7 @@
   background-color: var(--color-hover);
   border-top-color: var(--blue-30);
   border-left-color: var(--blue-30);
-  box-shadow: 2px 2px 0px 1px rgba(0, 51, 68, .3);
+  box-shadow: 1px 1px 0px 1px rgba(0, 51, 68, .3);
 }
 
 .a-button:active {

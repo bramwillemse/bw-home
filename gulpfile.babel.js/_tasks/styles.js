@@ -39,7 +39,7 @@ gulp.task('styles', function() {
     .pipe(sourcemaps.init({ loadMaps: true })) // [2]
     .pipe(postcss(plugins))
     .pipe(gulp.dest(config.paths.css.dest))
-    .pipe(clean({ sourceMap: true })) // #TODO what does this do again?
+    .pipe(clean({ sourceMap: true })) // TODO: what does this do again?
     .pipe(
       rename({
         suffix: '.min'

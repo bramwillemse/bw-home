@@ -143,10 +143,13 @@ a {
   border-bottom: 2px solid var(--blue);
 
   transition: .15s ease-in-out;
-  transition-property: border;
+  transition-property: border-bottom-width;
 }
 
-a:hover,
+a:hover {
+  border-bottom-width: 4px;
+}
+
 a:focus-visible {
   border-bottom-width: 4px;
 }
@@ -172,9 +175,4 @@ blockquote:before {
 }
 blockquote:after {
   content: "</quote>";
-}
-
-/* ACCESSIBILITY */
-a:focus-visible {
-  background-color: var(--yellow);
 }

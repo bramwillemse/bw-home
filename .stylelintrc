@@ -59,7 +59,7 @@
             {
                 "emptyLineBefore": "always",
                 "properties": [
-                    "transform",
+                   "transform",
                     "translate",
                     "transition",
                     "animation"
