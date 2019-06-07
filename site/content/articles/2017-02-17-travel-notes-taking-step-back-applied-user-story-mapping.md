@@ -1,22 +1,25 @@
 ---
-title: 'Travel Notes: Taking a step back with Applied User Story Mapping'
-introduction: "Yesterday I attended a workshop my friend Folkert invited me to join. A workshop with a very long title, focused on product design. Since I'm working on this product idea (working title: travel notes), I guessed it might be fun to see how other's do it. Today I took a step back to the drawing board and tried the method evangelically proposed by AJ&Smart's JC himself. And I loved it!"
 author: bram
-type: articles
-date: 2017-02-17T16:16:56+00:00
-url: /travel-notes-taking-step-back-applied-user-story-mapping/
-featured_image: http://blog.bramwillemse.nl/app/uploads/2017/02/IMG_1605-e1487348145541.jpg
-dsq_thread_id:
-  - 5560386610
 categories:
-  - travel notes
+- travel notes
+date: "2017-02-17T16:16:56+00:00"
+dsq_thread_id:
+- 5560386610
+featured_image: http://blog.bramwillemse.nl/app/uploads/2017/02/IMG_1605-e1487348145541.jpg
+introduction: 'Yesterday I attended a workshop my friend Folkert invited me to join.
+  A workshop with a very long title, focused on product design. Since I''m working
+  on this product idea (working title: travel notes), I guessed it might be fun to
+  see how other''s do it. Today I took a step back to the drawing board and tried the
+  method evangelically proposed by AJ&Smart''s JC himself. And I loved it!'
 tags:
-  - applied user story mapping
-  - concept development
-  - design
-  - ideation
-  - travel
-
+- applied user story mapping
+- concept development
+- design
+- ideation
+- travel
+title: 'Travel Notes: Taking a step back with Applied User Story Mapping'
+type: articles
+url: /travel-notes-taking-step-back-applied-user-story-mapping/
 ---
 
 My blog is not very suited to it, but I'm going to try and make this post visual. Because that's what today mainly was about: getting out all my ideas and make a choice on what to prototype.

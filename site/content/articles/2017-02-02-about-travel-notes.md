@@ -1,15 +1,19 @@
 ---
-title: About travel notes
-introduction: Ever since my friend Stef introduced me to it, I've loved Workflowy. I use it to take notes of meetings, type out concepts and strike off todo lists. I don't always use it, because sometimes I feel like writing in IA Writer, Google Docs or just an old fashioned email. But of all of these apps I might love Workflowy most, because it fits my style.
 author: bram
-type: articles
-date: 2017-02-02T09:14:43+00:00
-url: /about-travel-notes/
-featured_image: http://blog.bramwillemse.nl/app/uploads/2017/02/shared-travel-experiences-e1486034021965.jpg
-dsq_thread_id:
-  - 5514783914
 categories:
-  - travel notes
+- travel notes
+date: "2017-02-02T09:14:43+00:00"
+dsq_thread_id:
+- 5514783914
+featured_image: http://blog.bramwillemse.nl/app/uploads/2017/02/shared-travel-experiences-e1486034021965.jpg
+introduction: Ever since my friend Stef introduced me to it, I've loved Workflowy.
+  I use it to take notes of meetings, type out concepts and strike off todo lists.
+  I don't always use it, because sometimes I feel like writing in IA Writer, Google
+  Docs or just an old fashioned email. But of all of these apps I might love Workflowy
+  most, because it fits my style.
+title: About travel notes
+type: articles
+url: /about-travel-notes/
 ---
 
 In high school history classes I wrote down the important stuff and connected everything with arrows. And nowadays when I take written notes, I write them in lists: Agenda items, issues, possible solutions and actions. Workflowy facilitates just that: taking note in lists. A match made in heaven!
