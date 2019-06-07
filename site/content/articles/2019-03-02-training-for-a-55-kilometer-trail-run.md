@@ -1,8 +1,12 @@
 ---
-title: "Why I'm training for a 55km trail run"
-introduction: "You might have noticed that I've registered for a big race this July. If I tell people about this, often their first question is: \"WHY?!\" And because the answer to that is mainly about my training I thought I'd write down a bit of insight on how I am preparing for another toughest race of my life. First off: why. A bit of a personal history."
-date: 2019-03-02T17:04:33+01:00
+date: "2019-03-02T17:04:33+01:00"
 draft: true
+introduction: 'You might have noticed that I''ve registered for a big race this July.
+  If I tell people about this, often their first question is: "WHY?!" And because
+  the answer to that is mainly about my training I thought I''d write down a bit of
+  insight on how I am preparing for another toughest race of my life. First off: why.
+  A bit of a personal history.'
+title: Why I'm training for a 55km trail run
 ---
 
 I dare say I'm becoming a bit experienced on training for big races, but I definitely do not claim this is the way to do it. The more I run, read and talk about training, the more I discover rules to follow. But every body is different, so I think everyone should write their own rulebook. This is a bit of a golden circlish insight into (the current version) mine.

@@ -1,14 +1,15 @@
 ---
-title: 'Travel Notes: the concept'
-introduction: So you know by now I have a problem with taking travel notes and I want to fix it. But how you ask? It's gonna be great. It's gonna be the best travel app out there. Together we will make travel-note-taking great again. It's true!
 author: bram
-type: articles
-date: 2017-02-09T12:14:45+00:00
-url: /travel-notes-concept/
-featured_image: http://blog.bramwillemse.nl/app/uploads/2017/02/IMG_1483.jpg
 categories:
-  - travel notes
-
+- travel notes
+date: "2017-02-09T12:14:45+00:00"
+featured_image: http://blog.bramwillemse.nl/app/uploads/2017/02/IMG_1483.jpg
+introduction: So you know by now I have a problem with taking travel notes and I want
+  to fix it. But how you ask? It's gonna be great. It's gonna be the best travel app
+  out there. Together we will make travel-note-taking great again. It's true!
+title: 'Travel Notes: the concept'
+type: articles
+url: /travel-notes-concept/
 ---
 
 I hereby promise that's the one and only Trump-reference I'll make here. Sorry about that. Let me tell you how I'm fixing my problem. Trust me, it's huuuge!
