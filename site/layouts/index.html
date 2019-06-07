@@ -2,15 +2,15 @@
 
 {{ partial "header" . }}
 
-<main class="c-brammy">
-    {{/*
-        {{ $type := "header" }}
-        {{ $title := "This is a title." }}
-        {{ $text := "This is a text. This is a text. This is a text." }}
-        {{ partial "components/skill" (dict "type" $type "title" $title "text" $text ) }}
-    */}}
+<main id="site-main" tabindex="-1" class="c-brammy">
+  {{/*
+      {{ $type := "header" }}
+      {{ $title := "This is a title." }}
+      {{ $text := "This is a text. This is a text. This is a text." }}
+      {{ partial "components/skill" (dict "type" $type "title" $title "text" $text ) }}
+  */}}
 
-    {{ .Content }}
+  {{ .Content }}
 </main>
 
 {{ partial "footer" . }}

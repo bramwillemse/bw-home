@@ -1,12 +1,30 @@
 .a-button {
-    display: inline-flex;
+  --color-default: var(--blue);
+  --color-hover: var(--blue-50);
+  --color-active: var(--blue);
 
-    padding: var(--xxs) var(--s);
-    background-color: var(--blue);
+  display: inline-flex;
 
-    color: var(--white);
+  padding: var(--xxs) var(--s);
+  background-color: var(--color-default);
+  border: 5px solid var(--color-default);
+
+  color: var(--white);
+
+  transition: .15s ease-in;
+  transition-property: background-color, border-color;
 }
 
 .a-button:hover {
-    background-color: var(--blue);
+  background-color: var(--color-hover);
+  border: 5px solid var(--color-default);
+  border-top-color: var(--blue-30);
+  border-left-color: var(--blue-30);
+}
+
+.a-button:active {
+  background-color: var(--color-active);
+  border-color: var(--blue-50);
+  border-top-color: var(--blue-90);
+  border-left-color: var(--blue-90);
 }

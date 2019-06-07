@@ -7,21 +7,25 @@
 /* UNORDERED LISTS */
 .c-site-footer ul,
 .c-site-footer dl {
-    display: block;
+  display: block;
 }
 
 .c-site-footer li,
 .c-site-footer dt,
 .c-site-footer dd {
-    display: block;
-    margin: 0 var(--regular) var(--regular) 0;
-    list-style: none;
+  display: block;
+  margin: 0 var(--regular) var(--regular) 0;
+  list-style: none;
 }
 
-@media ( --br-s ) {
-    .c-site-footer ul,
-    .c-site-footer dl { margin-bottom: 0; }
-    .c-site-footer dt,
-    .c-site-footer dd,
-    .c-site-footer li { display: inline-block; }
+@media (--br-s) {
+  .c-site-footer ul,
+  .c-site-footer dl {
+    margin-bottom: 0;
+  }
+  .c-site-footer dt,
+  .c-site-footer dd,
+  .c-site-footer li {
+    display: inline-block;
+  }
 }

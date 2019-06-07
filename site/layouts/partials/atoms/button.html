@@ -1,13 +1,16 @@
 {{/*
-    Atom: Button
+  Atom: Button
 
-    Properties:
-    .classes: 'string'
-    .size: 'string'
-    .text: 'string'
-    .type: 'string'
-    .url: 'string'
+  Properties:
+  .classes: 'string'
+  .size: 'string'
+  .text: 'string'
+  .type: 'string'
+  .url: 'string'
 */}}
-<a class="a-button{{ if .type }} button--{{ .type }}{{ end }}{{ if .size }} button--{{ .size }}{{ end }}" href="{{ .url }}">
-    {{ .text }}
+<a
+  class="a-button{{ if .type }} button--{{ .type }}{{ end }}{{ if .size }} button--{{ .size }}{{ end }}"
+  href="{{ .url }}"
+>
+  {{ .text }}
 </a>
