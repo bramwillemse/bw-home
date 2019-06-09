@@ -1,14 +1,13 @@
 .a-button {
-  --color-default: var(--blue);
-  --color-hover: var(--blue-50);
-  --color-active: var(--blue);
-
   display: inline-flex;
+  align-items: center;
 
   padding: var(--xxs) var(--s);
-  background-color: var(--color-default);
-  border: 5px solid var(--color-default);
+  background-color: var(--blue);
+  border: .25rem solid var(--blue);
+  border-radius: .5rem;
 
+  text-transform: lowercase;
   color: var(--white);
 
   transition: .15s ease-in;
@@ -16,15 +15,28 @@
 }
 
 .a-button:hover {
-  background-color: var(--color-hover);
-  border: 5px solid var(--color-default);
+  background-color: var(--blue-50);
+  border: .25rem solid var(--blue);
+  border-color: var(--blue);
   border-top-color: var(--blue-30);
   border-left-color: var(--blue-30);
 }
 
 .a-button:active {
-  background-color: var(--color-active);
+  background-color: var(--blue);
   border-color: var(--blue-50);
   border-top-color: var(--blue-90);
   border-left-color: var(--blue-90);
 }
+
+.a-button .a-icon {
+  height: 1rem;
+  width: 1rem;
+
+  fill: var(--white);
+}
+
+.a-button .a-icon line { stroke: var(--white) !important; }
+
+.a-button .a-icon:first-child { margin-right: .333em; }
+.a-button .a-icon:last-child { margin-left: .333em; }

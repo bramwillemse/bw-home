@@ -8,9 +8,18 @@
   .type: 'string'
   .url: 'string'
 */}}
-<a
-  class="a-button{{ if .type }} button--{{ .type }}{{ end }}{{ if .size }} button--{{ .size }}{{ end }}"
-  href="{{ .url }}"
->
-  {{ .text }}
+<a class="a-button{{ if .type }} button--{{ .type }}{{ end }}{{ if .size }} button--{{ .size }}{{ end }}" href="{{ .url }}">
+  {{ if eq .type "back" }}
+    {{ partial "svg/cancel.svg" }}
+  {{ else if eq .type "list" }}
+    {{ partial "svg/list.svg" }}
+  {{ else if eq .type "home" }}
+    {{ partial "svg/home.svg" }}
+  {{ else if eq .type "read" }}
+    {{ partial "svg/circled_play.svg" }}
+  {{ end }}
+
+  <span class="a-button__label">
+    {{ .text }}
+  </span>
 </a>
