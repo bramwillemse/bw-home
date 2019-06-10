@@ -1,0 +1,6 @@
+.a-list-header {
+  /* display: inline-flex; */
+}
+
+.a-list-header__title { display: inline; }
+.a-list-header__subline { display: inline;}

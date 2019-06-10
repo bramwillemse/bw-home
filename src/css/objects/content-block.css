@@ -2,7 +2,7 @@
   display: block;
   width: 56ch;
   max-width: calc(100% - 2.5rem);
-  margin: 0 var(--spacing-xs) var(--spacing-l);
+  margin: 0 var(--spacing-xs) var(--spacing-m);
 
   padding: var(--spacing-m) var(--s);
   background-color: var(--white);
@@ -11,7 +11,7 @@
 @media (--br-m) {
   .o-content-block {
     grid-column: span 3;
-    margin: 0 var(--spacing-xl) var(--spacing-xl);
+    margin: 0 var(--spacing-xl) var(--spacing-m);
 
     padding: var(--xl);
   }

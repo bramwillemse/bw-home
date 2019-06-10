@@ -8,7 +8,7 @@
   .type: 'string'
   .url: 'string'
 */}}
-<a class="a-button{{ if .type }} button--{{ .type }}{{ end }}{{ if .size }} button--{{ .size }}{{ end }}" href="{{ .url }}">
+<a class="a-button{{ if .type }} button--{{ .type }}{{ end }}{{ if .size }} button--{{ .size }}{{ end }} {{ if .classes }} {{ .classes }} {{ end }} " href="{{ .url }}">
   {{ if eq .type "back" }}
     {{ partial "svg/cancel.svg" }}
   {{ else if eq .type "list" }}
