@@ -1,15 +1,15 @@
 {{ partial "header" . }}
 
+<nav class="m-article-navigation o-content-block content-block--transparent">
+  {{ partial "atoms/button" (dict "type" "home" "url" "/" "text" "Back to homepage" "classes" "a-button--secondary") }}
+</nav>
+
+
 <main id="site-main" tabindex="-1" class="site-main">
   <section class="list">
-    <nav class="m-article-navigation o-content-block content-block--transparent">
-      {{ partial "atoms/button" (dict "type" "home" "url" "/" "text" "Back to homepage" "classes" "a-button--secondary") }}
-    </nav>
-
     <header class="a-list-header o-content-block content-block--transparent">
       <h1 class="a-list-header__title">{{ .Title }}</h1>
       <span class="a-list-header__subline">{{ .Params.Subline }}</span>
-
     </header>
 
     <section class="articles__list">
@@ -17,14 +17,14 @@
         {{ if eq .Type "articles" }}
           <article class="article o-content-block">
             <h1>
-              <a href="{{ .Permalink }}">
+              <a href="{{ .Permalink }}" tabindex="-1">
                 {{ .Title }}
               </a>
             </h1>
 
             <p>{{ .Params.introduction }}</p>
 
-            {{ partial "atoms/button" (dict "type" "read" "url" .Permalink "text" "Let me read this") }}
+            {{ partial "atoms/button" (dict "type" "read" "url" .Permalink "text" "Let me read this" "ariaLabel" .Title) }}
 
           </article>
         {{ end }}
