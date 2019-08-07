@@ -17,6 +17,7 @@ html {
   font-size: 16px;
   font-weight: 300;
   line-height: 1.6;
+  color: var(--grey-70);
 }
 
 @media screen and (min-width: 20rem) {
@@ -143,15 +144,14 @@ a {
   padding-bottom: .1rem;
   border-bottom: 2px solid var(--blue);
 
-  transition: .15s ease-in-out;
-  transition-property: border-bottom-width;
+  transition: .15s var(--ease-in-out-quad);
+  transition-property: border-bottom-width, color;
 }
 
+a:focus,
 a:hover {
-  border-bottom-width: 4px;
-}
-
-a:focus-visible {
+  color: var(--blue-50);
+  border-color: var(--blue-50);
   border-bottom-width: 4px;
 }
 
