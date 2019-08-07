@@ -2,9 +2,8 @@
 title: "Bootcamp's Shape Up book"
 date: 2019-08-07T12:04:06+02:00
 draft: true
-introduction: I have some time to spare and read 'Shape Up', Bootcamp's latest book about doing things (software projects) differently than most of us are used to. In this post I'll give you a summary of their Shape Up idea,  my take on their methods and tools and at the end [SPOILER ALERT] I'll tell you to go read it.
+introduction: "I have some time to spare and read 'Shape Up', Bootcamp's latest book about doing things (software projects) differently than most of us are used to. In this post I'll give you a summary of their Shape Up idea,  my take on their methods and tools and at the end <strong>[SPOILER ALERT]</strong> I'll tell you to go read it."
 url: /bootcamp-shape-up-book/
-# featured_image: https://basecamp.com/assets/books/shapeup/cover_summary-e9e01e28012e9df5a411d2eeb4643bd1f6e0630987aa801e132054694811f0a7.jpg
 author: Bram
 categories:
   - Books
@@ -12,12 +11,16 @@ categories:
 
 I have too much time at the moment. I came back from a long holiday in France and I'm looking for new freelance project to dive into, while I'm not really sure what I want.
 
-Do I just want to build on a 'regular' front-end job? Or do I actually want to stop doing actual development work and focus on design, product ownership and/or strategy? Most of the times the answer and results lay somewhere in the middle. But it feels like it's (almost) time for a bold decision..
+Do I just want to build? Get a 'regular' front-end job? Or do I actually want to stop doing actual development work and focus on design, product ownership and/or strategy? Most of the times the answer and results lay somewhere in the middle. But it feels like it's (almost) time for a bold decision..
 
 ## Books, books, books
-Anyways. I have time, so I read quite a lot. I highly recommend the science fantasy 'Broken Earth' trilogy by N.K. Jemisin, but if I remember correctly I brought you here promising to talk about Bootcamp's latest.
+Anyways. I have time, so I read quite a lot. For example I highly recommend the science fantasy 'Broken Earth' trilogy by N.K. Jemisin. I started on part one a few weeks ago, and can't stop reading. Part 3 is in progress already!
 
-Right after I finished 'It doesn't have to be crazy at work' by founder Jason Fried – go read it, it's great! –  out came 'Shape Up', this one by strategist Ryan Singer. The former is about building a calm company, focused on getting the best out of your people, instead of the most. The latter is about Basecamp's way of work, focused on actual product design & development.
+But if I remember correctly I brought you here promising to talk about Bootcamp's latest..
+
+Right after I finished ['It doesn't have to be crazy at work' by founder Jason Fried](https://basecamp.com/books/calm) – go read it, it's great! –  [out came 'Shape Up'](https://basecamp.com/shapeup), a web only book by strategist Ryan Singer. 
+
+The former is about building a calm company, focused on getting the best out of your people, instead of the most. The latter is about Basecamp's way of work, focused on actual product design & development.
 
 ## Something different than scrum
 In the books foreword, Basecamp founder & CEO Jason Fried positions their method against the most popular ways of work we all know best in software development: Scrum and Kanban. 
@@ -62,27 +65,43 @@ Shape Up is just a different way of working agile to me. There are a lot of comp
 - It even offers ways to give insight on a team's progress, like burndown charts in Jira. Managers will love it just as much! 
 
 ## What sets Shape Up apart
-But there are some big differences too. I'll highlight three. Or four. 
+But there are some big differences too. I'll highlight three. 
 
-### More time
+### 1. More time
 Teams get more time. Time to shape the work, hammer out the weak spots, orient, define tasks & scope, design & build, test & ship. 
 
 People spend less time in meetings, because there are no stand-ups, refinement sessions or sprint planning, "or anything remotely tied to a metaphor that includes being tired and worn out at the end." Eat that, scrum! :P
 
 And they get time to breathe in between cycles, to tie up loose ends or just try something fun and new.
 
-### No designs
-Shape Up encourages to keep the specs abstract up to the build phase. No wireframes, no specifics, just text and sketches. Once you hand over the project to the team, they will have 6 weeks to work that out within the clear boundaries you defined.
+### 2. No designs
+Shape Up encourages to keep the specs abstract up to the build phase. No wireframes, but just a description of what is and what is not expected, a clear hierarchy and some fat marker sketches.
 
-### Betting
-Sprint planning in scrum in short is about the team defining their probable capacity (based on earlier results & capacity) and filling the next sprint to the brim with estimated work.
+I have never liked creating detailed designs before development starts. Nothing's more frustrating _and_ time consuming than having to build something that could've been way simpler and more efficient, just because the client signed off on a fully detailed visual design. 
 
-Shape Up does it differently. There's no points, also no backlog. Just a few projects to pick from that are shaped up for your team already. And the team doesn't choose, although they will provide input. The client's decision makers will pick the project(s) to bet on. 
+Off course. It's easier to sell something visual to your stakeholders, but I believe (visual) design and programming should go hand in hand, because the two activities influence each other greatly and setting one of the two in stone will greatly impede the other's ability to make the right choices to finish within the project's boundaries (like time, budget and quality).
+
+A front-end developer for example should always feel free to ask a designer to change a design if it's not up to the WCAG accessibility standards. Even if it needs radical change.
+
+But a designer could also be surprised by the input of a backend developer on a feature, opening up a world of visual opportunities for her.
+
+Working on – or at least preparing – the same features together is so much more efficient than having designers or specs go back and forth between design, front- and back-end. 
+
+### 3. Betting
+Sprint planning in scrum, in short, is about the team defining their probable capacity (based on earlier results & capacity) and filling the next sprint to the brim with estimated work. 
+
+Shape Up does this differently. There's no points, also no backlog. Just a few projects to pick from that are shaped up for your team already. And the team doesn't choose, although they will provide input. The client's decision makers will pick the project(s) to bet on. 
 
 And if a project is not betted on, there's no backlog to pile up work that needs to be done.
 
-### Cool-down
-- A clear focus on speccing work the right way. What they call 'shaping'. 
+## I like it
+As you might understand by now. I like the way our Basecamp buddies do their work and I would really like to try this way of working. I would love to find a client (or a bunch of them) that would like to try to take on 6-week cycles with 2-week cool-downs.
 
+In my experience scrum is often used to wring out the teams that have to actually build. Shape up feels like a way to give them more time, trust & space to do what they love and what they are good at.
 
+I think a lot of concepts could even be applied within companies and teams working Scrum or Kanban. Even if it's on a different scale. Why not try a 4 week sprint with a 1 week cool-down, for example? Everything is possible. 
 
+### Go read! 
+So yes. I'd highly recommend diving into this little book. Read it for yourself and I'm very curious what you think and which opportunities you see arise in your work.
+
+<button>Read it!</button>
