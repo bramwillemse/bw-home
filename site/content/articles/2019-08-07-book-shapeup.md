@@ -104,4 +104,4 @@ I think a lot of concepts could even be applied within companies and teams worki
 ### Go read! 
 So yes. I'd highly recommend diving into this little book. Read it for yourself and I'm very curious what you think and which opportunities you see arise in your work.
 
-<button>Read it!</button>
+{{< button icon="link" label="Read Shape Up" url="https://basecamp.com/shapeup/" >}}
