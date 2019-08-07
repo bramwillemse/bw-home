@@ -90,14 +90,12 @@ ul,
 ol,
 dl {
   list-style-position: inside;
-  margin: 0;
+  margin: 0 0 var(--regular);
   padding: 0;
 }
 
 /* DEFINITION LISTS */
-dl {
-  margin: 0 0 var(--regular);
-}
+/* dl {} */
 
 dt,
 dd {

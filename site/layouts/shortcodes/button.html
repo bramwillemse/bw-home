@@ -1,0 +1,5 @@
+{{ $icon := (.Get "icon") }}
+{{ $label := (.Get "label") }}
+{{ $url := (.Get "url") }}
+
+{{ partial "atoms/button" (dict "icon" $icon "label" $label "url" $url ) }}

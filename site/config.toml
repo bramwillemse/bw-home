@@ -6,3 +6,4 @@ title = "Bram Willemse"
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomyTerm"]
+enableInlineShortcodes = true
