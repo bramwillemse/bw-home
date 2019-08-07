@@ -1,7 +1,7 @@
 {{ partial "header" . }}
 
 <nav class="m-article-navigation o-content-block content-block--transparent">
-  {{ partial "atoms/button" (dict "type" "home" "url" "/" "text" "Back to Bram" "classes" "a-button--secondary") }}
+  {{ partial "atoms/button" (dict "classes" "a-button--secondary" "icon" "home" "label" "Back to Bram" "url" "/") }}
 </nav>
 
 
@@ -24,7 +24,7 @@
 
             <p>{{ .Params.introduction | safeHTML }}</p>
 
-            {{ partial "atoms/button" (dict "type" "read" "url" .Permalink "text" "Let me read this" "ariaLabel" .Title) }}
+            {{ partial "atoms/button" (dict "ariaLabel" .Title "icon" "read" "label" "Let me read this" "url" .Permalink) }}
 
           </article>
         {{ end }}

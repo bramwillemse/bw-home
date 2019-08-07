@@ -1,5 +1,5 @@
 ---
-title: "Bootcamp's Shape Up book"
+title: "Book: Shape Up, by Ryan Singer"
 date: 2019-08-07T12:04:06+02:00
 draft: true
 introduction: "I have some time to spare and read 'Shape Up', Bootcamp's latest book about doing things (software projects) differently than most of us are used to. In this post I'll give you a summary of their Shape Up idea,  my take on their methods and tools and at the end <strong>[SPOILER ALERT]</strong> I'll tell you to go read it."
