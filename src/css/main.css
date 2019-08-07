@@ -11,6 +11,7 @@
 
 /* OBJECTS */
 @import "objects/content-block.css";
+@import "objects/site-main.css";
 
 /* ATOMS */
 @import "atoms/button.css";
@@ -26,7 +27,6 @@
 
 /* COMPONENTS */
 @import "components/site-header.css";
-@import "components/site-main.css";
 @import "components/site-footer.css";
 
 @import "components/article.css";
