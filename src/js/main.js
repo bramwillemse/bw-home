@@ -1,6 +1,5 @@
-
 const jeFunctie = () => {
-    console.log('Herro Wolrd!!!')
+  console.log('Herro Wolrd!!!')
 }
 
 jeFunctie()

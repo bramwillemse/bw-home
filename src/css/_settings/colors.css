@@ -12,10 +12,14 @@
 
   /* Greys pallette */
   --black: #000;
-  --grey-90: #333;
-  --grey-80: #666;
-  --grey-60: #888;
-  --grey-50: #CCC;
+  --grey-90: #222;
+  --grey-80: #333;
+  --grey-70: #444;
+  --grey-60: #555;
+  --grey-50: #666;
+  --grey-40: #777;
+  --grey-30: #888;
+  --grey-20: #CCC;
   --grey-10: #F9F9F9;
   --white: #FFF;
 }

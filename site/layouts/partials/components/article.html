@@ -1,12 +1,8 @@
-{{ $type := "back" }}
-{{ $url := "/articles" }}
-{{ $text := "Back to articles overview" }}
-
 <article class="c-article">
   {{ partial "molecules/visual-banner" . }}
 
   <nav class="m-article-navigation o-content-block content-block--transparent">
-    {{ partial "atoms/button" (dict "type" $type "url" $url "text" $text) }}
+    {{ partial "atoms/button" (dict "icon" "list" "url" "/articles" "label" "Back to articles" "classes" "a-button--secondary m-article-navigation__button") }}
   </nav>
 
   {{ partial "molecules/article-header" . }}

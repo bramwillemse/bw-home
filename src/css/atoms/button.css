@@ -1,30 +1,87 @@
+/* Primary button */
 .a-button {
-  --color-default: var(--blue);
-  --color-hover: var(--blue-50);
-  --color-active: var(--blue);
-
   display: inline-flex;
+  align-items: center;
+  margin-bottom: var(--regular);
 
   padding: var(--xxs) var(--s);
-  background-color: var(--color-default);
-  border: 5px solid var(--color-default);
+  background-color: var(--blue);
+  border: .25rem solid var(--blue);
+  border-radius: .5rem;
+  outline: none;
 
+  /* font-size: .666em; */
+  text-transform: lowercase;
   color: var(--white);
 
-  transition: .15s ease-in;
   transition-property: background-color, border-color;
+  transition-delay: .15s;
+  transition-duration: .15s;
+  transition-timing-function: var(--ease-in-out-quad);
 }
 
 .a-button:hover {
-  background-color: var(--color-hover);
-  border: 5px solid var(--color-default);
+  background-color: var(--blue-50);
+  border-width: .25rem;
+  border-style: solid;
+  border-color: var(--blue);
   border-top-color: var(--blue-30);
   border-left-color: var(--blue-30);
+
+  color: var(--white);
+}
+
+/* Accessible focus */
+.a-button:focus {
+  background-color: var(--blue);
+  border-width: .25rem;
+  border-color: var(--blue-30);
+
+  color: var(--white);
 }
 
 .a-button:active {
-  background-color: var(--color-active);
+  background-color: var(--blue);
   border-color: var(--blue-50);
   border-top-color: var(--blue-90);
   border-left-color: var(--blue-90);
+}
+
+.a-button .a-icon {
+  width: 1em;
+  height: 1em;
+
+  fill: currentColor;
+}
+
+.a-button .a-icon line { stroke: var(--white) !important; }
+
+.a-button .a-icon:first-child { margin-right: .333em; }
+.a-button .a-icon:last-child { margin-left: .333em; }
+
+/* Secondary button */
+.a-button--secondary {
+  background-color: var(--grey-70);
+  border-color: var(--grey-70);
+}
+
+.a-button--secondary:hover {
+  background-color: var(--grey-50);
+  border-color: var(--grey-60);
+  border-top-color: var(--grey-30);
+  border-left-color: var(--grey-30);
+
+  color: var(--white);
+}
+
+.a-button--secondary:focus {
+  background-color: var(--grey-70);
+  border-color: var(--blue-30) !important;
+}
+
+.a-button--secondary:active {
+  background-color: var(--grey-70);
+  border-color: var(--grey-60);
+  border-top-color: var(--grey-80);
+  border-left-color: var(--grey-80);
 }
