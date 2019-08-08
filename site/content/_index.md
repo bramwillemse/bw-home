@@ -17,7 +17,7 @@ description: "Bram Willemse is a freelance senior front-end developer and intera
 
 <article class="brammy__card">
     <h1>Designer</h1>
-    <p>I am an experienced designer, best in strategy, ideation and prototyping.</p>
+    <p>I am an experienced designer, best in strategy, ideation & prototyping and interaction design.</p>
 </article>
 
 <article class="brammy__card">
