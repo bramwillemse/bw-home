@@ -1,7 +1,7 @@
 ---
 title: "Articles"
-subline: "When I get enthused, I might occasionally write aboutit."
-type: "articles"
+subline: "I occasionally write about things that excite me."
 description: "An overview of articles written by Bram Willemse."
+type: "articles"
 draft: false
 ---
