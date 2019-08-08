@@ -9,7 +9,17 @@ categories:
   - Books
 ---
 
-Right after I finished 'It doesn't have to be crazy at work' by Basecamp founder Jason Fried – go read it, it's great! –  out came 'Shape Up', a web only book by product strategist Ryan Singer.
+I have too much time at the moment. I came back from a long holiday in France and I’m looking for new freelance project to dive into, while I’m not really sure what I want.
+
+Do I just want to build? Get a ‘regular’ front-end job? Or do I actually want to stop doing actual development work and focus on design, product ownership and/or strategy? Most of the times the answer and results lay somewhere in the middle. But it feels like it’s (almost) time for a bold decision..
+
+## Books, books, books
+Anyways. I have time, so I read quite a lot. For example I highly recommend the science fantasy [Broken Earth trilogy](https://www.goodreads.com/series/112296-the-broken-earth) by N.K. Jemisin. I started on part one a few weeks ago, and I can’t stop.
+
+But if I remember correctly I brought you here promising to talk about Bootcamp’s latest..
+
+## Basecamp's latest book
+Right after I finished 'It doesn't have to be crazy at work' – go read it, it's great! – out came 'Shape Up', a web only book by Basecamp product strategist Ryan Singer.
 
 The former is about building a calm company, focused on getting the best out of your people, instead of the most. The latter is about Basecamp's way of work, focused on actual product design & development.
 
@@ -110,4 +120,6 @@ So yes. I'd highly recommend diving into this little book. Read it for yourself 
 
 {{< button icon="link" label="Read Shape Up" url="https://basecamp.com/shapeup/" >}}
 
-_And be sure to check [other books by Basecamp authors](https://basecamp.com/books/). They're all great!_
+_Be sure to check [other books by Basecamp authors](https://basecamp.com/books/). They're all great!_
+
+_Do you like to read? [Find me on Goodreads](https://www.goodreads.com/bramwillemse), to see what I'm reading. Sometimes I even drop a short review :)_
