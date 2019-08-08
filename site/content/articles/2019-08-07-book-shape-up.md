@@ -2,21 +2,21 @@
 title: "Book: Shape Up, by Ryan Singer"
 date: 2019-08-07T12:04:06+02:00
 draft: true
-introduction: "I have some time to spare and read 'Shape Up', Basecamp's latest book about doing things (software projects) differently than most of us are used to. In this post I'll give you a summary of their Shape Up ideas, my take on it and at the end (SPOILER ALERT!) I'll tell you to go read it."
+introduction: "I read 'Shape Up', Basecamp's latest book about doing software projects differently than we are used to. In this post I'll give you a summary, my take on it and at the end (SPOILER ALERT!) I'll tell you to go read it."
 url: /book-basecamp-shape-up/
 author: Bram
 categories:
   - Books
 ---
 
-I have too much time at the moment. I came back from a long holiday in France and I’m looking for new freelance project to dive into, while I’m not really sure what I want.
+I have too much time at the moment. I came back from a long holiday in France and I’m looking for new freelance project to dive into, while I’m not exactly sure what I want.
 
 Do I just want to build? Get a ‘regular’ front-end job? Or do I actually want to stop doing actual development work and focus on design, product ownership and/or strategy? Most of the times the answer and results lay somewhere in the middle. But it feels like it’s (almost) time for a bold decision..
 
 ## Books, books, books
-Anyways. I have time, so I read quite a lot. For example I highly recommend the science fantasy [Broken Earth trilogy](https://www.goodreads.com/series/112296-the-broken-earth) by N.K. Jemisin. I started on part one a few weeks ago, and I can’t stop.
+Anyways. I have time, so I have been reading quite a lot. For example I highly recommend the science fantasy [Broken Earth trilogy](https://www.goodreads.com/series/112296-the-broken-earth) by N.K. Jemisin. I started on part one a few weeks ago, and I can’t stop.
 
-But if I remember correctly I brought you here promising to talk about Bootcamp’s latest..
+But if I remember correctly I brought you here promising to talk about Bootcamp’s latest. Which, I have to say, was a nice fantasy intermezzo!
 
 ## Basecamp's latest book
 Right after I finished 'It doesn't have to be crazy at work' – go read it, it's great! – out came 'Shape Up', a web only book by Basecamp product strategist Ryan Singer.
