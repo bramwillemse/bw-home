@@ -2,14 +2,15 @@
 .a-button {
   display: inline-flex;
   align-items: center;
+  margin-bottom: var(--regular);
 
-  padding: var(--xxs) var(--xs);
+  padding: var(--xxs) var(--s);
   background-color: var(--blue);
   border: .25rem solid var(--blue);
   border-radius: .5rem;
   outline: none;
 
-  font-size: .666em;
+  /* font-size: .666em; */
   text-transform: lowercase;
   color: var(--white);
 
