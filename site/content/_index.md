@@ -11,16 +11,16 @@ description: "Bram Willemse is a freelance senior front-end developer and intera
 </header>
 
 <article class="brammy__card">
-    <h1>Developer of websites</h1>
-    <p>I am a senior front-end developer and interaction designer, focusing on web standards, accessibility and architecture.</p>
+    <h1>Developer</h1>
+    <p>I am a senior front-end developer focused on web standards, accessibility and architecture.</p>
 </article>
 
 <article class="brammy__card">
-    <h1>Driver of cars</h1>
-    <p>I love cars. To look at them, to listen to them and the best: to drive them. I own a small sports car and love to drive any car I haven't driven before.</p>
+    <h1>Designer</h1>
+    <p>I am an experienced designer, best in strategy, ideation and prototyping.</p>
 </article>
 
 <article class="brammy__card">
-    <h1>Runner of trails</h1>
-    <p>I am a trail runner. I like to escape the crowded city of Amsterdam. And I love the pysical and mental challenge of long distance trails.</p>
+    <h1>Team player</h1>
+    <p>I love working in teams and helped shape them as a front-end lead, design lead and scrummaster.</p>
 </article>
