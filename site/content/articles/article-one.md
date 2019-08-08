@@ -1,15 +1,18 @@
 ---
-title: "Article One"
-type: "articles"
-author: "Bram Willemse"
-date: 2018-02-13T15:48:05+01:00
-description: "Description"
-summary: "This is a summary of an article. Very interesting indeed."
-introduction: "Article one content. With some lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum ipsam recusandae unde, tenetur nemo sint dignissimos sunt error quibusdam. Laudantium eaque culpa incidunt exercitationem nisi assumenda, illum rerum aut soluta."
-resources: []
+author: Bram Willemse
 categories: []
-slug: ""
+date: "2018-02-13T15:48:05+01:00"
+description: Description
 draft: true
+introduction: Article one content. With some lorem ipsum dolor sit amet, consectetur
+  adipisicing elit. Dolorum ipsam recusandae unde, tenetur nemo sint dignissimos sunt
+  error quibusdam. Laudantium eaque culpa incidunt exercitationem nisi assumenda,
+  illum rerum aut soluta.
+resources: []
+slug: ""
+summary: This is a summary of an article. Very interesting indeed.
+title: Article One
+type: articles
 ---
 
 <!--more-->
