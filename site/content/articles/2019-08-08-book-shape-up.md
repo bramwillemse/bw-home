@@ -16,7 +16,7 @@ Do I just want to build? Get a ‘regular’ front-end job? Or do I actually wan
 ## Books, books, books
 Anyways. I have time, so I have been reading quite a lot. For example I highly recommend the science fantasy [Broken Earth trilogy](https://www.goodreads.com/series/112296-the-broken-earth) by N.K. Jemisin. I started on part one a few weeks ago, and I can’t stop.
 
-But if I remember correctly I brought you here promising to talk about Bootcamp’s latest. Which, I have to say, was a nice fantasy intermezzo!
+But if I remember correctly I brought you here promising to talk about Basecamp’s latest. Which, I have to say, was a nice fantasy intermezzo!
 
 ## Basecamp's latest book
 Right after I finished 'It doesn't have to be crazy at work' – go read it, it's great! – out came 'Shape Up', a web only book by Basecamp product strategist Ryan Singer.
