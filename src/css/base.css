@@ -155,7 +155,13 @@ dd {
 
 /* FIGURE */
 figure {
-  margin: 0;
+  margin: 0 0 var(--regular);
+}
+
+figcaption {
+  margin-top: var(--xs);
+  text-align: center;
+  font-style: italic;
 }
 
 /* IMAGE */

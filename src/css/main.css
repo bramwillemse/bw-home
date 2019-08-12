@@ -16,6 +16,7 @@
 /* ATOMS */
 @import "atoms/button.css";
 @import "atoms/date.css";
+@import "atoms/figure.css";
 @import "atoms/introduction.css";
 @import "atoms/list-header.css";
 

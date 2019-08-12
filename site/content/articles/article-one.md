@@ -20,14 +20,15 @@ type: articles
 ## Subtitle h2
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus porro voluptates earum laboriosam aspernatur error animi provident. Ea molestiae, omnis ipsum ducimus id deserunt qui reiciendis. Eos, quod fugit sequi?
 
-![Drag Racing](http://placekitten.com/1280/721)
-
 ### Unordered list
 - Lorem ipsum dolor sit amet
 - Consectetur adipisicing elit
 - Incidunt unde sint vel repellat
 - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum veniam eaque, soluta nobis voluptates assumenda non eius itaque odio tenetur nam esse! Accusantium perferendis harum autem assumenda, alias, aspernatur atque.
 - Saepe animi fuga fugiat ducimus nam tenetur
+
+{{< figure
+  src="http://placekitten.com/1280/721" caption="A cat" lazyload="true">}}
 
 ### Ordered list
 1. Illum voluptatibus commodi
