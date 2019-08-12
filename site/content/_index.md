@@ -1,7 +1,6 @@
 ---
-description: Bram Willemse is a freelance senior front-end developer and interaction
-  designer in Amsterdam, the Netherlands.
-title: Bram Willemse - freelance front-end developer
+description: Bram Willemse is a freelance, senior front-end developer,  designer and team player in Amsterdam, the Netherlands.
+title: Bram Willemse - freelance developer / designer / team player
 type: page
 ---
 
