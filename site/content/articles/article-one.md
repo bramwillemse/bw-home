@@ -27,8 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus porro volu
 - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum veniam eaque, soluta nobis voluptates assumenda non eius itaque odio tenetur nam esse! Accusantium perferendis harum autem assumenda, alias, aspernatur atque.
 - Saepe animi fuga fugiat ducimus nam tenetur
 
-{{< figure
-  src="http://placekitten.com/1280/721" caption="A cat" lazyload="true">}}
+{{< figure src="https://placekitten.com/1280/721" caption="A cat">}}
 
 ### Ordered list
 1. Illum voluptatibus commodi
@@ -36,6 +35,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus porro volu
 3. Inventore illum molestias aut ad dignissimos libero sint, consequuntur minima aspernatur dolor.
 
 Esse fugit enim vitae voluptas perspiciatis excepturi, in eius. Quasi voluptates consectetur, tenetur dolore nesciunt voluptate sit fuga molestias est esse saepe, dolorem ab et doloremque atque ducimus quis nam?
+
+{{< figure src="https://placekitten.com/1280/640" caption="Another cat">}}
 
 ## Subtitle h2
 ### Subtitle h3
@@ -45,5 +46,7 @@ Laudantium, sunt architecto fuga iusto, perferendis provident sapiente hic labor
 
 ### Subtitle h3
 Ipsam earum doloribus, nostrum architecto vitae voluptatibus! Sunt excepturi adipisci ut id, dolore recusandae assumenda quam cumque inventore veritatis, soluta quis nisi. Ex, tempore sed laudantium doloremque beatae possimus harum.
+
+{{< figure src="https://placekitten.com/1280/1024" caption="Another cat">}}
 
 Ullam quos, enim dolorem eos, blanditiis amet sed in expedita asperiores, debitis voluptas libero similique quod neque! Distinctio exercitationem autem, itaque deleniti voluptas voluptates asperiores vero cupiditate debitis, omnis, tenetur.

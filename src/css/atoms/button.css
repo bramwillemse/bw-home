@@ -11,8 +11,9 @@
   outline: none;
 
   /* font-size: .666em; */
-  text-transform: lowercase;
   color: var(--white);
+  text-transform: lowercase;
+
 
   transition-property: background-color, border-color;
   transition-delay: .15s;

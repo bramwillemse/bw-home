@@ -1,0 +1,9 @@
+{{/*
+  Shortcode: Figure
+  Maps shortcode to atom
+*/}}
+{{ $src := (.Get "src") }}
+{{ $caption := (.Get "caption") }}
+{{ $lazy := (.Get "lazyload") }}
+
+{{ partial "atoms/figure" (dict "src" $src "caption" $caption "lazy" $lazy ) }}

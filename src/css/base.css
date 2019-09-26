@@ -14,7 +14,7 @@ html {
   background-color: var(--grey-10);
 
   font-family: Overpass, sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 300;
   line-height: 1.6;
   color: var(--grey-70);
@@ -22,27 +22,27 @@ html {
 
 @media screen and (min-width: 20rem) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 @media (--br-xs) {
   html {
-    font-size: 21px;
+    font-size: 18px;
   }
 }
 @media (--br-s) {
   html {
-    font-size: 24px;
+    font-size: 21px;
   }
 }
 @media (--br-l) {
   html {
-    font-size: 26px;
+    font-size: 24px;
   }
 }
 @media (--br-xl) {
   html {
-    font-size: 29px;
+    font-size: 26px;
   }
 }
 
@@ -160,8 +160,9 @@ figure {
 
 figcaption {
   margin-top: var(--xs);
-  text-align: center;
+
   font-style: italic;
+  text-align: center;
 }
 
 /* IMAGE */

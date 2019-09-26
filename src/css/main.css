@@ -34,4 +34,5 @@
 @import "components/brammy.css";
 
 /* UTILITIES */
+@import "utilities/animation.css";
 @import "utilities/screen-reader-only.css";
