@@ -3,69 +3,7 @@
         "stylelint-order"
     ],
     "rules": {
-        "order/properties-order": [
-            {
-                "properties": [
-                    "display",
-                    "visibility",
-                    "float",
-                    "position",
-                    "top",
-                    "right",
-                    "bottom",
-                    "left",
-                    "flex",
-                    "align",
-                    "justify",
-                    "vertical-align",
-                    "width",
-                    "height",
-                    "min",
-                    "max",
-                    "overflow",
-                    "margin",
-                    "z-index"
-                ]
-            },
-            {
-                "emptyLineBefore": "always",
-                "properties": [
-                    "appearance",
-                    "padding",
-                    "background",
-                    "border",
-                    "drop-shadow",
-                    "outline"
-                ]
-            },
-            {
-                "emptyLineBefore": "always",
-                "properties": [
-                    "content",
-                    "font",
-                    "font-family",
-                    "src",
-                    "font-size",
-                    "font-weight",
-                    "font-style",
-                    "line-height",
-                    "letter-spacing",
-                    "color",
-                    "white-space",
-                    "text-align",
-                    "text-shadow"
-                ]
-            },
-            {
-                "emptyLineBefore": "always",
-                "properties": [
-                   "transform",
-                    "translate",
-                    "transition",
-                    "animation"
-                ]
-            }
-        ],
+        "order/properties-alphabetical-order": true,
         "at-rule-name-case": "lower",
         "at-rule-no-vendor-prefix": true,
         "block-closing-brace-empty-line-before": "never",

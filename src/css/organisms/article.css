@@ -2,8 +2,8 @@
  * ARTICLE
  * A blog post or content page
  */
-.c-article {
+.o-article {
+  margin-bottom: var(--xxl);
   position: relative;
   z-index: var(--z-content);
-  margin-bottom: var(--xxl);
 }

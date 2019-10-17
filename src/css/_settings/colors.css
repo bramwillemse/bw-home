@@ -5,7 +5,8 @@
   --blue-30: #2BC9FF;
   --blue-50: #00A5DD;
   --blue-70: #006C90;
-  --blue-90: #003344;
+  --blue-80: #003344;
+  --blue-90: #001922;
 
   --blue: var(--blue-70);
   --yellow: #FFFF00;

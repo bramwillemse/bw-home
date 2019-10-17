@@ -1,0 +1,25 @@
+/* HEADINGS */
+
+h1,
+.h1 {
+  font-size: var(--regular);
+  font-weight: 600;
+  /* Helps keeping HTML semantics intact */
+  margin: 0 0 var(--regular);
+}
+
+h2,
+.h2 {
+  font-size: var(--regular);
+  font-weight: 600;
+  /* Helps keeping HTML semantics intact */
+  margin: 0 0 var(--regular);
+}
+
+h3,
+.h3 {
+  font-size: var(--regular);
+  font-weight: 600;
+  /* Helps keeping HTML semantics intact */
+  margin: 0 0 var(--regular);
+}
