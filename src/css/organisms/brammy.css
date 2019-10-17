@@ -2,39 +2,39 @@
  * Brammy
  * All about Bram and his mad cards
  */
-.c-brammy {
+.o-brammy {
+  align-items: start;
   /* Start with 4 columns */
   display: grid;
-  align-items: start;
-  grid-template-columns: [col1-start] 1fr [col1-end col2-start] 1fr [col2-end col3-start] 1fr [col3-end col4-start] 1fr [col4-end];
   grid-gap: var(--xl);
+  grid-template-columns: [col1-start] 1fr [col1-end col2-start] 1fr [col2-end col3-start] 1fr [col3-end col4-start] 1fr [col4-end];
   margin: 0 var(--spacing-xs) var(--spacing-l);
 }
 
 @media (--br-s) {
-  .c-brammy {
+  .o-brammy {
     grid-gap: var(--l);
   }
 }
 
 @media (--br-m) {
-  .c-brammy {
+  .o-brammy {
     grid-gap: var(--xl);
     margin: 0 var(--spacing-xl) var(--spacing-xl);
   }
 }
 
 @media (--br-l) {
-  .c-brammy {
+  .o-brammy {
+    grid-gap: var(--xl);
     /* Change to 3 columns */
     grid-template-columns: [col1-start] 1fr [col2-start] 1fr [col3-start] 1fr [col3-end];
-    grid-gap: var(--xl);
     grid-template-rows: auto auto;
   }
 }
 
 @media (--br-xl) {
-  .c-brammy {
+  .o-brammy {
     grid-gap: var(--xxl);
   }
 }
@@ -43,48 +43,48 @@
  * A singular card
  * Describing something about Brammy.
  */
-.brammy__card {
+.o-brammy__card {
   grid-column: span 4;
 }
 
-.brammy__image {
-  width: 3.3rem;
+.o-brammy__image {
   margin-bottom: var(--spacing-s);
+  width: 3.3rem;
 }
-.brammy__card h1 {
+.o-brammy__card h1 {
   margin-bottom: 0;
 }
 
 @media (--br-s) {
-  .brammy__card {
+  .o-brammy__card {
     grid-column: span 2;
   }
-  .brammy__card:nth-child(2) {
+  .o-brammy__card:nth-child(2) {
     margin-top: calc(3.3rem + var(--spacing-s));
   } /* correct image space */
-  .brammy__image {
+  .o-brammy__image {
+    align-items: flex-start;
     display: flex;
     justify-content: flex-end;
-    align-items: flex-start;
   }
 }
 
 @media (--br-l) {
-  .brammy__card {
+  .o-brammy__card {
     grid-column: span 1;
     grid-row: 2 / 4;
   }
-  .brammy__card:nth-child(2) {
+  .o-brammy__card:nth-child(2) {
     margin-top: 0;
   } /* correct image space */
-  .brammy__header {
-    grid-row: 1 / 2;
+  .o-brammy__header {
     grid-column: span 2;
+    grid-row: 1 / 2;
   }
 }
 
 @media (--br-xl) {
-  .brammy__header {
+  .o-brammy__header {
     grid-column: span 1;
   }
 }

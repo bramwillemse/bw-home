@@ -1,16 +1,15 @@
 .m-article-header {
-  position: relative;
-  z-index: var(--z-rel-1st);
-
+  background-color: var(--blue-90);
   border-top: solid 1rem var(--blue);
   padding-top: 1rem;
-  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  z-index: var(--z-rel-1st);
 }
 
 .m-article-header h1 {
   margin-bottom: 0;
 }
 
-.article-header__date {
+.m-article-header__date {
   margin-bottom: var(--spacing-s);
 }

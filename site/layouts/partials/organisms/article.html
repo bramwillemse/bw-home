@@ -1,18 +1,18 @@
-<article class="c-article">
+<article class="o-article">
   {{ partial "molecules/visual-banner" . }}
 
-  <nav class="m-article-navigation o-content-block content-block--transparent">
+  <nav class="m-article-navigation e-content-block e-content-block--transparent">
     {{ partial "atoms/button" (dict "icon" "list" "url" "/articles" "label" "Back to articles" "classes" "a-button--secondary m-article-navigation__button") }}
   </nav>
 
   {{ partial "molecules/article-header" . }}
 
-  <section class="o-content-block">
+  <section class="e-content-block">
     {{ .Content }}
   </section>
 
   {{/*
-  <footer class="c-article__footer o-content-block content-block--transparent">
+  <footer class="o-article__footer e-content-block e-content-block--transparent">
     {# Add related content or other click through material #}
   </footer>
   */}}

@@ -1,0 +1,27 @@
+.e-content-block {
+  background-color: var(--white);
+  display: block;
+  margin: 0 var(--spacing-xs) var(--spacing-m);
+  max-width: calc(100% - 2.5rem);
+  padding: var(--spacing-m) var(--s);
+  width: 56ch;
+}
+
+@media (--br-m) {
+  .e-content-block {
+    grid-column: span 3;
+    margin: 0 var(--spacing-xl) var(--spacing-m);
+    padding: var(--xl);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .e-content-block {
+    background-color: var(--blue-90);
+  }
+}
+
+.e-content-block--transparent {
+  background-color: transparent;
+  padding: 0;
+}
