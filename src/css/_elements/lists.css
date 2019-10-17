@@ -1,0 +1,37 @@
+/* LISTS */
+
+ul,
+ol,
+dl {
+  list-style-position: inside;
+  margin: 0 0 var(--regular);
+  padding: 0;
+}
+
+/* DEFINITION LISTS */
+/* dl {} */
+
+dt,
+dd {
+  display: block;
+}
+
+dt {
+  font-weight: 300;
+}
+
+dd {
+  margin: 0 0 var(--regular);
+}
+
+@media (--br-s) {
+  dt,
+  dd {
+    display: inline-block;
+    margin-right: var(--xs);
+  }
+
+  dd {
+    margin-right: var(--regular);
+  }
+}

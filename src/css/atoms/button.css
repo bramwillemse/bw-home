@@ -44,8 +44,8 @@
 .a-button:active {
   background-color: var(--blue);
   border-color: var(--blue-50);
-  border-top-color: var(--blue-90);
-  border-left-color: var(--blue-90);
+  border-top-color: var(--blue-80);
+  border-left-color: var(--blue-80);
 }
 
 .a-button .a-icon {

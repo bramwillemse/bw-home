@@ -1,0 +1,21 @@
+/* BLOCKQUOTE */
+
+blockquote {
+  /* font-size: var(--m); */
+  font-weight: 600;
+  /* display: inline; */
+  margin: 0 0 var(--regular);
+  text-align: left;
+}
+
+blockquote p {
+  margin-bottom: 0;
+}
+
+blockquote:before {
+  content: "<quote>";
+}
+
+blockquote:after {
+  content: "</quote>";
+}
