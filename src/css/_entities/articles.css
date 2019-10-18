@@ -1,0 +1,11 @@
+/*
+ARTICLES
+--------
+Shifted layout on bigger screens
+*/
+
+@media (--br-l) {
+  .e-articles .article:nth-child(even) {
+    transform: translateX(var(--spacing-m));
+  }
+}

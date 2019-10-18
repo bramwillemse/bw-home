@@ -1,3 +1,11 @@
 .o-site-header {
-  display: block;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  pointer-events: none;
+  z-index: var(--z-header);
+}
+
+.o-site-header__logo {
+  pointer-events: auto;
 }
