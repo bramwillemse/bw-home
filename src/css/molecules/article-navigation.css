@@ -1,6 +1,6 @@
 .m-article-navigation {
-  padding-top: var(--spacing-m);
   margin-bottom: var(--spacing-m);
+  padding-top: var(--spacing-m);
 }
 
 .m-article-navigation__button {

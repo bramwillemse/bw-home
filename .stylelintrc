@@ -3,6 +3,7 @@
         "stylelint-order"
     ],
     "rules": {
+        "declaration-empty-line-before": "never",
         "order/properties-alphabetical-order": true,
         "at-rule-name-case": "lower",
         "at-rule-no-vendor-prefix": true,
@@ -77,7 +78,7 @@
         "selector-pseudo-class-case": "lower",
         "selector-pseudo-class-no-unknown": true,
         "selector-pseudo-element-case": "lower",
-        "selector-pseudo-element-colon-notation": "single",
+        "selector-pseudo-element-colon-notation": "double",
         "selector-pseudo-element-no-unknown": true,
         "selector-type-case": "lower",
         "selector-type-no-unknown": true,
