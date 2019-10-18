@@ -13,6 +13,7 @@
 @import "atoms/figure.css";
 @import "atoms/introduction.css";
 @import "atoms/list-header.css";
+@import "atoms/logo.css";
 
 /* MOLECULES */
 @import "molecules/article-header.css";

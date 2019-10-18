@@ -1,0 +1,27 @@
+.a-logo {
+  border: .2rem solid var(--blue);
+  border-radius: 100%;
+  box-shadow: var(--shadow-image);
+  cursor: crosshair;
+  margin: var(--spacing-s) var(--spacing-s) var(--spacing-s) 0;
+  overflow: hidden;
+  padding: 0;
+  transform-origin: top left;
+  transition: .3s border var(--ease-in-out-quad), 1s transform var(--ease-in-out-quad);
+  width: 3.3rem;
+  z-index: var(--z-header);
+}
+
+.a-logo::after {
+  display: none;
+}
+
+.a-logo:hover,
+.a-logo:focus {
+  border-color: var(--blue-50);
+  transform: none;
+}
+
+.a-logo:active {
+  transform: scale(5);
+}

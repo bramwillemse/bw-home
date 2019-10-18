@@ -12,7 +12,7 @@
       <span class="a-list-header__subline">{{ .Params.Subline }}</span>
     </header>
 
-    <section class="articles__list">
+    <section class="e-articles">
       {{ range first 10 .Data.Pages }}
         {{ if eq .Type "articles" }}
           <article class="article e-content-block">

@@ -7,7 +7,7 @@
  */
 html {
   background-color: var(--grey-10);
-  color: var(--grey-70);
+  color: var(--blue-90);
   font-family: Overpass, sans-serif;
   font-size: 16px;
   font-weight: 300;
@@ -45,4 +45,10 @@ html {
   html {
     font-size: 29px;
   }
+}
+
+/* Generic styles */
+*::selection {
+  background-color: var(--yellow);
+  color: var(--blue-90);
 }

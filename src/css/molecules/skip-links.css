@@ -1,24 +1,25 @@
 .m-skip-links {
-  background-color: var(--blue-80);
+  background-color: var(--blue-90);
   color: var(--white);
   display: flex;
   flex-direction: column;
   position: absolute;
   top: 0;
   transform: translateY(-100%);
-  transition: .3s ease-in-out;
+  transition: .3s var(--ease-in-out-quad);
   transition-property: transform;
   width: 100%;
   z-index: var(--z-modal);
 }
 
 .m-skip-links:focus-within {
+  box-shadow: var(--shadow-panel);
   transform: translateY(0);
 }
 
 .m-skip-links__list {
   list-style: none;
-  margin: 0 var(--spacing-xs) var(--spacing-l);
+  margin: var(--spacing-l) .75rem var(--spacing-l);
 }
 
 @media (--br-m) {
@@ -30,9 +31,4 @@
 .m-skip-links__item {
   display: block;
   margin-bottom: var(--spacing-xs);
-}
-
-.m-skip-links__link {
-  border-color: var(--yellow);
-  color: var(--yellow);
 }

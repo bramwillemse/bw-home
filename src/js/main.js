@@ -1,5 +1,5 @@
-import lazyLoader from './components/lazy-loader';
-import scrollAnimator from './components/scroll-animator';
+import lazyLoader from './components/lazy-loader'
+import scrollAnimator from './components/scroll-animator'
 
-lazyLoader();
-scrollAnimator();
+lazyLoader()
+scrollAnimator()
