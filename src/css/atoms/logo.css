@@ -3,7 +3,6 @@
   border-radius: 100%;
   box-shadow: var(--shadow-image);
   cursor: crosshair;
-  margin: var(--spacing-s) var(--spacing-s) var(--spacing-s) 0;
   overflow: hidden;
   padding: 0;
   transform-origin: top left;

@@ -52,3 +52,9 @@ html {
   background-color: var(--yellow);
   color: var(--blue-90);
 }
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
