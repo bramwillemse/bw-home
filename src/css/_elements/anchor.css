@@ -21,8 +21,23 @@ a:hover {
   outline: none;
 }
 
+a:not(.a-button):active {
+  transform: scale(.95);
+}
+
+@media (prefers-color-scheme: dark) {
+  a {
+    color: var(--blue-50);
+  }
+
+  a:focus,
+  a:hover {
+    color: var(--blue-90);
+  }
+}
+
 /* Animated underline */
-a::after {
+a:not(.a-button)::after {
   background-color: currentColor;
   bottom: 1px;
   content: "";
@@ -36,34 +51,21 @@ a::after {
   z-index: -1;
 }
 
-a:focus::after,
-a:hover::after {
+a:not(.a-button):focus::after,
+a:not(.a-button):hover::after {
   background-color: var(--blue-10);
   height: 100%;
   width: 100%;
 }
 
 @media (prefers-color-scheme: dark) {
-  a:focus::after,
-  a:hover::after {
+  a:not(.a-button):focus::after,
+  a:not(.a-button):hover::after {
     background-color: var(--yellow);
   }
 }
 
-a:active {
-  transform: scale(.95);
-}
-
 @media (prefers-color-scheme: dark) {
-  a {
-    color: var(--blue-50);
-  }
-
-  a:focus,
-  a:hover {
-    color: var(--blue-90);
-  }
-
   a:focus::after,
   a:hover::after {
     background-color: var(--yellow);

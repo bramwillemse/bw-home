@@ -1,5 +1,15 @@
-<header class="o-site-header e-content-block e-content-block--transparent">
-  <a class="a-logo o-site-header__logo" href="/">
-    <img src="/img/bram-willemse.jpg" alt="A photo of Bram Willemse smiling out loud." width="762" height="763">
-  </a>
+<header class="o-site-header">
+  <div class="o-site-header__left">
+    {{ partial "atoms/button" (dict "icon" "list" "url" "/articles" "label" "Back to articles" "classes" "a-button--secondary m-article-navigation__button") }}
+  </div>
+
+  <div class="o-site-header__center">
+    <a class="a-logo" href="/">
+      <img src="/img/bram-willemse.jpg" alt="A photo of Bram Willemse smiling out loud." width="762" height="763">
+    </a>
+  </div>
+
+  <div class="o-site-header__right">
+    <div>right part</div>
+  </div>
 </header>
