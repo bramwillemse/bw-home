@@ -11,5 +11,6 @@ dist/*
 node_modules
 styleguide
 tmp/*
+
 # Local Netlify folder
 .netlify

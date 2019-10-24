@@ -7,7 +7,7 @@
   /* Start with 4 columns */
   display: grid;
   grid-gap: var(--xl);
-  grid-template-columns: [col1-start] 1fr [col1-end col2-start] 1fr [col2-end col3-start] 1fr [col3-end col4-start] 1fr [col4-end];
+  grid-template-columns: repeat(4, 1fr);
   margin: 0 var(--spacing-xs) var(--spacing-l);
 }
 
@@ -28,7 +28,7 @@
   .o-brammy {
     grid-gap: var(--xl);
     /* Change to 3 columns */
-    grid-template-columns: [col1-start] 1fr [col2-start] 1fr [col3-start] 1fr [col3-end];
+    grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto auto;
   }
 }
@@ -39,10 +39,10 @@
   }
 }
 
-/**
- * A singular card
- * Describing something about Brammy.
- */
+/*
+A singular card
+Describing something about Brammy.
+*/
 .o-brammy__card {
   grid-column: span 4;
 }
@@ -60,18 +60,12 @@
   .o-brammy__card {
     grid-column: span 2;
   }
-  .o-brammy__card:nth-child(2) {
-    margin-top: calc(3.3rem + var(--spacing-m) + .4rem); /* correct image space */
-  }
 }
 
 @media (--br-l) {
   .o-brammy__card {
     grid-column: span 1;
     grid-row: 2 / 4;
-  }
-  .o-brammy__card:nth-child(2) {
-    margin-top: 0; /* correct image space */
   }
 
   .o-brammy__header {
