@@ -1,6 +1,13 @@
 .a-list-header {
-  /* display: inline-flex; */
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--spacing-s);
+  width: 100%;
 }
 
-.a-list-header__title { display: inline; }
-.a-list-header__subline { display: inline;}
+.a-list-header__title {
+  display: inline;
+}
+.a-list-header__subline {
+  display: inline;
+}
