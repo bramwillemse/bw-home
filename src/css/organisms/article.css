@@ -1,9 +1,10 @@
-/**
- * ARTICLE
- * A blog post or content page
- */
+/*
+ARTICLE
+-------
+A blog post or content page
+*/
+
 .o-article {
   margin-bottom: var(--xxl);
-  position: relative;
   z-index: var(--z-content);
 }

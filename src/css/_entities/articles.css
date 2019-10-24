@@ -4,8 +4,24 @@ ARTICLES
 Shifted layout on bigger screens
 */
 
-@media (--br-l) {
-  .e-articles .article:nth-child(even) {
-    transform: translateX(var(--spacing-m));
+@media (--br-xxl) {
+  .e-grid {
+    display: grid;
+    grid-gap: var(--spacing-l);
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: var(--spacing-xl);
+    margin-left: var(--spacing-xl);
+    margin-right: var(--spacing-xl);
+  }
+
+  .e-grid__item {
+    margin: 0;
+    max-width: 100%;
+  }
+}
+
+@media (--br-xxxl) {
+  .e-grid {
+    grid-template-columns: repeat(3, 1fr);
   }
 }

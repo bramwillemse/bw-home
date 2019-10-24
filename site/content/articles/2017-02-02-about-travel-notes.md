@@ -1,11 +1,11 @@
 ---
 author: bram
 categories:
-- travel notes
-date: "2017-02-02T09:14:43+00:00"
+  - travel notes
+date: '2017-02-02T09:14:43+00:00'
 dsq_thread_id:
-- 5514783914
-featured_image: http://blog.bramwillemse.nl/app/uploads/2017/02/shared-travel-experiences-e1486034021965.jpg
+  - 5514783914
+featured_image: images/travel-notes/shared-travel-experiences.jpg
 introduction: Ever since my friend Stef introduced me to it, I've loved Workflowy.
   I use it to take notes of meetings, type out concepts and strike off todo lists.
   I don't always use it, because sometimes I feel like writing in IA Writer, Google
@@ -42,22 +42,22 @@ Because although I loved my own list and others loved it. Something's been gnawi
 
 I have nothing but love for Workflowy, really. But I believe:
 
-  1. There's a better way to take travel notes
-  2. A way that is as easy to share as Workflowy lists &#8230;
-  3. &#8230; but way easier to make your own.
+1. There's a better way to take travel notes
+2. A way that is as easy to share as Workflowy lists &#8230;
+3. &#8230; but way easier to make your own.
 
 I will develop a design prototype to show you (and myself ;-) how I think this should really work.
 
 ## The plan
 
-  1. <del>Make a three-month plan</del>
-      1. See [the main Travel Notes Workflowy-list][3]
-      2. See [the estimate (pdf)][4] I wrote to myself<del></del>
-  2. Write down the concept (I'll publish it here soon)
-  3. Create a data and user flow.
-  4. Do some scribbling in a sketch book
-  5. Build a prototype, <del>save</del> show the world!
-  6. Decision time. Keep going, or take a hike.
+1. <del>Make a three-month plan</del>
+   1. See [the main Travel Notes Workflowy-list][3]
+   2. See [the estimate (pdf)][4] I wrote to myself<del></del>
+2. Write down the concept (I'll publish it here soon)
+3. Create a data and user flow.
+4. Do some scribbling in a sketch book
+5. Build a prototype, <del>save</del> show the world!
+6. Decision time. Keep going, or take a hike.
 
 I'll [keep you updated on Twitter (][5]the easy updates) and come back here for the big announcements (IPO's, celebrity ambassadors, etc.). Any feedback you have to give is great. Share your experience!
 
@@ -66,18 +66,19 @@ Next up: the concept. Stay tuned.
 Cheers,
 Bram
 
-*PS*
-*I just posted my first blog post in English!*
+_PS_
+_I just posted my first blog post in English!_
 
 ## **Updates**
-  * **About travel notes** &#8211; You are here
-  * [The Concept][6]
-  * [Taking a step back with Applied User Story Mapping][7]
 
- [1]: https://workflowy.com/s/bLm4mVvK9P
- [2]: https://workflowy.com/s/PJaCKqLdgf
- [3]: https://workflowy.com/s/qztTCz01Gu
- [4]: https://www.dropbox.com/s/sul8x83ifev0dyz/bramwillemse-estimate-travelnotes.pdf?dl=0
- [5]: http:s//twitter.com/bramwillemse
- [6]: /travel-notes-concept/
- [7]: /travel-notes-taking-step-back-applied-user-story-mapping/
+- **About travel notes** &#8211; You are here
+- [The Concept][6]
+- [Taking a step back with Applied User Story Mapping][7]
+
+[1]: https://workflowy.com/s/bLm4mVvK9P
+[2]: https://workflowy.com/s/PJaCKqLdgf
+[3]: https://workflowy.com/s/qztTCz01Gu
+[4]: https://www.dropbox.com/s/sul8x83ifev0dyz/bramwillemse-estimate-travelnotes.pdf?dl=0
+[5]: http:s//twitter.com/bramwillemse
+[6]: /travel-notes-concept/
+[7]: /travel-notes-taking-step-back-applied-user-story-mapping/

@@ -1,21 +1,15 @@
 {{ partial "header" . }}
 
-<nav class="m-article-navigation e-content-block e-content-block--transparent">
-  {{ partial "atoms/button" (dict "classes" "a-button--secondary" "icon" "home" "label" "Back to Bram" "url" "/") }}
-</nav>
-
-
 <main id="site-main" tabindex="-1" class="o-site-main">
   <section class="list">
-    <header class="a-list-header e-content-block e-content-block--transparent">
+    <header class="a-list-header">
       <h1 class="a-list-header__title">{{ .Title }}</h1>
-      <span class="a-list-header__subline">{{ .Params.Subline }}</span>
     </header>
 
-    <section class="e-articles">
+    <section class="e-articles e-grid">
       {{ range first 10 .Data.Pages }}
         {{ if eq .Type "articles" }}
-          <article class="article e-content-block">
+          <article class="article e-content-block e-grid__item">
             <h1>
               <a href="{{ .Permalink }}" tabindex="-1">
                 {{ .Title }}

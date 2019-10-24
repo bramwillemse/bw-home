@@ -10,13 +10,13 @@
 }
 
 .visual-banner--is-empty {
-  /* background-color: var(--grey-90); */
-  height: 25vh;
+  background-color: var(--grey-90);
+  height: 33vh;
 }
 
 @media (prefers-color-scheme: dark) {
   .visual-banner--is-empty {
-    /* background-color: var(--blue-90); */
+    background-color: var(--blue-90);
   }
 }
 

@@ -31,6 +31,7 @@
         "gulp-sourcemaps": "^2.6.4",
         "gulp-uglify": "^3.0.0",
         "hugo-bin": "^0.22.0",
+        "netlify-cli": "^2.19.0",
         "postcss": "^6.0.17",
         "postcss-cssnext": "*",
         "postcss-custom-media": "*",
