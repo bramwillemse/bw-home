@@ -10,7 +10,7 @@ type: articles
 url: /interview-about-koning-van-spanje-trailrunning-race/
 ---
 
-_This is an interview conducted with me, by [my training buddies of ATAC (Amsterdam Triathlon And Cycling) Club][1]. It was published in their monthly newsletter._
+_This is an interview conducted with me, by my training buddies of [ATAC (Amsterdam Triathlon And Cycling) Club][1]. It was published in their monthly newsletter._
 
 Southern Limburg is the most hilly part of the Netherlands which most of us already know through cycling. It&#8217;s also a beautiful and demanding region for the KvS. This year there were 2 Atac members present. Brian Gibson did the 32k event on Saterday, Bram did the 42k on Sunday. Some real amateurs/masochists did both. The 42k was also the Dutch Championships trailrunning.
 
@@ -34,7 +34,7 @@ The atmosphere was great over the whole weekend. On friday I ran a super fun 16k
 
 It&#8217;s actually a bit of a let down. From one angle it&#8217;s very photogenic, but all I got was three blurry pictures. And because I got only one foot wet, I ran with one cold and one warm foot for about twenty minutes. Super annoying! :P
 
-## More trailrunning comming up?
+## More trailrunning coming up?
 
 Hell yeah! Two days after I registered for the Vaalserberg trail on june 11th. It&#8217;ll be only 30k, but the same climb as Koning van Spanje. Trail running&#8217;s the best, especially in the hills or mountains.
 

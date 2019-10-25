@@ -40,10 +40,10 @@ And this how it's done (by me, today 8-). Off course it's better to do this in a
 
 As you might already know my idea for Travel Notes has come from my own personal travel journey. So what you're seeing here is mostly based on my 4 month trip to South America last year.
 
-<img src="images/travel-notes/travel-notes-step-1-1.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 1)" />
-<img src="images/travel-notes/travel-notes-step-1-2.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 2)" />
-<img src="images/travel-notes/travel-notes-step-1-3.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 3)" />
-<img src="images/travel-notes/travel-notes-step-1-4.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 4)" />
+{{<figure src="images/travel-notes/travel-notes-step-1-1.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 1)">}}
+{{<figure src="images/travel-notes/travel-notes-step-1-2.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 2)">}}
+{{<figure src="images/travel-notes/travel-notes-step-1-3.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 3)">}}
+{{<figure src="images/travel-notes/travel-notes-step-1-4.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 4)">}}
 
 ## 2. Grouping the actions
 
@@ -58,24 +58,22 @@ As you could see in the pictures, I kept it simple:
 
 Quantity is more important than quality. As I was on my own I took quite a lot of time for this phase. The only limitation I set was the amount of blue post-its I had.
 
-<img src="images/travel-notes/travel-notes-step-2-ideas.jpeg" alt="Travel Notes Brainstorm phase: adding as much ideas as possible"/>
+{{<figure src="images/travel-notes/travel-notes-step-2-ideas.jpeg" alt="Travel Notes Brainstorm phase: adding as much ideas as possible">}}
 
 ## 4. Vote and arrange ideas
 
 I put little asterisks on the ideas I liked best. All me, so no real limit on votes here. Normally everyone would get a limited set of dots to stick to their favourite ideas. The ideas with the most votes get through to the prioritisation phase.
 
-<img src="/images/travel-notes/travel-notes-applied-user-story-mapping-overview.jpeg"  />
+{{<figure src="/images/travel-notes/travel-notes-applied-user-story-mapping-overview.jpeg">}}
 
 ## 5. Prioritise!
 
 So here I took the highest voted ideas (all of them ?) and put them on a scale: Impact vs. Effort. The idea is to pick the ideas with the highest impact and the least impact. So the upper left quadrant in the scale.
 
-<img src="/images/travel-notes/travel-notes-prioritise.jpeg" />
-
+{{<figure src="/images/travel-notes/travel-notes-prioritise.jpeg">}}
 What surprised me here was my choice for photos over sharing. Because sharing is one of the key features of my concept. But nope. The impact might be big, but the effort's too. So you're out, sharing! **\*BAM\***
 
-<img src="/images/travel-notes/travel-notes-ideas-top-3.jpeg" />
-
+{{<figure src="/images/travel-notes/travel-notes-ideas-top-3.jpeg">}}
 Off course I'll have to feature the sharing part. But not now. First I'll go for photos, because it's a (presumably) easy addition with a (presumed) big impact. First let's get that in order, than sharing will get it's chance!
 
 ## What's next?
