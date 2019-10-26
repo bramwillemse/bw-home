@@ -1,0 +1,8 @@
+<figure class="a-figure">
+  <img data-src="{{ .src }}" alt="{{ .alt }}" loading="lazy" data-animation="zoom-in">
+  {{ if .caption }}
+    <figcaption>
+     {{ .caption }}
+    </figcaption>
+  {{ end }}
+</figure>

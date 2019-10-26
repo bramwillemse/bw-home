@@ -1,5 +1,11 @@
 /* FIGURE */
 
 figure {
-  margin: 0;
+  margin: 0 0 var(--regular);
+}
+
+figcaption {
+  font-style: italic;
+  margin-top: var(--xs);
+  text-align: center;
 }
