@@ -74,6 +74,7 @@ So here I took the highest voted ideas (all of them ?) and put them on a scale: 
 What surprised me here was my choice for photos over sharing. Because sharing is one of the key features of my concept. But nope. The impact might be big, but the effort's too. So you're out, sharing! **\*BAM\***
 
 {{<figure src="/images/travel-notes/travel-notes-ideas-top-3.jpeg">}}
+
 Off course I'll have to feature the sharing part. But not now. First I'll go for photos, because it's a (presumably) easy addition with a (presumed) big impact. First let's get that in order, than sharing will get it's chance!
 
 ## What's next?
