@@ -9,7 +9,7 @@
     <section class="e-articles e-grid">
       {{ range first 10 .Data.Pages }}
         {{ if eq .Type "articles" }}
-          <article class="o-article e-content-block e-grid__item">
+          <article class="o-article o-article--compact e-content-block e-grid__item">
             <h1>
               <a href="{{ .Permalink }}" tabindex="-1">
                 {{ if (.Params.title_short) }}

@@ -8,3 +8,7 @@ A blog post or content page
   margin-bottom: var(--xxl);
   z-index: var(--z-content);
 }
+
+.o-article--compact {
+  border-left: solid 1rem var(--blue);
+}
