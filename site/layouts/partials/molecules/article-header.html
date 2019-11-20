@@ -1,5 +1,7 @@
 <header class="m-article-header e-content-block">
   <h1>{{ .Title }}</h1>
-  <div class="a-date m-article-header__date">{{ .Date.Format "Monday, January 2, 2006" }}</div>
+  <div class="a-date m-article-header__date">
+    {{ .Date.Format "Monday, January 2, 2006" }}
+  </div>
   <p class="a-introduction">{{ .Params.introduction | safeHTML }}</p>
 </header>
