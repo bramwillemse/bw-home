@@ -1,10 +1,8 @@
 /* BREAKPOINTS */
-:root {
-  @custom-media --br-xs (min-width: 30em);
-  @custom-media --br-s (min-width: 40em);
-  @custom-media --br-m (min-width: 60em);
-  @custom-media --br-l (min-width: 70em);
-  @custom-media --br-xl (min-width: 90em);
-  @custom-media --br-xxl (min-width: 110em);
-  @custom-media --br-xxxl (min-width: 140em);
-}
+@custom-media --br-xs (min-width: 30em);
+@custom-media --br-s (min-width: 40em);
+@custom-media --br-m (min-width: 60em);
+@custom-media --br-l (min-width: 70em);
+@custom-media --br-xl (min-width: 90em);
+@custom-media --br-xxl (min-width: 110em);
+@custom-media --br-xxxl (min-width: 140em);

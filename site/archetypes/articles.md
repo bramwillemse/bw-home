@@ -8,5 +8,5 @@ summary: ""
 resources: []
 categories: []
 slug: ""
-draft: true
+draft: false
 ---

@@ -2,7 +2,7 @@
 
 <main id="site-main" tabindex="-1" class="o-site-main">
   <section class="list">
-    <header class="a-list-header">
+    <header class="a-list-header e-content-block e-content-block--transparent">
       <h1 class="a-list-header__title">{{ .Title }}</h1>
     </header>
 
@@ -12,7 +12,11 @@
           <article class="article e-content-block e-grid__item">
             <h1>
               <a href="{{ .Permalink }}" tabindex="-1">
-                {{ .Title }}
+                {{ if (.Params.title_short) }}
+                  {{ .Params.title_short }}
+                {{ else }}
+                  {{ .Title }}
+                {{ end }}
               </a>
             </h1>
 

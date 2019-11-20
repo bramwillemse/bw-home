@@ -1,14 +1,14 @@
 .e-content-block {
   background-color: var(--white);
   display: block;
-  margin: 0 var(--spacing-xs) var(--spacing-l);
+  margin: 0 var(--spacing-xs) var(--spacing-m);
   max-width: 56ch;
   padding: var(--spacing-m) var(--s);
 }
 
 @media (--br-m) {
   .e-content-block {
-    margin: 0 var(--spacing-xl) var(--spacing-xl);
+    margin: 0 var(--spacing-xl) var(--spacing-m);
     padding: var(--xl);
   }
 }
