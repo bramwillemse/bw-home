@@ -1,7 +1,8 @@
 .a-logo {
-  border: .2rem solid var(--blue);
+  border: .2rem solid var(--grey-80);
   border-radius: 100%;
-  box-shadow: var(--shadow-image);
+  box-shadow: var(--shadow-default);
+  height: 3.3rem;
   overflow: hidden;
   padding: 0;
   transform-origin: top left;
@@ -15,7 +16,9 @@
 }
 
 .a-logo:hover,.a-logo:focus {
-  border-color: var(--blue-50);
+  border-color: var(--blue);
+  border-left-color: var(--blue-50);
+  border-top-color: var(--blue-50);
   transform: none;
 }
 

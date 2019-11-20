@@ -1,7 +1,7 @@
 {{ if .Params.featured_image }}
 <figure class="m-visual-banner">
   <img
-    class="visual-banner__image"
+    class="m-visual-banner__image"
     src="{{ .Params.featured_image }}"
     alt="{{ .Params.feature_image_label }}"
   />
@@ -10,5 +10,7 @@
   {{ end }}
 </figure>
 {{ else }}
-<figure class="m-visual-banner visual-banner--is-empty"></figure>
+<figure class="m-visual-banner m-visual-banner--is-empty"></figure>
 {{ end }}
+
+<div class="a-visual-banner-overlay"></div>

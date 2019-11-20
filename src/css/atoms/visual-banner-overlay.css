@@ -1,0 +1,16 @@
+.a-visual-banner-overlay {
+  background-color: var(--grey-10);
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  top: 88vh;
+  width: 100vw;
+  z-index: var(--z-content-below);
+}
+
+@media (prefers-color-scheme: dark) {
+  .a-visual-banner-overlay {
+    background-color: var(--blue-80);
+  }
+}

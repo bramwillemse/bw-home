@@ -2,11 +2,10 @@
   align-items: center;
   display: grid;
   grid-gap: var(--spacing-xs);
-  grid-template:
-    "center center"
-    "left right";
+  grid-template: "center center" "left right";
   grid-template-columns: repeat(minmax(0, 1fr));
   margin: var(--spacing-xs) var(--spacing-xs) var(--spacing-m);
+  position: relative;
   width: auto;
   z-index: var(--z-header);
 }

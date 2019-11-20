@@ -5,7 +5,7 @@
   flex-direction: column;
   position: absolute;
   top: 0;
-  transform: translateY(-100%);
+  transform: translateY(calc(-100% - var(--spacing-l)));
   transition: .3s var(--ease-in-out-quad);
   transition-property: transform;
   width: 100%;

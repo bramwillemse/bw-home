@@ -3,24 +3,24 @@
   height: 88vh;
   left: 0;
   overflow: hidden;
-  position: absolute;
+  position: fixed;
   right: 0;
   top: 0;
-  z-index: var(--z-rel-basement);
+  z-index: var(--z-visual-banner);
 }
 
-.visual-banner--is-empty {
+.m-visual-banner--is-empty {
   background-color: var(--grey-90);
   height: 33vh;
 }
 
 @media (prefers-color-scheme: dark) {
-  .visual-banner--is-empty {
+  .m-visual-banner--is-empty {
     background-color: var(--blue-90);
   }
 }
 
-.visual-banner__image {
+.m-visual-banner__image {
   object-fit: cover;
   object-position: top;
   width: 100%;

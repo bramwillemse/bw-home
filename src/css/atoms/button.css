@@ -7,15 +7,16 @@ BUTTON
   align-items: center;
   background-color: var(--blue);
   border: .25rem solid var(--blue);
-  border-radius: .5rem;
+  border-radius: 3.3rem;
   color: var(--white);
   display: inline-flex;
+  height: 3.3rem;
   margin-bottom: var(--regular);
   outline: none;
   padding: var(--xxs) var(--s);
   text-transform: lowercase;
   transition-duration: .3s;
-  transition-property: background-color, border-color, color;
+  transition-property: background-color, border-color, color, box-shadow;
   transition-timing-function: var(--ease-in-out-cubic);
 }
 
@@ -27,9 +28,8 @@ BUTTON
   background-color: var(--blue-50);
   border-color: var(--blue);
   border-left-color: var(--blue-30);
-  border-style: solid;
   border-top-color: var(--blue-30);
-  border-width: .25rem;
+  box-shadow: var(--shadow-default);
   color: var(--white);
 }
 
@@ -38,6 +38,7 @@ BUTTON
   background-color: var(--blue);
   border-color: var(--blue-30);
   border-width: .25rem;
+  box-shadow: none;
   color: var(--white);
 }
 
@@ -46,6 +47,7 @@ BUTTON
   border-color: var(--blue-50);
   border-left-color: var(--blue-80);
   border-top-color: var(--blue-80);
+  box-shadow: none;
   transform: scale(1);
 }
 
@@ -73,8 +75,7 @@ BUTTON
     border-color: var(--blue-50);
   }
 
-  .a-button:hover,
-  .a-button:focus {
+  .a-button:hover,.a-button:focus {
     background-color: var(--yellow);
     border-color: var(--yellow);
     border-style: solid;
