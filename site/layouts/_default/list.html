@@ -12,7 +12,11 @@
           <article class="article e-content-block e-grid__item">
             <h1>
               <a href="{{ .Permalink }}" tabindex="-1">
-                {{ .Title }}
+                {{ if (.Params.title_short) }}
+                  {{ .Params.title_short }}
+                {{ else }}
+                  {{ .Title }}
+                {{ end }}
               </a>
             </h1>
 

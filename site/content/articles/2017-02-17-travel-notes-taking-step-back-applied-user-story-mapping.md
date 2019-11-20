@@ -19,6 +19,7 @@ tags:
   - ideation
   - travel
 title: "Travel Notes: Taking a step back with Applied User Story Mapping"
+title_short: "Applied User Story Mapping"
 type: articles
 parent:
   title: "Articles"

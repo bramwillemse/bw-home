@@ -12,7 +12,8 @@ introduction:
   I don't always use it, because sometimes I feel like writing in IA Writer, Google
   Docs or just an old fashioned email. But of all of these apps I might love Workflowy
   most, because it fits my style.
-title: About travel notes
+title: About Travel Notes
+title_short: Travel Notes
 type: articles
 parent:
   title: "Articles"

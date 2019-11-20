@@ -1,5 +1,6 @@
 ---
 title: "Book: Shape Up, by Ryan Singer"
+title_short: "Book: Shape Up"
 date: 2019-08-07T12:04:06+02:00
 draft: false
 introduction: "I read 'Shape Up', Basecamp's latest book about doing software projects differently than we are used to. In this post I'll give you a summary, my take on it and at the end (SPOILER ALERT!) I'll tell you to go read it."
@@ -126,6 +127,6 @@ So yes. I'd highly recommend diving into this little book. Read it for yourself 
 
 {{< button icon="link" label="Read Shape Up" url="https://basecamp.com/shapeup/" >}}
 
-_Be sure to check [other books by Basecamp authors](https://basecamp.com/books/). They're all great!_
+_Be sure to check [other books](https://basecamp.com/books/) by Basecamp authors. They're all great!_
 
-_Do you like to read? [Find me on Goodreads](https://www.goodreads.com/bramwillemse), to see what I'm reading. Sometimes I even drop a short review :)_
+_Do you like to read? Find me [on Goodreads](https://www.goodreads.com/bramwillemse), to see what I'm reading. Sometimes I even drop a short review :)_

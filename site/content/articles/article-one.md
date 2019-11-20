@@ -1,17 +1,19 @@
 ---
 author: Bram Willemse
-categories: []
-date: '2018-02-13T15:48:05+01:00'
+date: "2018-02-13T15:48:05+01:00"
 description: Description
 draft: true
-introduction: Article one content. With some lorem ipsum dolor sit amet, consectetur
+introduction:
+  Article one content. With some lorem ipsum dolor sit amet, consectetur
   adipisicing elit. Dolorum ipsam recusandae unde, tenetur nemo sint dignissimos sunt
   error quibusdam. Laudantium eaque culpa incidunt exercitationem nisi assumenda,
   illum rerum aut soluta.
-resources: []
-slug: ''
 summary: This is a summary of an article. Very interesting indeed.
+parent:
+  title: "Articles"
+  url: "/articles"
 title: Article One
+title_short: One
 type: articles
 ---
 
