@@ -14,8 +14,7 @@
   display: none;
 }
 
-.a-logo:hover,
-.a-logo:focus {
+.a-logo:hover,.a-logo:focus {
   border-color: var(--blue-50);
   transform: none;
 }
