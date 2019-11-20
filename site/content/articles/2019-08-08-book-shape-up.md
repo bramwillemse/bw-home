@@ -9,6 +9,7 @@ author: Bram
 parent:
   title: "Articles"
   url: "/articles"
+  icon: "list"
 categories:
   - Books
 ---

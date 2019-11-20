@@ -1,12 +1,19 @@
 .a-list-header {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   margin-bottom: var(--spacing-s);
   width: 100%;
 }
 
+@media (--br-m) {
+  .a-list-header {
+    margin-bottom: var(--spacing-m);
+  }
+}
+
 .a-list-header__title {
   display: inline;
+  margin-bottom: 0;
 }
 .a-list-header__subline {
   display: inline;

@@ -1,10 +1,13 @@
 <header class="o-site-header">
   <div class="o-site-header__left">
     {{ if .Params.parent }}
+      
       {{ $parentTitle := .Params.parent.title }}
       {{ $parentLabel := (print "Back to " $parentTitle) }}
       {{ $parentUrl := .Params.parent.url }}
-      {{ partial "atoms/button" (dict "icon" "list" "url" $parentUrl "label" $parentLabel "classes" "a-button--secondary m-article-navigation__button") }}
+      {{ $parentIcon := .Params.parent.icon }}
+      
+      {{ partial "atoms/button" (dict "icon" $parentIcon "url" $parentUrl "label" $parentLabel "classes" "a-button--secondary m-article-navigation__button") }}
     {{ end }}
   </div>
 
@@ -15,6 +18,6 @@
   </div>
 
   <div class="o-site-header__right">
-    
+    <!-- Riiiiight -->
   </div>
 </header>

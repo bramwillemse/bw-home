@@ -11,6 +11,7 @@ type: articles
 parent:
   title: "Articles"
   url: "/articles"
+  icon: "list"
 url: /interview-about-koning-van-spanje-trailrunning-race/
 ---
 

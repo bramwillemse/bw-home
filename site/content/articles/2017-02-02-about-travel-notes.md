@@ -18,6 +18,7 @@ type: articles
 parent:
   title: "Articles"
   url: "/articles"
+  icon: "list"
 url: /about-travel-notes/
 ---
 

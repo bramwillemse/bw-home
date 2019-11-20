@@ -24,6 +24,7 @@ type: articles
 parent:
   title: "Articles"
   url: "/articles"
+  icon: "list"
 url: /travel-notes-taking-step-back-applied-user-story-mapping/
 ---
 
