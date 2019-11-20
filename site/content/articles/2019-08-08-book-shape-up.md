@@ -5,6 +5,9 @@ draft: false
 introduction: "I read 'Shape Up', Basecamp's latest book about doing software projects differently than we are used to. In this post I'll give you a summary, my take on it and at the end (SPOILER ALERT!) I'll tell you to go read it."
 url: /book-basecamp-shape-up/
 author: Bram
+parent:
+  title: "Articles"
+  url: "/articles"
 categories:
   - Books
 ---

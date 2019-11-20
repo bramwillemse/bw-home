@@ -2,17 +2,21 @@
 author: bram
 categories:
   - travel notes
-date: '2017-02-02T09:14:43+00:00'
+date: "2017-02-02T09:14:43+00:00"
 dsq_thread_id:
   - 5514783914
 featured_image: images/travel-notes/shared-travel-experiences.jpg
-introduction: Ever since my friend Stef introduced me to it, I've loved Workflowy.
+introduction:
+  Ever since my friend Stef introduced me to it, I've loved Workflowy.
   I use it to take notes of meetings, type out concepts and strike off todo lists.
   I don't always use it, because sometimes I feel like writing in IA Writer, Google
   Docs or just an old fashioned email. But of all of these apps I might love Workflowy
   most, because it fits my style.
 title: About travel notes
 type: articles
+parent:
+  title: "Articles"
+  url: "/articles"
 url: /about-travel-notes/
 ---
 

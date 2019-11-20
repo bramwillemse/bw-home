@@ -2,11 +2,14 @@
 author: bram
 categories:
   - travel notes
-date: '2017-02-09T12:14:45+00:00'
+date: "2017-02-09T12:14:45+00:00"
 featured_image: /images/travel-notes/travel-notes-sketch.jpeg
 introduction: So you know by now I have a problem with taking travel notes and I want to fix it. But how you ask? It's gonna be great. It's gonna be the best travel app out there. Together we will make travel-note-taking great again. It's true!
-title: 'Travel Notes: the concept'
+title: "Travel Notes: the concept"
 type: articles
+parent:
+  title: "Articles"
+  url: "/articles"
 url: /travel-notes-concept/
 ---
 

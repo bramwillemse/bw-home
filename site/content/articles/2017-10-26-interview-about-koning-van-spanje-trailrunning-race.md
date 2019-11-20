@@ -7,6 +7,9 @@ featured_image: /images/koning-van-spanje-gulpen-limburg.jpeg
 introduction: We have triathletes, cyclists and Bram Willemse. Apparently he only runs! But he does mix up the Vondelpark with trailrunning. Which is something you can actually do in the Netherlands like he will explain. Bram went to Gulpen, Limburg to do the Koning van Spanje (KvS) trailrun.
 title: Interview about Koning van Spanje trailrunning race
 type: articles
+parent:
+  title: "Articles"
+  url: "/articles"
 url: /interview-about-koning-van-spanje-trailrunning-race/
 ---
 

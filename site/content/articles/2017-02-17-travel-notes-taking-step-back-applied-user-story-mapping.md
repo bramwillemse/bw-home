@@ -2,11 +2,12 @@
 author: bram
 categories:
   - travel notes
-date: '2017-02-17T16:16:56+00:00'
+date: "2017-02-17T16:16:56+00:00"
 dsq_thread_id:
   - 5560386610
 featured_image: images/travel-notes/travel-notes-applied-user-story-mapping.jpeg
-introduction: "Yesterday I attended a workshop my friend Folkert invited me to join.
+introduction:
+  "Yesterday I attended a workshop my friend Folkert invited me to join.
   A workshop with a very long title, focused on product design. Since I'm working
   on this product idea (working title: travel notes), I guessed it might be fun to
   see how other's do it. Today I took a step back to the drawing board and tried the
@@ -17,8 +18,11 @@ tags:
   - design
   - ideation
   - travel
-title: 'Travel Notes: Taking a step back with Applied User Story Mapping'
+title: "Travel Notes: Taking a step back with Applied User Story Mapping"
 type: articles
+parent:
+  title: "Articles"
+  url: "/articles"
 url: /travel-notes-taking-step-back-applied-user-story-mapping/
 ---
 
