@@ -22,6 +22,12 @@
   transform: none;
 }
 
+@media (prefers-color-scheme: dark) {
+  .a-logo:hover,.a-loco:focus {
+    border-color: var(--yellow);
+  }
+}
+
 .a-logo:active {
   transform: scale(1);
 }
