@@ -1,12 +1,13 @@
 .a-logo {
-  border: .2rem solid var(--grey-80);
+  border: .15rem solid var(--grey-80);
   border-radius: 100%;
-  box-shadow: var(--shadow-default);
   height: 3.3rem;
   overflow: hidden;
   padding: 0;
-  transform-origin: top left;
-  transition: .3s border var(--ease-in-out-quad), 1s transform var(--ease-in-out-quad);
+  transform-origin: bottom center;
+  transition-duration: .3s;
+  transition-property: border-color, box-shadow, transform;
+  transition-timing-function: var(--ease-in-out-quad);
   width: 3.3rem;
   z-index: var(--z-header);
 }
@@ -19,7 +20,8 @@
   border-color: var(--blue);
   border-left-color: var(--blue-50);
   border-top-color: var(--blue-50);
-  transform: none;
+  box-shadow: var(--shadow-default);
+  transform: scale(1.05);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -29,5 +31,6 @@
 }
 
 .a-logo:active {
+  box-shadow: none;
   transform: scale(1);
 }

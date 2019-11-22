@@ -15,7 +15,11 @@
     grid-gap: var(--s);
     grid-template: "left center right";
     grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+    left: 0;
     margin: var(--spacing-s) var(--spacing-xl) var(--spacing-m);
+    position: fixed;
+    right: 0;
+    top: 0;
   }
 }
 
@@ -43,3 +47,10 @@
   grid-area: right;
   justify-content: flex-end;
 }
+
+@media (--br-m) {
+  .a-site-header-spacer {
+    height: 6rem;
+  }
+}
+
