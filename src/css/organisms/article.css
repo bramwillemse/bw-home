@@ -10,5 +10,9 @@ A blog post or content page
 }
 
 .o-article--compact {
-  border-left: solid 1rem var(--blue);
+  border-left: solid .3rem var(--blue);
+}
+
+.o-article__content {
+  align-items: center;
 }
