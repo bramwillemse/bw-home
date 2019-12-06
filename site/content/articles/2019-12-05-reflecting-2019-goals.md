@@ -1,16 +1,17 @@
 ---
 title: Reflecting on my 2019 goals
 title_short: My 2019 goals
-introduction: Since a few years I've been structurally setting myself goals for the shorter and longer term. In this post I will tell you a bit about how I set goals and I will reflect on what it brought me.
+introduction: Since a few years I've been structurally setting myself goals for the shorter and longer term. In this post I will tell you a bit about how I set goals until now and I will reflect on what it brought me.
 featured_image: images/2019-goals/vlieland-wadden-island-netherlands.jpg
 reading_time: 8 minutes
 date: 2019-12-05T12:59:35+01:00
+type: "Articles"
 parent:
   title: "Articles"
   url: "/articles"
   icon: "list"
+type: articles
 url: /reflecting-2019-goals/
-draft: true
 ---
 
 Winter is a great moment to go along with nature. Stock up on energy, find a warm hole and drop everything for a bit to prepare for another year of hard work, a bit of pain &amp; loads of pleasure. This week I'm hiding on an island from the city; from work; from my a home renovation I need to plan. The ideal moment to  calm down and reflect.
@@ -32,6 +33,7 @@ For 2019 I built on that, with a little help from my friends in a Mastermind gro
 
 ## 2019 goals
 I locked down on three themes or mantras:
+
 1. Get fit
 2. Leadership
 3. Stress less
@@ -39,10 +41,10 @@ I locked down on three themes or mantras:
 ### Get fit
 While in 2017 I reached a level of fitness I had never experienced before (I ran my first trail running marathon), I started 2018 in pain, with a pair of broken ribs after having a scooter crashing into me on my bike. Physically and mentally it made a big dent. In short: it wasn't my best of years. It sucked.
 
-Getting back on that level of fitness was my main priority. IT had given me so much energy, productivity and pleasure. To top that up, I set the ambitious goal of running my first ultra marathon (more than a marathon).
+Getting back on that level of fitness was my main priority. It had given me so much energy, productivity and pleasure. To top it up, I set the ambitious goal of running my first ultra trail marathon.
 
 ### Learn about Leadership
-After finishing a long term project, my colleague & product owner on that project advised me to invest in my leadership skills. I tend to naturally attract a lead role in projects, but I still had a lot to learn. So I listened to her and set it as a topic to learn about.
+After finishing a long term project in 2017, a colleague on that project advised me to invest in my leadership skills. I tend to naturally attract a lead role in projects, but I realise still have a lot to learn. So I listened to her and set it as a topic to learn about.
 
 ### Stress less in work
 This was more a mantra than related to my actual work goals. Something to keep in mind for next year. In 2018 I had had the pressure of some projects really get to me, hence the mantra.
@@ -96,9 +98,12 @@ Then the second half year came and while my health wasn't bad. I got stressed ou
 In health I think I aimed a bit too high. Which I'll need to keep in mind, making plans for next year.
 
 ## On to 2020
-I'm super happy with how much I've read, learned and accomplished this year. And after this initial evaluation, I already feel energized. To find a new job, making my home my own and to keep on learning in 2020. But I hope to write a bit more about those plans in an upcoming article.
+So I'm super happy with how much I've read, learned and accomplished this year. And after this initial evaluation, I already feel energized to find a new job, making my home my own and to keep on learning in 2020.
 
-Thank you for reading. Did you set any goals for last year? Or are you planning to set any for 2020? Let me know your ideas!
+Stay tuned for one or two more posts about that though. Because after this initial evaluation I got tipped a more thorough way of reflection and I've also been working on some ambitious plans for 2020.
+
+Thank you for reading. Did you set any goals for last year? If so, how did you get along? And do you have any ideas about how to set and reach your goals? Let me know!
 
 ## Links
+- Try doodling like I did in [Notability on iPad](https://apps.apple.com/nl/app/notability/id360593530)
 - Read more about the concept of [Mastermind groups](https://en.wikipedia.org/wiki/Mastermind_group)
