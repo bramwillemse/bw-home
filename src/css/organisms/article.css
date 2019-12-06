@@ -13,6 +13,10 @@ A blog post or content page
   border-left: solid .3rem var(--blue);
 }
 
+.o-article--compact .a-button {
+  margin-bottom: 0;
+}
+
 .o-article__content {
   align-items: center;
 }
