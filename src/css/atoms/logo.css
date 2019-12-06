@@ -21,7 +21,7 @@
   border-left-color: var(--blue-50);
   border-top-color: var(--blue-50);
   box-shadow: var(--shadow-default);
-  transform: scale(1.05);
+  transform: scale(1.03);
 }
 
 @media (prefers-color-scheme: dark) {

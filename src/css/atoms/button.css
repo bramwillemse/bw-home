@@ -14,8 +14,9 @@ BUTTON
   outline: none;
   padding: var(--xxs) var(--s);
   text-transform: lowercase;
+  transform-origin: bottom center;
   transition-duration: .3s;
-  transition-property: background-color, border-color, color, box-shadow;
+  transition-property: background-color, border-color, color, box-shadow, transform;
   transition-timing-function: var(--ease-in-out-cubic);
 }
 
@@ -30,6 +31,7 @@ BUTTON
   border-top-color: var(--blue-30);
   box-shadow: var(--shadow-default);
   color: var(--white);
+  transform: scale(1.03);
 }
 
 /* Accessible focus */

@@ -105,5 +105,6 @@ Stay tuned for one or two more posts about that though. Because after this initi
 Thank you for reading. Did you set any goals for last year? If so, how did you get along? And do you have any ideas about how to set and reach your goals? Let me know!
 
 ## Links
+- Read my [note on meditation](/note-on-meditation)
 - Try doodling like I did in [Notability on iPad](https://apps.apple.com/nl/app/notability/id360593530)
 - Read more about the concept of [Mastermind groups](https://en.wikipedia.org/wiki/Mastermind_group)

@@ -2,6 +2,7 @@
 title: A note on meditation
 title_short: Meditation
 introduction: I do yoga and I run. Next to that I've experimented with multiple methods of meditation. Since discovering Sam Harris's 'Waking Up' guided meditations, I belief I have found an entrance to exploring and expanding my mind.
+featured_image: /images/vlieland-beach-netherlands-bram-willemse.jpeg
 author: "Bram Willemse"
 date: 2019-12-05T12:58:35+01:00
 url: "note-on-meditation"
