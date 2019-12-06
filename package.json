@@ -11,7 +11,7 @@
     "hugo": "gulp hugo",
     "build": "gulp build",
     "build-preview": "gulp build-preview",
-    "start": "gulp server",
+    "start": "gulp serve",
     "lint": "eslint src"
   },
   "dependencies": {

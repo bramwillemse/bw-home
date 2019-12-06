@@ -26,7 +26,7 @@ Sam Harris is a neuroscientist, philosopher and author. One might know him for h
 
 I found his guided meditations to be more down to earth than Headspace's popular guided meditations with Andy. The latter are super dreamy &amp; floaty and more important: they now feel very superficial to me. And only now I understand why I grew tired of Headspace.
 
-Don't get me wrong. Headspace is a great app. But by combining his meditations with lessons and conversations, Harris takes a more technical and even scientific approach than I'm used to. There's so much more to learn!
+Don't get me wrong. Headspace is a great app! But by combining his meditations with lessons and conversations, Harris takes a more technical and even scientific approach than I'm used to. There's so much more to learn!
 
 By finding 'Waking up' I belief I have found a way (back) to daily meditation. This way I hope to explore and expand my mind and to unlock a bit more of it's potential.
 
