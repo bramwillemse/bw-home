@@ -78,16 +78,7 @@ BUTTON
   .a-button:hover,.a-button:focus {
     background-color: var(--yellow);
     border-color: var(--yellow);
-    border-style: solid;
-    border-width: .25rem;
     color: var(--blue-90);
-  }
-
-  .a-button:focus {
-    /* background-color: var(--yellow);
-    border-color: var(--blue-50);
-    border-width: .25rem;
-    color: var(--blue-90); */
   }
 }
 
