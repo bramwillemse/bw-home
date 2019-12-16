@@ -10,16 +10,16 @@ type: page
 </header>
 
 <article class="o-brammy__card">
+  <h1>Team player</h1>
+  <p>I love working in teams and as a front-end lead, design lead and scrum master I helped them form, grow and succeed.</p>
+</article>
+
+<article class="o-brammy__card">
   <h1>Developer</h1>
-  <p>I am a senior front-end developer focused on web standards, accessibility and architecture.</p>
+  <p>I am a senior front-end developer focused on building accessible, scalable and high quality web based solutions.</p>
 </article>
 
 <article class="o-brammy__card">
   <h1>Designer</h1>
   <p>I am an experienced designer, best in strategy, ideation & prototyping and interaction design.</p>
-</article>
-
-<article class="o-brammy__card">
-  <h1>Team player</h1>
-  <p>I love working in teams and helped shape them as a front-end lead, design lead and scrummaster.</p>
 </article>

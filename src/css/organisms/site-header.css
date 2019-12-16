@@ -36,12 +36,6 @@
   text-align: center;
 }
 
-/* @media (--br-m) {
-  .o-site-header__center {
-
-  }
-} */
-
 .o-site-header__right {
   display: flex;
   grid-area: right;
@@ -53,4 +47,3 @@
     height: 6rem;
   }
 }
-
