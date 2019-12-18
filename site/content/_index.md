@@ -6,7 +6,7 @@ type: page
 
 <header class="o-brammy__card o-brammy__header">
   <h1>Hi, my name is Bram.</h1>
-  <p>I have an analytical mind. I naturally connect dots and people. I am eager to learn, eager to lead and an ambassador to your users.</p>
+  <p>I have an analytical mind. I naturally connect dots and people. I am an ambassador to your users, I am eager to learn and eager to lead.</p>
 </header>
 
 <article class="o-brammy__card">

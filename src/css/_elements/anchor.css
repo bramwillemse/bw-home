@@ -71,3 +71,7 @@ a:not(.a-button):hover::after {
     background-color: var(--yellow);
   }
 }
+
+.u-disable-link::after {
+  display: none;
+}

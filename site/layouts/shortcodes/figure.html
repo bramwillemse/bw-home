@@ -1,10 +1,14 @@
+
 {{/*
   Shortcode: Figure
   Maps shortcode to atom
 */}}
+
 {{ $src := (.Get "src") }}
 {{ $alt := (.Get "alt") }}
 {{ $caption := (.Get "caption") }}
 {{ $lazy := (.Get "lazyload") }}
+{{ $width := (.Get "width") }}
+{{ $height := (.Get "height") }}
 
-{{ partial "atoms/figure" (dict "src" $src "alt" $alt "caption" $caption "lazy" $lazy) }}
+{{ partial "atoms/figure" (dict "src" $src "alt" $alt "caption" $caption "lazy" $lazy "width" $width "height" $height) }}
