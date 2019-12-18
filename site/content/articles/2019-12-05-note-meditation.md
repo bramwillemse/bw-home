@@ -39,6 +39,8 @@ Don't get me wrong. Headspace is a great app! But by combining the guided medita
 By finding 'Waking up' I believe I have found a way (back) to daily meditation. This way I hope to explore and expand my mind and to unlock a bit more of it's potential.
 
 ## Links
-- Try guided meditation with [Headspace](https://www.headspace.com/)
-- Try guided meditation with [Waking Up](https://www.headspace.com/)
-- Listen to Sam Harris's [Making Sense podcast](https://samharris.org/podcast)
+- Try guided meditation with [Headspace](https://www.headspace.com/);
+- Try guided meditation with [Waking Up](https://www.wakingup.com/);
+- Listen to Sam Harris's [Making Sense podcast](https://samharris.org/podcast);
+- If you liked this note, my extensive [reflection on my 2019 goals](/reflecting-2019-goals) might be worth reading too;
+- Read my super fun [2019 highlights](/2019-highlights).
