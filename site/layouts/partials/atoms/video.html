@@ -1,0 +1,8 @@
+<figure class="a-video">
+  <iframe class="a-video__iframe" src="{{ .src }}" frameborder ="0" allow="encrypted-media"></iframe>
+  {{ if .caption }}
+    <figcaption>
+     {{ .caption }}
+    </figcaption>
+  {{ end }}
+</figure>

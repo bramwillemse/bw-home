@@ -120,6 +120,7 @@ Stay tuned for one or two more posts about 2020. After this initial evaluation I
 _Thank you for reading. Did you set any goals for last year? If so, how did you get along? And do you have any ideas about how to set and reach your goals? Let me know!_
 
 ## Links
-- Read my [note on meditation](/note-on-meditation)
+- Read my [Note on meditation](/note-on-meditation)
+- Check out my [2019 highlights](/2019-highlights)
 - Try doodling like I did in [Notability on iPad](https://apps.apple.com/nl/app/notability/id360593530)
 - Read more about the concept of [Mastermind groups](https://en.wikipedia.org/wiki/Mastermind_group)

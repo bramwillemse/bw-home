@@ -1,0 +1,10 @@
+
+{{/*
+  Shortcode: Video (embedded)
+  Maps shortcode to atom
+*/}}
+
+{{ $src := (.Get "src") }}
+{{ $caption := (.Get "caption") }}
+
+{{ partial "atoms/video" (dict "src" $src "caption" $caption) }}
