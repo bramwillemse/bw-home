@@ -76,6 +76,7 @@ _Thanks for trusting me with all the cars I have driven for you, [Rutger & Brigh
 
 ## Related links
 
+- See all the books I read this year on [Goodreads](https://www.goodreads.com/user/year_in_books/2019/17000334);
 - Ginger Runner's review of [the Altra Olympus](https://www.youtube.com/watch?v=Y51dvSPGjZM);
 - [The Balthazar album](https://open.spotify.com/album/4cKMQ4mNZsBx40VXtNDpMT?si=SWoAiuHgQ6OWTtcLNE7qYw) I was talking about.
 
