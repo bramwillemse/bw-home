@@ -1,6 +1,6 @@
 ---
 title: Reflecting on my 2019 goals
-title_short: My 2019 goals
+title_short: 2019 goals
 introduction: Since a few years I've been structurally setting myself goals for the shorter and longer term. In this post I will tell you a bit about how I set goals until now and I will reflect on what it brought me.
 featured_image: images/2019-goals/vlieland-wadden-island-netherlands.jpg
 reading_time: 8 minutes
@@ -121,10 +121,11 @@ _Thank you for reading. Did you set any goals for last year? If so, how did you 
 
 ## Related links
 
-- Try doodling like I did in [Notability on iPad](https://apps.apple.com/nl/app/notability/id360593530)
-- Read more about the concept of [Mastermind groups](https://en.wikipedia.org/wiki/Mastermind_group)
+- Try doodling like I did in [Notability on iPad](https://apps.apple.com/nl/app/notability/id360593530);
+- Read more about the concept of [Mastermind groups](https://en.wikipedia.org/wiki/Mastermind_group).
 
 ## Keep on reading
 
-- Read my [Note on meditation](/note-on-meditation)
-- Check out my [2019 highlights](/2019-highlights)
+- Read my [Note on meditation](/note-on-meditation);
+- Check out my [2019 favourite things](/2019-favourite-things);
+- Read about my [2019 favourite moments](/2019-favourite-moments).

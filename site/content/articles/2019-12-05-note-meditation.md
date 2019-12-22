@@ -41,9 +41,9 @@ By finding 'Waking up' I believe I have found a way (back) to daily meditation. 
 ## Related links
 - Try guided meditation with [Headspace](https://www.headspace.com/);
 - Try guided meditation with [Waking Up](https://www.wakingup.com/);
-- Listen to Sam Harris's [Making Sense podcast](https://samharris.org/podcast);
+- Listen to Sam Harris's [Making Sense podcast](https://samharris.org/podcast).
 
 ## Keep on reading
 
 - If you liked this note, my extensive [reflection on my 2019 goals](/reflecting-2019-goals) might be worth reading too;
-- Read my super fun [2019 highlights](/2019-highlights).
+- Read my super fun [2019 favourite things](/2019-favourite-things) article.

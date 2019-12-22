@@ -5,7 +5,9 @@ VIDEO
 Embedded video in a 16:9 ratio
 */
 
-.a-video {
+/* .a-video {} */
+
+.a-video__box {
   height: 5rem;
   max-width: 100%;
   overflow: hidden;
