@@ -21,6 +21,8 @@ I rediscovered fantasy. I loved Joe Abercrombie's _First Law trilogy_ and N.K. J
 
 I finally read the runner's classic _Born to Run_ and was really inspired to give barefoot running a try again. And I could keep naming many other books, like [Shape Up](/book-basecamp-shape-up/).
 
+{{<figure src="/images/2019-highlights/yuval-noah-harari-homo-deus.jpg" alt="Multiple renditions of the book Homo Deus" caption="Book of my year">}}
+
 But I would say _Homo Deus_ takes the cake. Because it is relatively easy to read (up until the last 100 pages maybe..) while Yuval Noah Harari gives you a mindblowing view on the possible future of human kind. It is amazing how he connects history, economics, technology, religion, biology and more into a comprehensive story.
 
 Most importantly, he made me connect dots that I hadn't before in a way that I find a lot hard to explain. If you want to get a glimpse into human kind, which way we might evolve and how you can prepare yourself for it, read _Homo Deus_.
@@ -76,12 +78,13 @@ _Thanks for trusting me with all the cars I have driven for you, [Rutger & Brigh
 
 ## Related links
 
+- Read [Homo Deus](https://www.ynharari.com/book/homo-deus/)
 - See all the books I read this year on [Goodreads](https://www.goodreads.com/user/year_in_books/2019/17000334);
 - Ginger Runner's review of [the Altra Olympus](https://www.youtube.com/watch?v=Y51dvSPGjZM);
 - [The Balthazar album](https://open.spotify.com/album/4cKMQ4mNZsBx40VXtNDpMT?si=SWoAiuHgQ6OWTtcLNE7qYw) I was talking about.
 
 ## Continue reading
 
-- Read about my [2019 favourite moments](/2019-favourite-moments).
+- Read about my [2019 favourite moments](/2019-favourite-moments);
 - Read [reflecting on my 2019 goals](/reflecting-2019-goals);
 - Read my [note on meditation](/note-on-meditation) and the Waking Up app.

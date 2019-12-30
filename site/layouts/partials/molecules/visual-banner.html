@@ -4,9 +4,10 @@
       class="m-visual-banner__image"
       src="{{ .Params.featured_image }}"
       alt="{{ .Params.feature_image_label }}"
+      data-animation="zoom-in"
     />
     {{ if .Params.feature_image_label }}
-    <figcaption>{{ .Params.feature_image_label }}</figcaption>
+    <figcaption>{{ .Params.feature_image_label }}</figcaption> 
     {{ end }}
   </figure>
 {{ else }}
