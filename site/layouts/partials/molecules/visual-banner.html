@@ -1,13 +1,30 @@
+
 {{ if .Params.featured_image }}
   <figure class="m-visual-banner">
     <img
       class="m-visual-banner__image"
       src="{{ .Params.featured_image }}"
       alt="{{ .Params.feature_image_label }}"
-      data-animation="zoom-in"
+      loading="lazy"
+      data-animation="fade-in"
     />
+
+    <picture class="a-picture">
+      <source data-srcset="{{ .Params.featured_image }}?nf_resize=fit&w=2160" media="(min-width: 1200px)">
+      <source data-srcset="{{ .Params.featured_image }}?nf_resize=fit&w=1440" media="(min-width: 700px)">
+      <source data-srcset="{{ .Params.featured_image }}?nf_resize=fit&w=720" media="(min-width: 300px)">
+      <img 
+        src="{{ .Params.featured_image }}?nf_resize=fit&w=20" 
+        data-src="{{ .Params.featured_image }}?nf_resize=fit&w=150"
+        alt="{{ .alt }}"  
+        width="{{ .width }}" 
+        height="{{ .height }}" 
+        loading="lazy" 
+        data-animation="fade-in">
+    </picture>
+
     {{ if .Params.feature_image_label }}
-    <figcaption>{{ .Params.feature_image_label }}</figcaption> 
+      <figcaption>{{ .Params.feature_image_label }}</figcaption> 
     {{ end }}
   </figure>
 {{ else }}
