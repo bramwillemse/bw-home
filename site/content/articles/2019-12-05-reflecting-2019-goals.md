@@ -2,7 +2,8 @@
 title: Reflecting on my 2019 goals
 title_short: 2019 goals
 introduction: Since a few years I've been structurally setting myself goals for the shorter and longer term. In this post I will tell you a bit about how I set goals until now and I will reflect on what it brought me.
-featured_image: images/2019-goals/vlieland-wadden-island-netherlands.jpg
+featured_image:
+  src: images/2019-goals/vlieland-wadden-island-netherlands.jpg
 reading_time: 8 minutes
 date: 2019-12-05T12:59:35+01:00
 type: "Articles"

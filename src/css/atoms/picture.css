@@ -7,10 +7,12 @@
   width: 100%;
 }
 
+/* Blur initial tiny picture for lazy loading effect */
 .a-picture img[loading="lazy"] {
   filter: blur(20px);
 }
 
 .a-picture img[loading="lazy"].is-loaded {
   filter: blur(0);
+  transition: filter var(--ease-in-quad) .333s;
 }

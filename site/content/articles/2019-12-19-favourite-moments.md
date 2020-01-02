@@ -3,7 +3,8 @@ title: My favourite moments of 2019
 title_short: 2019 favourite moments
 date: 2019-12-18T11:29:03+01:00
 introduction: I had some memorable moments last year. I got back into running form, hiked the Alps and then some. Also nice to share, right?
-featured_image: images/2019-highlights/bram-willemse-trailrunning-morvan-oxygene-trail.jpg
+featured_image:
+  src: images/2019-highlights/bram-willemse-trailrunning-morvan-oxygene-trail.jpg
 reading_time: 4 minutes
 type: "Articles"
 parent:

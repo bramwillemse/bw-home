@@ -16,9 +16,7 @@
       <img 
         src="{{ .Params.featured_image }}?nf_resize=fit&w=20" 
         data-src="{{ .Params.featured_image }}?nf_resize=fit&w=150"
-        alt="{{ .alt }}"  
-        width="{{ .width }}" 
-        height="{{ .height }}" 
+        alt="{{ .Params.featured_image_label }}"
         loading="lazy" 
         data-animation="fade-in">
     </picture>

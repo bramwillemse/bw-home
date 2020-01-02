@@ -5,7 +5,8 @@ categories:
 date: "2017-02-17T16:16:56+00:00"
 dsq_thread_id:
   - 5560386610
-featured_image: images/travel-notes/travel-notes-applied-user-story-mapping.jpeg
+featured_image:
+  src: images/travel-notes/travel-notes-applied-user-story-mapping.jpeg
 introduction:
   "Yesterday I attended a workshop my friend Folkert invited me to join.
   A workshop with a very long title, focused on product design. Since I'm working
