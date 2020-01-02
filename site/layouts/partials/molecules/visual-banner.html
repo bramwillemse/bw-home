@@ -1,22 +1,13 @@
 
 {{ if .Params.featured_image }}
   <figure class="m-visual-banner">
-    <img
-      class="m-visual-banner__image"
-      src="{{ .Params.featured_image }}"
-      alt="{{ .Params.feature_image_label }}"
-      loading="lazy"
-      data-animation="fade-in"
-    />
-
     <picture class="a-picture">
-      <source data-srcset="{{ .Params.featured_image }}?nf_resize=fit&w=2160" media="(min-width: 1200px)">
-      <source data-srcset="{{ .Params.featured_image }}?nf_resize=fit&w=1440" media="(min-width: 700px)">
-      <source data-srcset="{{ .Params.featured_image }}?nf_resize=fit&w=720" media="(min-width: 300px)">
+      <source data-srcset="{{ .Params.featured_image.src }}?nf_resize=fit&w=2160" media="(min-width: 1200px)">
+      <source data-srcset="{{ .Params.featured_image.src }}?nf_resize=fit&w=1440" media="(min-width: 700px)">
+      <source data-srcset="{{ .Params.featured_image.src }}?nf_resize=fit&w=720" media="(min-width: 300px)">
       <img 
-        src="{{ .Params.featured_image }}?nf_resize=fit&w=20" 
-        data-src="{{ .Params.featured_image }}?nf_resize=fit&w=150"
-        alt="{{ .Params.featured_image_label }}"
+        src="{{ .Params.featured_image.src }}?nf_resize=fit&w=20" 
+        data-src="{{ .Params.featured_image.src }}?nf_resize=fit&w=150"
         loading="lazy" 
         data-animation="fade-in">
     </picture>
