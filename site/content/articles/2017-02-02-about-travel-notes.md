@@ -11,6 +11,8 @@ featured_image:
 introduction:
   Ever since my friend Stef introduced me to it, I've loved Workflowy.
   I use it to take notes of meetings, type out concepts and strike off todo lists. I don't always use it, because sometimes I feel like writing in IA Writer, Google Docs or just an old fashioned email. But of all of these apps I might love Workflowy most, because it fits my style.
+description:
+  'I have always loved Workflowy, but after some extensive note taking and sharing experience, I am convinced there is a better alternative: Travel Notes.'
 title: About Travel Notes
 title_short: Travel Notes
 type: articles

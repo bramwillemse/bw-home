@@ -3,6 +3,8 @@ title: My favourite things of 2019
 title_short: 2019 favourite things
 date: 2019-12-18T11:29:03+01:00
 introduction: You already read how I have reflected on my 2019 goals. It has been a good year and I just want to share some of my personal favourite things of last year. Let's get this over with, people!
+description:
+  "2019 was a good year and in this post I'm sharing some of my personal favourite things of the year."
 featured_image:
   src: images/2019-highlights/life-is-strange-2-screenshot.jpg
 reading_time: 4 minutes

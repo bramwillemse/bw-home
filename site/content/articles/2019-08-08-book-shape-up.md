@@ -4,6 +4,8 @@ title_short: "Book: Shape Up"
 date: 2019-08-07T12:04:06+02:00
 draft: false
 introduction: "I read 'Shape Up', Basecamp's latest book about doing software projects differently than we are used to. In this post I'll give you a summary, my take on it and at the end (SPOILER ALERT!) I'll tell you to go read it."
+description:
+   "I read the 'Shape Up' and in this article I will give you a summary, my take on it and at the end [SPOILER!] I will tell you to go read it."
 url: /book-basecamp-shape-up/
 author: Bram
 parent:

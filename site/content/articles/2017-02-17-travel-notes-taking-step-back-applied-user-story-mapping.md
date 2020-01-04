@@ -8,11 +8,9 @@ dsq_thread_id:
 featured_image:
   src: images/travel-notes/travel-notes-applied-user-story-mapping.jpeg
 introduction:
-  "Yesterday I attended a workshop my friend Folkert invited me to join.
-  A workshop with a very long title, focused on product design. Since I'm working
-  on this product idea (working title: travel notes), I guessed it might be fun to
-  see how other's do it. Today I took a step back to the drawing board and tried the
-  method evangelically proposed by AJ&Smart's JC himself. And I loved it!"
+  "Yesterday I attended a workshop my friend Folkert invited me to join. A workshop with a very long title, focused on product design. Since I'm working on this product idea (working title: travel notes), I guessed it might be fun to see how other's do it. Today I took a step back to the drawing board and tried the method evangelically proposed by AJ&Smart's JC himself. And I loved it!"
+description:
+  "I attended a workshop on Applied User Story Mapping and in this article i tell all about how I applied it on my Travel Notes idea."
 tags:
   - applied user story mapping
   - concept development
