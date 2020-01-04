@@ -1,6 +1,13 @@
 <figure class="a-video" data-animation="zoom-in">
   <div class="a-video__box">
-    <iframe class="a-video__iframe" src="{{ .src }}" frameborder ="0" allow="encrypted-media"></iframe>
+    <iframe 
+      class="a-video__iframe" 
+      src="{{ .src }}" 
+      title="{{ .title }}" 
+      frameborder="0" 
+      defer 
+      allow="encrypted-media">
+    </iframe>
   </div>
 
   {{ if .caption }}

@@ -36,7 +36,7 @@ Balthazar delivered the best album with _Fever_. Lana del Rey delivered the best
 ## Film
 Yes, Joe Pesci shined bright like a creased, old diamond, but it’s not the Irishman. It might not be the most original choice. But hey, I’m a Tarantino fan this probably is his second to last film. 😭
 
-{{<video src="https://www.youtube-nocookie.com/embed/ELeMaP8EPAA" caption="Trailer for Once Upon a Time in Hollywood">}}
+{{<video src="https://www.youtube-nocookie.com/embed/ELeMaP8EPAA" caption="Trailer for Once Upon a Time in Hollywood" title="Trailer for Once Upon a Time in Hollywood on YouTube" >}}
 
 Brilliant & brutal, classy & classic. Once Upon a Time in Hollywood takes the prize!
 

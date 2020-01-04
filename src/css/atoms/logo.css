@@ -13,7 +13,8 @@
   z-index: var(--z-header);
 }
 
-.a-logo:hover,.a-logo:focus {
+.a-logo:hover,
+.a-logo:focus {
   border-color: var(--blue);
   border-left-color: var(--blue-50);
   border-top-color: var(--blue-50);
@@ -22,7 +23,8 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .a-logo:hover,.a-loco:focus {
+  .a-logo:hover,
+  .a-loco:focus {
     border-color: var(--yellow);
   }
 }

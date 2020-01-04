@@ -3,6 +3,7 @@ title: My favourite moments of 2019
 title_short: 2019 favourite moments
 date: 2019-12-18T11:29:03+01:00
 introduction: I had some memorable moments last year. I got back into running form, hiked the Alps and then some. Also nice to share, right?
+description: 'Bram writes about his favourite moments of the year: Trailrunning in France, hiking in the Alps and an end of year retreat on Vlieland, Netherlands.'
 featured_image:
   src: images/2019-highlights/bram-willemse-trailrunning-morvan-oxygene-trail.jpg
 reading_time: 4 minutes
@@ -52,7 +53,7 @@ Vlieland is beautiful and I love that magic moment when you ferry sets sail. An 
 
 And as a grand finale, on my last day I ran one of the best runs in months.
 
-{{<video src="https://www.youtube-nocookie.com/embed/igPYRxA4f54" caption="A short video impression of my 'Grand Vlienale' run">}}
+{{<video src="https://www.youtube-nocookie.com/embed/igPYRxA4f54" caption="A short video impression of my 'Grand Vlienale' run" title="A YouTube video of my long trail run on Vlieland">}}
 
 Now on to more merry moments in 2020!
 

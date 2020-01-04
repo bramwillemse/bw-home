@@ -3,7 +3,7 @@
 }
 
 [data-animation="fade-in"].is-animated {
-  animation: fade-in .333s ease-in-out forwards;
+  animation: fade-in .333s ease-in-out;
   opacity: 1;
 }
 

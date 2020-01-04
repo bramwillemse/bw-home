@@ -6,5 +6,6 @@
 
 {{ $src := (.Get "src") }}
 {{ $caption := (.Get "caption") }}
+{{ $title :=  (.Get "title") }}
 
-{{ partial "atoms/video" (dict "src" $src "caption" $caption) }}
+{{ partial "atoms/video" (dict "src" $src "caption" $caption "title" $title) }}

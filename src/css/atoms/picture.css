@@ -7,6 +7,10 @@
   width: 100%;
 }
 
+.a-picture img {
+  width: 100%;
+}
+
 /* Blur initial tiny picture for lazy loading effect */
 .a-picture img[loading="lazy"] {
   filter: blur(20px);
