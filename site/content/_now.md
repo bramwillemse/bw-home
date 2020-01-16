@@ -7,6 +7,11 @@ url: /now/
 featured_image:
   src: images/now/bram_willemse-amsterdam-houthavens.jpeg
 layout: pages
+parent:
+  title: "Bram"
+  url: "/"
+  icon: "home"
+
 ---
 
 - I live &amp; work in 📍 **Amsterdam, the Netherlands**
