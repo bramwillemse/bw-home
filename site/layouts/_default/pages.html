@@ -1,14 +1,12 @@
 
 {{/* 
-SINGLE
-------
-Default template for single, time based posts
+PAGE
+----
+Default template for standard pages  
 */}}
 
 {{ define "main" }}
-
   <main id="site-main" tabindex="-1" class="o-site-main">
-    {{ partial "organisms/article" . }}
+    {{ partial "organisms/page.html" . }}
   </main>
-
 {{ end }}
