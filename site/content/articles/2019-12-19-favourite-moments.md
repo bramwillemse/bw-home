@@ -7,7 +7,7 @@ description: 'Bram writes about his favourite moments of the year: Trailrunning 
 featured_image:
   src: images/2019-highlights/bram-willemse-trailrunning-morvan-oxygene-trail.jpg
 reading_time: 4 minutes
-type: "Articles"
+type: "articles"
 parent:
   title: "Articles"
   url: "/articles"

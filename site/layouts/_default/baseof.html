@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language.Lang }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content="{{ $.Description }}" />
+    <base href="{{ $.Site.BaseURL }}" />
+    <title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+    <!-- <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet"> -->
+    <link rel="stylesheet" href="css/main.min.css" />
+  </head>
+
+  <body> 
+    {{ block "skiplinks" . }}
+      {{ partial "molecules/skip-links" . }}
+    {{ end }}
+
+    {{ block "header" . }}
+      {{ partial "organisms/site-header" . }}
+    {{ end}}
+
+    {{ block "main" . }}
+      <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+    
+    {{ block "footer" . }}
+      <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+      {{ partial "organisms/site-footer" . }}
+    {{ end }}
+
+    <script defer src="js/main.min.js"></script>
+  </body>
+  
+  </html>
+  

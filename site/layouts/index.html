@@ -1,9 +1,11 @@
-{{/* Homepage */}}
 
-{{ partial "header" . }}
+{{/* 
+HOMEPAGE
+--------
+*/}}
 
-<main id="site-main" tabindex="-1" class="o-brammy o-site-main">
-  {{ .Content }}
-</main>
-
-{{ partial "footer" . }}
+{{ define "main" }}
+  <main id="site-main" tabindex="-1" class="o-brammy o-site-main">
+    {{ .Content }}
+  </main>
+{{ end }}
