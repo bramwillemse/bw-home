@@ -9,7 +9,7 @@ a {
   padding-bottom: .1rem;
   position: relative;
   text-decoration: none;
-  transform-origin: bottom left;
+  transform-origin: top right;
   transition: .15s var(--ease-in-out-quad);
   transition-property: border, color, transform;
   z-index: 0;

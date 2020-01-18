@@ -30,4 +30,4 @@ parent:
 - **I run**. After my house is done, I'll get back to my goal from last year: run my first ultra marathon. In the meanwhile I'll just keep on keeping on!
 
 ## Want to know more?
-Follow me on <a href="https://twitter.com/bramwillemse">Twitter</a>, <a href="https://linkedin.com/in/bramwillemse">LinkedIn</a>, <a href="https://strava.com/athletes/bramwillemse">Strava</a> or <a href="https://flickr.com/bramwillemse">Flickr</a>.
+Follow me on [Twitter](https://twitter.com/bramwillemse "Follow or contact me on Twitter"), [LinkedIn](https://linkedin.com/in/bramwillemse "Check out my profile and CV on LinkedIn"), [Strava](https://strava.com/athletes/bramwillemse "Follow my training progress on Strava"), [Flickr](https://flickr.com/bramwillemse "Explore my photos on Flickr") or [Goodreads](https://www.goodreads.com/bramwillemse "See what I read on my GoodReads profile")

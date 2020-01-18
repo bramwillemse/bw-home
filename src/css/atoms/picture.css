@@ -1,4 +1,10 @@
 
+/*
+PICTURE
+-------
+Picture element with lazy loading
+*/
+
 .a-picture {
   align-items: center;
   display: flex;
