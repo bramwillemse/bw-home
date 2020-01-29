@@ -1,10 +1,10 @@
 ---
-title: "Articles"
-description: "An overview of articles written by Bram Willemse."
-type: "articles"
+title: Articles
+url: /articles/
+description: An overview of articles written by Bram Willemse.
 parent:
-  title: "Bram"
+  title: Bram
   url: "/"
-  icon: "home"
+  icon: home
 draft: false
 ---
