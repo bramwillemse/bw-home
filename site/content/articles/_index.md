@@ -6,4 +6,5 @@ parent:
   title: "Bram"
   url: "/"
   icon: "home"
+draft: false
 ---
