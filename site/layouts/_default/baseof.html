@@ -4,9 +4,21 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+
+    <title>{{ .Title | default .Site.Title }}</title>
     <meta name="description" content="{{ $.Description }}" />
+    
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="og:title" content="{{ .Title | default .Site.Title }}"/>
+    <meta property="og:image" content="{{ $.Params.featured_image.src }}?nf_resize=fit&w=1200&h=627"/>
+    <meta property="og:description" content="{{ $.Description }}"/>
+    <meta property="og:url" content="{{ .Permalink }}" />
+    
+    <meta name="twitter:title" content="{{ .Title | default .Site.Title }}">
+    <meta name="twitter:description" content="{{ $.Description }}">
+    <meta name="twitter:site" content="@bramwillemse">
+
     <base href="{{ $.Site.BaseURL }}" />
-    <title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
     <!-- <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet"> -->
     <link rel="stylesheet" href="css/main.min.css" />
   </head>
