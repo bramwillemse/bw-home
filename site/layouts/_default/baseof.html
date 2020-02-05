@@ -16,6 +16,8 @@
     
     <meta name="twitter:title" content="{{ .Title | default .Site.Title }}">
     <meta name="twitter:description" content="{{ $.Description }}">
+    <meta name="twitter:image" content="https://bramwillemse.nl/{{ $.Params.featured_image.src }}?nf_resize=fit&w=1200&h=627">
+    <meta name="twitter:image:alt" content="{{ $.Params.featured_image.alt }}">
     <meta name="twitter:site" content="@bramwillemse">
 
     <base href="https://bramwillemse.nl{{ $.Site.BaseURL }}" />
