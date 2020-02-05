@@ -1,8 +1,9 @@
-/**
- * Site footer
- * The site's main footer module
- */
-/* .o-site-footer {} */
+
+/*
+SITE: FOOTER
+------------
+The site's main footer module
+*/
 
 /* UNORDERED LISTS */
 .o-site-footer ul,
@@ -23,6 +24,7 @@
   .o-site-footer dl {
     margin-bottom: 0;
   }
+
   .o-site-footer dt,
   .o-site-footer dd,
   .o-site-footer li {

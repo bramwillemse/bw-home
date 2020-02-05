@@ -1,2 +1,9 @@
-@import "content-block";
+
+/*
+ENTITIES
+--------
+Re-usable layouts.
+*/
 @import "articles";
+@import "content-block";
+@import "grid-home";

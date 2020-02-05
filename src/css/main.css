@@ -25,11 +25,10 @@
 @import "molecules/visual-banner.css";
 
 /* ORGANISMS */
+@import "organisms/article.css";
+@import "organisms/site-footer.css";
 @import "organisms/site-header.css";
 @import "organisms/site-main.css";
-@import "organisms/site-footer.css";
-@import "organisms/article.css";
-@import "organisms/brammy.css";
 
 /* UTILITIES */
 @import "_utilities";
