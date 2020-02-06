@@ -1,7 +1,7 @@
 ---
 title: Now
 introduction: On this page you can keep tabs at where I'm at and what is keeping me busy right now.
-date: 2020-02-06T13:29:03+01:00
+date: 2020-02-06T11:29:03+01:00
 description: What is Bram Willemse doing now?
 url: /now/
 featured_image:
