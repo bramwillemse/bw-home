@@ -1,7 +1,7 @@
 ---
 title: Now
 introduction: On this page you can keep tabs at where I'm at and what is keeping me busy right now.
-date: 2020-01-16T13:29:03+01:00
+date: 2020-02-06T13:29:03+01:00
 description: What is Bram Willemse doing now?
 url: /now/
 featured_image:
@@ -19,7 +19,7 @@ parent:
 - **I am looking for new projects**. Preferably smaller websites that I can take on on my own, as a designer &amp; developer, or in a small team.
 - In the meanwhile **I will update my website**. It is built with static site generator <a href="https://gohugo.io" title="Read more about static site generator Hugo">Hugo</a>. I'm learning about how to optimise my usage of the system and slowly trying to update the site in design and features.
 - **I am reading** <a href="https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes" title="Check out the book 'How to take smart notes' on GoodReads">'How to take smart notes'</a> by Sönke Ahrens.
-- And **I am writing**. I'm working on a blogpost about my 2020 goals and looking for some formats to regularly write this year.
+- And **I am writing**. I am looking for some formats to regularly write notes and blogposts this year. I might resussitate my old 'Apps die er toe doen' [Apps that matter] and the Wolf Weekly (drawings) might join the ranks.
 
 ## Private
 - **I am building my home**. Since January 23rd I am the proud  owner of the apartment I had been renting the previous 3.5 years. In the spring of 2020 I will be doing a full blown renovation.
