@@ -1,7 +1,7 @@
 ---
 title: Now
 introduction: On this page you can keep tabs at where I'm at and what is keeping me busy right now.
-date: 2020-03-18T08:30:03+01:00
+date: 2020-03-22T18:30:03+01:00
 description: What is Bram Willemse doing now?
 url: /now/
 featured_image:
@@ -11,6 +11,9 @@ parent:
   url: "/"
   icon: home
 ---
+
+## When
+- This page was last updated on <i><time datetime="2020-03-22 19:00">March 22nd, 2020</time></i>.
 
 ## Where
 - I live &amp; work in 📍 **Amsterdam, the Netherlands**.
