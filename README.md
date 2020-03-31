@@ -4,6 +4,8 @@
 ## Installation
 
 1. Run `yarn install` or `npm install`
-2. Run `gulp`
-3. Magic!
+2. Install and configure large media modules [as documented by Netlify](https://docs.netlify.com/large-media/requirements-and-limitations/#requirements)
+3. and run `netlify link`
+4. Run `gulp`
+5. Magic!
 
