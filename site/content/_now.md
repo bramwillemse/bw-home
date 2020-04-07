@@ -1,7 +1,7 @@
 ---
 title: Now
 introduction: Curious? On this page you can keep an eye on what is keeping me busy right now.
-date: 2020-03-26T14:00:00+01:00
+date: 2020-04-07T20:00:00+01:00
 description: What is Bram Willemse doing now?
 url: /now/
 featured_image:
@@ -13,7 +13,7 @@ parent:
 ---
 
 ## Keeping busy
-- **I am looking for a new freelance project**. I am open up to any work where I can help people create digital solutions, mainly websites, webshops and web apps. I am an experienced front-end developer & team lead, but I'm also more than capable of designing full websites on my own.
+- **I am looking for a new freelance project**. Because of the crisis I'm getting a bit less picky. So if I need to build a website on my own, or lead a team doing it, it's all good.
 - **I am building my home**. Since January 23rd I am the proud  owner of the apartment I had been renting the previous 3.5 years. I've moved to an apartment around the block, and right now I am doing all the demolition work myself, preparing it for a contractor to make it livable and beautiful.
 - **I am cutting costs**. Since the Corona crisis is hitting me and I have no foreseeable income, I am looking into cutting costs where I can and the options that governmental support for freelancers can offer.
 - **I volunteer at Vluchtelingenwerk** [Dutch for "Refugee Work"]. Since November 2019 I have helping them out as a 'Wijkvrijwilliger' [or 'neighbourhood volunteer']. It means every week or other week, I would hang out with a refugee buddy and help him find his way in Dutch daily life. Right now I am not visiting him in person, but trying to call weekly to see how he's doing.
@@ -25,7 +25,7 @@ parent:
 - **I am reading** ['Remote'](https://www.goodreads.com/book/show/17316682-remote "Check out the book 'Remote' on GoodReads") by David Heinemeier Hansson and Jason Fried and I am (still) working on <a href="https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes" title="Check out the book 'How to take smart notes' on GoodReads">'How to take smart notes'</a> by Sönke Ahrens.
 - **I draw wolves**. This is a random idea I had at the start of the year and now I am trying to every week draw a wolf. To get better at drawing and to get to know an animal and my fascination for it. You can [see my drawings on Flickr](https://www.flickr.com/photos/bramwillemse/albums/72157713134882542).
 
-*This page was last updated on <time datetime="2020-03-31 19:09">March 31st, 2020</time> in Amsterdam, the Netherlands*.
+*This page was last updated on <time datetime="2020-04-07 21:00">April 7th, 2020</time> in Amsterdam, the Netherlands*.
 
 ## Want to know more?
 - Follow me on [Twitter](https://twitter.com/bramwillemse "Follow or contact me on Twitter"), [LinkedIn](https://linkedin.com/in/bramwillemse "Check out my profile and CV on LinkedIn"), [Strava](https://strava.com/athletes/bramwillemse "Follow my training progress on Strava"), [Flickr](https://flickr.com/bramwillemse "Explore my photos on Flickr") or [Goodreads](https://www.goodreads.com/bramwillemse "See what I read on my GoodReads profile").
