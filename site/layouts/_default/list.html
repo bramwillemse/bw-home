@@ -37,19 +37,23 @@ LIST (DEFAULT)
       {{ range first 10 .Data.Pages }}
         {{ if eq .Type "notes" }}
           <section class="e-notes e-grid">
-            <article class="o-note o-article--compact e-content-block e-grid__item">
-              <h1>
-                <a href="{{ .Permalink }}" tabindex="-1">
-                  {{ if (.Params.title_short) }}
-                    {{ .Params.title_short }}
-                  {{ else }}
-                    {{ .Title }}
-                  {{ end }}
-                </a>
+            <article class="o-note e-content-block e-grid__item">
+              <h1 class="u-margin-bottom-none">
+                {{ if (.Params.title_short) }}
+                  {{ .Params.title_short }}
+                {{ else }}
+                  {{ .Title }}
+                {{ end }}
               </h1>
+              <p class="a-date">
+                <time datetime="{{ .Date }}">{{ .Date.Format "Monday, January 2, 2006" }}</time>
+              </p>
 
-              <p>{{ .Content | safeHTML }}</p>
+              {{ .Content | safeHTML }}
 
+              <p>
+                <a href="{{ .Permalink }}" title="View note {{ .Title }}">View this note</a>
+              </p>
             </article>
           </section>
         {{ end }}
