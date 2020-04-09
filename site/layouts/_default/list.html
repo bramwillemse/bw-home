@@ -11,9 +11,9 @@ LIST (DEFAULT)
         <h1 class="a-list-header__title">{{ .Title }}</h1>
       </header>
 
-      <section class="e-articles e-grid">
-        {{ range first 10 .Data.Pages }}
-          {{ if eq .Type "articles" }}
+      {{ range first 10 .Data.Pages }}
+        {{ if eq .Type "articles" }}
+          <section class="e-articles e-grid">
             <article class="o-article o-article--compact e-content-block e-grid__item">
               <h1>
                 <a href="{{ .Permalink }}" tabindex="-1">
@@ -30,9 +30,31 @@ LIST (DEFAULT)
               {{ partial "atoms/button" (dict "ariaLabel" .Title "icon" "read" "label" "Let me read this" "url" .Permalink) }}
 
             </article>
-          {{ end }}
+          </section>
         {{ end }}
-      </section>
+      {{ end }}
+
+      {{ range first 10 .Data.Pages }}
+        {{ if eq .Type "notes" }}
+          <section class="e-notes e-grid">
+            <article class="o-note o-article--compact e-content-block e-grid__item">
+              <h1>
+                <a href="{{ .Permalink }}" tabindex="-1">
+                  {{ if (.Params.title_short) }}
+                    {{ .Params.title_short }}
+                  {{ else }}
+                    {{ .Title }}
+                  {{ end }}
+                </a>
+              </h1>
+
+              <p>{{ .Content | safeHTML }}</p>
+
+            </article>
+          </section>
+        {{ end }}
+      {{ end }}
+
     </section>
 
     <div class="e-content-block e-content-block--transparent">
