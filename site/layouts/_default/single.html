@@ -1,13 +1,17 @@
 
-{{/* 
+{{/*
 PAGE
 ----
-Default template for standard pages  
+Default template for standard pages
 */}}
 
 {{ define "main" }}
   <main id="site-main" tabindex="-1" class="o-site-main">
+  {{ if eq .Type "notes" }}
+    {{ partial "organisms/note.html" . }}
+  {{ else }}
     {{ partial "organisms/page.html" . }}
+  {{ end }}
 
     <div class="e-content-block e-content-block--transparent">
       {{ partial "organisms/site-footer" . }}
