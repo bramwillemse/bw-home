@@ -1,6 +1,7 @@
 <article class="e-content-block e-content-block--background">
-  <section class="">
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
-  </section>
+  <h1 class="u-margin-bottom-none">{{ .Title }}</h1>
+  <p class="a-date">
+    <time datetime="{{ .Date }}">{{ .Date.Format "Monday, January 2, 2006" }}</time>
+  </p>
+  {{ .Content }}
 </article>
