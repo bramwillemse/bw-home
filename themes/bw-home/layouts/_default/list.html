@@ -37,7 +37,7 @@ LIST (DEFAULT)
         {{ end }}
 
         {{ if eq .Type "notes" }}
-          {{ $paginator := .Paginate (where .Data.Pages "Type" "notes") }}
+          {{ $paginator := .Paginate (where .Data.Pages "Type" "notes") 3 }}
           {{ range $paginator.Pages }}
             <section class="e-notes e-grid">
               <article class="o-note e-content-block e-grid__item">
