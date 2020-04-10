@@ -1,15 +1,10 @@
 *.log
-*.map
 *.min.css
 *.min.js
-*.scssc
 .DS_Store
 
-_assets
-_site
 public/*
 node_modules
-styleguide
 tmp/*
 
 # Local Netlify folder
