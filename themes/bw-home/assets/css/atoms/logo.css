@@ -1,4 +1,19 @@
+
 .a-logo {
+  height: 3.3rem;
+  position: relative;
+  width: 3.3rem;
+}
+
+.a-logo__picture {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.a-logo__image {
   background-color: var(--grey-80);
   border: .15rem solid var(--grey-80);
   border-radius: 100%;
@@ -13,9 +28,9 @@
   z-index: var(--z-header);
 }
 
-a:focus .a-logo,
-.a-logo:hover,
-.a-logo:focus {
+a:focus .a-logo__image,
+.a-logo__image:hover,
+.a-logo__image:focus {
   border-color: var(--blue);
   border-left-color: var(--blue-50);
   border-top-color: var(--blue-50);
@@ -24,13 +39,13 @@ a:focus .a-logo,
 }
 
 @media (prefers-color-scheme: dark) {
-  .a-logo:hover,
-  .a-loco:focus {
+  .a-logo__image:hover,
+  .a-logo__image:focus {
     border-color: var(--yellow);
   }
 }
 
-.a-logo:active {
+.a-logo__image:active {
   box-shadow: none;
   transform: scale(1);
 }

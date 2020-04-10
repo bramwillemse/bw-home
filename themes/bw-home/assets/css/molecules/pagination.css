@@ -1,0 +1,16 @@
+.m-pagination {
+  display: flex;
+  list-style: none;
+}
+
+.m-pagination__link {
+  padding: 0 var(--xs)
+}
+
+.m-pagination__link::after {
+  width: 100%;
+}
+
+.m-pagination__link--current {
+  color: var(--grey-70);
+}

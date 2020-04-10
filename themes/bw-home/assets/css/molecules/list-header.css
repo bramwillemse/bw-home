@@ -1,21 +1,23 @@
-.a-list-header {
-  align-items: center;
+.m-list-header {
   display: flex;
   flex-direction: column;
   margin-bottom: var(--spacing-s);
+  padding-left: var(--spacing-xs);
+  padding-right: var(--spacing-xs);
   width: 100%;
 }
 
-@media (--br-m) {
-  .a-list-header {
+@media (--br-s) {
+  .m-list-header {
+    align-items: center;
     margin-bottom: var(--spacing-m);
   }
 }
 
-.a-list-header__title {
+.m-list-header__title {
   display: inline;
   margin-bottom: 0;
 }
-.a-list-header__subline {
+.m-list-header__subline {
   font-style: italic;
 }

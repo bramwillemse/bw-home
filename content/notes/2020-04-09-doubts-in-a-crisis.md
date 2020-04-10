@@ -7,7 +7,6 @@ description: 'Should I cancel my new kitchen? Should I take any paid job that co
 reading_time: 5 minutes
 date: 2020-04-09T08:54:51+02:00
 url: /crisis-doubts/
-type: notes
 parent:
   title: "Notes"
   url: "/notes"
@@ -27,8 +26,9 @@ After feeling like I needed to change everything for two weeks, in the third wee
 
 Here in the Netherlands we're in the fourth week of this crisis now and I am gaining back trust in myself, I have actually invested a bit in my home office and feel ready to face it.
 
+## Now what?
 I am skilled, I am social and I am able to help people through times like this. I have a promising house and a great budget to make it beautiful.
 
-I will have to generage income, sooner rather than later. And thoughout this spring and summer I will have to invest the rest of my energy in my house. It's a lot, but I will take it by the day and week.
+I will have to generate some income sooner rather than later. And thoughout this spring and summer I will have to invest the rest of my energy in my house. It's a lot, but I will take it by the day, week or month.
 
 Prepare for the worst, hope for the best. Keep going. ✊

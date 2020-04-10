@@ -2,6 +2,8 @@ baseurl = "/"
 DefaultContentLanguage = "en"
 title = "Bram Willemse"
 theme = "bw-home"
+paginate = 8
+paginatePath = "page"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:

@@ -41,7 +41,7 @@ a:not(.a-button)::after {
   background-color: currentColor;
   bottom: 1px;
   content: "";
-  height: 3px;
+  height: .1rem;
   left: 0;
   max-width: 100%;
   position: absolute;
@@ -70,6 +70,10 @@ a:not(.a-button):hover::after {
   a:hover::after {
     background-color: var(--yellow);
   }
+}
+
+.u-disable-link {
+  pointer-events: none;
 }
 
 .u-disable-link::after {

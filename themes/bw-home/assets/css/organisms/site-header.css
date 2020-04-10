@@ -5,7 +5,6 @@ SITE: HEADER
 The site's main header.
 */
 
-
 .o-site-header {
   align-items: center;
   display: grid;
@@ -19,13 +18,13 @@ The site's main header.
   z-index: var(--z-header);
 }
 
-@media (--br-m) {
+@media (--br-xs) {
   .o-site-header {
     grid-gap: var(--s);
     grid-template: "left center right";
     grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
     left: 0;
-    margin: var(--spacing-s) var(--spacing-xl) var(--spacing-m);
+    margin: var(--spacing-s) var(--spacing-xs) var(--spacing-m);
     position: fixed;
     right: 0;
     top: 0;
@@ -55,7 +54,7 @@ The site's main header.
   pointer-events: auto;
 }
 
-@media (--br-m) {
+@media (--br-xs) {
   .a-site-header-spacer {
     height: 6rem;
   }

@@ -8,27 +8,13 @@
 @import "_entities";
 
 /* ATOMS */
-@import "atoms/button.css";
-@import "atoms/date.css";
-@import "atoms/figure.css";
-@import "atoms/introduction.css";
-@import "atoms/list-header.css";
-@import "atoms/logo.css";
-@import "atoms/picture.css";
-@import "atoms/video.css";
-@import "atoms/visual-banner-overlay.css";
+@import "atoms";
 
 /* MOLECULES */
-@import "molecules/article-header.css";
-@import "molecules/article-navigation.css";
-@import "molecules/skip-links.css";
-@import "molecules/visual-banner.css";
+@import "molecules";
 
 /* ORGANISMS */
-@import "organisms/article.css";
-@import "organisms/site-footer.css";
-@import "organisms/site-header.css";
-@import "organisms/site-main.css";
+@import "organisms";
 
 /* UTILITIES */
 @import "_utilities";

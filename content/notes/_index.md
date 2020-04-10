@@ -1,10 +1,8 @@
 ---
 title: Notes
-url: /notes/
-description: Quick notes and brain farts.
+description: Quick notes and brain dumps
 parent:
   title: Bram
   url: "/"
   icon: home
-draft: false
 ---
