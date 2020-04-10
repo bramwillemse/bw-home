@@ -15,7 +15,7 @@ const config = {
     '--buildFuture'
   ],
   paths: {
-    dist: "./public",
+    dest: "./public",
     css: {
       src: './themes/bw-home/assets/css/**/*.css',
       srcMain: './themes/bw-home/assets/css/main.css',

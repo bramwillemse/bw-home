@@ -8,7 +8,7 @@ import browserSync from 'browser-sync'
 
 gulp.task('serve', () => {
     browserSync.init({
-        server: config.paths.dist,
+        server: config.paths.dest,
         watch: true
     });
 });

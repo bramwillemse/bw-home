@@ -7,7 +7,7 @@
 
 _assets
 _site
-dist/*
+public/*
 node_modules
 styleguide
 tmp/*
