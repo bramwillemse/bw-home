@@ -1,5 +1,6 @@
 .m-skip-links {
   background-color: var(--blue-90);
+  box-shadow: var(--shadow-default);
   color: var(--white);
   display: flex;
   flex-direction: column;

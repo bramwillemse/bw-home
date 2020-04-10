@@ -35,7 +35,6 @@ class SkipLinks {
   }
 
   close() {
-    console.log(this.element.nextElementSibling.querySelector('a'))
     this.element.nextElementSibling.querySelector('a').focus()
   }
 }
