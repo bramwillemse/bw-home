@@ -7,7 +7,7 @@
  * [2] Track sourcemaps
  * [3] Inject CSS with Brwosersync instead of page reload
  */
-import config from "../../config";
+import config from "../config";
 import gulp from "gulp";
 import postcss from "gulp-postcss";
 import postcssPresetEnv from "postcss-preset-env";

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="162px" height="277px" viewBox="0 0 162 277" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>runner</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="runner" fill="#000000">
+        <g id="figure---runner-copy-3" transform="translate(79.500000, 141.500000) rotate(-5.000000) translate(-79.500000, -141.500000) translate(-13.000000, 3.000000)">
+            <g id="leg-left" transform="translate(54.307233, 196.511313) scale(-1, 1) rotate(-45.000000) translate(-54.307233, -196.511313) translate(28.807233, 145.511313)">
+                <rect id="leg-left-lower" transform="translate(25.643995, 76.296819) scale(-1, 1) rotate(-315.000000) translate(-25.643995, -76.296819) " x="20.6439946" y="46.2968192" width="10" height="60"></rect>
+                <rect id="leg-left-upper" transform="translate(13.205972, 30.322981) scale(-1, 1) rotate(-15.000000) translate(-13.205972, -30.322981) " x="8.20597192" y="0.322981275" width="10" height="60"></rect>
+            </g>
+            <g id="leg-right" transform="translate(87.071935, 164.352428)">
+                <rect id="leg-right-lower" transform="translate(27.000000, 81.000000) rotate(-345.000000) translate(-27.000000, -81.000000) " x="22" y="51" width="10" height="60"></rect>
+                <rect id="leg-right-upper" transform="translate(20.205972, 29.322981) rotate(-30.000000) translate(-20.205972, -29.322981) " x="15.2059719" y="-0.677018725" width="10" height="60"></rect>
+            </g>
+            <rect id="body" transform="translate(109.224782, 83.461977) rotate(-345.000000) translate(-109.224782, -83.461977) " x="104.224782" y="54.9619765" width="10" height="57"></rect>
+            <rect id="body" transform="translate(97.111206, 137.347525) rotate(-350.000000) translate(-97.111206, -137.347525) " x="92.1112056" y="108.847525" width="10" height="57"></rect>
+            <g id="arm-left" transform="translate(80.890584, 93.602274) scale(-1, 1) rotate(-165.000000) translate(-80.890584, -93.602274) translate(37.890584, 71.602274)">
+                <polygon id="arm-left-upper" points="35.5 43.5 35.5 33.5 85.5 33.5 85.5 43.5"></polygon>
+                <polygon id="arm-left-lower" points="0.129942315 7.92893219 7.20101013 0.857864376 42.5563492 36.2132034 35.4852814 43.2842712"></polygon>
+            </g>
+            <g id="arm-right" transform="translate(146.087246, 83.066946) scale(-1, 1) rotate(-255.000000) translate(-146.087246, -83.066946) translate(120.087246, 50.066946)">
+                <rect id="arm-left-upper" transform="translate(26.213127, 11.577037) scale(-1, 1) rotate(-105.000000) translate(-26.213127, -11.577037) " x="21.2131266" y="-13.4229629" width="10" height="50"></rect>
+                <polygon id="arm-left-lower" transform="translate(39.471935, 39.634014) scale(-1, 1) rotate(-15.000000) translate(-39.471935, -39.634014) " points="34.4719349 14.6340138 44.4719349 15.467198 44.4719349 64.6340138 34.7242243 64.6340138"></polygon>
+            </g>
+            <circle id="head" cx="124.734727" cy="30.0757398" r="30"></circle>
+        </g>
+    </g>
+</svg>

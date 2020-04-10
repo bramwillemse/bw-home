@@ -1,0 +1,8 @@
+name = "Bram Willemse"
+description = "My personal website"
+homepage = "https://bramwillemse.nl"
+tags = ["blog", "company"]
+
+[author]
+    name = "Bram Willemse"
+    homepage = "Bram Willemse"

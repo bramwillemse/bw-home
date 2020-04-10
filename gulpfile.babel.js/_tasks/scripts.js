@@ -3,7 +3,7 @@
  * Convert ES6 ode in all js files in src/js folder and copy to
  * build folder as bundle.js
  */
-import config from '../../config.js'
+import config from '../config.js'
 import gulp from 'gulp'
 import browserify from 'browserify'
 import source from 'vinyl-source-stream'

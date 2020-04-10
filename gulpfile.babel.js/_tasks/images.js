@@ -1,8 +1,8 @@
-/** 
+/**
  * IMAGES
  * Optimise gif, jpg, png and svg files
  */
-import config from '../../config'
+import config from '../config'
 import gulp from 'gulp'
 import imagemin from 'gulp-imagemin'
 

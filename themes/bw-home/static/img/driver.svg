@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="188px" viewBox="0 0 170 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>driver</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="driver"></g>
+        <g id="figure---driver-copy-4" transform="translate(90.737804, 97.500000) rotate(-30.000000) translate(-90.737804, -97.500000) translate(19.737804, -21.000000)" fill="#000000">
+            <g id="Group" transform="translate(100.638085, 132.161135) rotate(-20.000000) translate(-100.638085, -132.161135) translate(67.138085, 104.161135)">
+                <rect id="arm-left-lower" transform="translate(33.686021, 22.306530) rotate(-120.000000) translate(-33.686021, -22.306530) " x="28.6860211" y="-12.6934698" width="10" height="70"></rect>
+                <rect id="arm-left-lower" transform="translate(43.124565, 39.551494) rotate(-30.000000) translate(-43.124565, -39.551494) " x="38.124565" y="24.5514942" width="10" height="30"></rect>
+            </g>
+            <g id="leg-right" transform="translate(55.155970, 195.941917) rotate(-80.000000) translate(-55.155970, -195.941917) translate(23.155970, 146.441917)">
+                <rect id="leg-right-lower" transform="translate(24.447441, 74.509619) rotate(-315.000000) translate(-24.447441, -74.509619) " x="19.4474411" y="46.0096189" width="10" height="57"></rect>
+                <rect id="leg-right-upper" transform="translate(50.813667, 29.483235) rotate(-345.000000) translate(-50.813667, -29.483235) " x="45.8136671" y="0.983235313" width="10" height="57"></rect>
+            </g>
+            <g id="arm-left" transform="translate(46.966929, 103.680899) scale(-1, 1) rotate(-45.000000) translate(-46.966929, -103.680899) translate(2.966929, 86.180899)">
+                <rect id="arm-left-upper" transform="translate(62.985281, 17.747964) rotate(-120.000000) translate(-62.985281, -17.747964) " x="57.9852814" y="-7.25203584" width="10" height="50"></rect>
+                <rect id="arm-left-lower" transform="translate(24.165305, 17.499313) rotate(-60.000000) translate(-24.165305, -17.499313) " x="19.1653051" y="-7.50068656" width="10" height="50"></rect>
+            </g>
+            <g id="back" transform="translate(24.468965, 107.287747) scale(-1, 1) rotate(-90.000000) translate(-24.468965, -107.287747) translate(-35.031035, 92.287747)">
+                <rect id="arm-left-upper" transform="translate(80.256157, 17.756415) rotate(-105.000000) translate(-80.256157, -17.756415) " x="75.2561573" y="-7.24358497" width="10" height="50"></rect>
+                <rect id="arm-left-upper" transform="translate(109.423401, 8.210455) rotate(-120.000000) translate(-109.423401, -8.210455) " x="104.423401" y="0.710455076" width="10" height="15"></rect>
+                <rect id="arm-left-lower" transform="translate(29.160903, 24.277280) rotate(-270.000000) translate(-29.160903, -24.277280) " x="24.160903" y="-4.22272011" width="10" height="57"></rect>
+            </g>
+            <circle id="head" cx="52.2851289" cy="30.9676433" r="30"></circle>
+        </g>
+    </g>
+</svg>

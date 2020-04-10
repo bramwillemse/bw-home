@@ -1,4 +1,4 @@
-import config from '../config.js'
+import config from './config.js'
 import requireDir from 'require-dir'
 import gulp from 'gulp'
 

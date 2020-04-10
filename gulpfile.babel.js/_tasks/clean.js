@@ -1,4 +1,4 @@
-/** 
+/**
  * CLEAN
  * Clean up all generated files
  */
@@ -8,7 +8,7 @@ import clean from 'gulp-rimraf'
 gulp.task('clean', gulp.parallel(
 	cleanImages,
     cleanStyles,
-	cleanScripts, 
+	cleanScripts,
     cleanTemplates
 ))
 
@@ -18,10 +18,10 @@ gulp.task('clean', gulp.parallel(
  * Cleans compiled / optimised images
  */
 function cleanImages() {
-    return gulp.src('./dist/img', 
-        { 
-            read: false, 
-            allowEmpty: true 
+    return gulp.src('./dist/images',
+        {
+            read: false,
+            allowEmpty: true
         })
         .pipe(clean());
 }
@@ -32,11 +32,10 @@ function cleanImages() {
  */
 function cleanStyles() {
 	return gulp.src([
-        './site/static/css',
-        './dist/css'    
-    ], { 
+        './dist/css'
+    ], {
         read: false,
-        allowEmpty: true 
+        allowEmpty: true
     })
 	.pipe(clean());
 }
@@ -47,9 +46,9 @@ function cleanStyles() {
  */
 function cleanScripts() {
 	return gulp.src([
-        './site/static/js', 
+        './static/js',
         './dist/js'
-        ], { 
+        ], {
             read: false,
             allowEmpty: true
         })
