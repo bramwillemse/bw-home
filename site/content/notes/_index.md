@@ -1,7 +1,7 @@
 ---
 title: Notes
 url: /notes/
-description: An overview of quick notes written by Bram Willemse.
+description: Quick notes and brain farts.
 parent:
   title: Bram
   url: "/"

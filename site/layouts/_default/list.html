@@ -9,6 +9,7 @@ LIST (DEFAULT)
     <section class="list">
       <header class="a-list-header e-content-block e-content-block--transparent">
         <h1 class="a-list-header__title">{{ .Title }}</h1>
+        <p class="a-list-header__subline">{{ .Description }}</p>
       </header>
 
       {{ range first 10 .Data.Pages }}
@@ -39,11 +40,7 @@ LIST (DEFAULT)
           <section class="e-notes e-grid">
             <article class="o-note e-content-block e-grid__item">
               <h1 class="u-margin-bottom-none">
-                {{ if (.Params.title_short) }}
-                  {{ .Params.title_short }}
-                {{ else }}
-                  {{ .Title }}
-                {{ end }}
+                {{ .Title }}
               </h1>
               <p class="a-date">
                 <time datetime="{{ .Date }}">{{ .Date.Format "Monday, January 2, 2006" }}</time>

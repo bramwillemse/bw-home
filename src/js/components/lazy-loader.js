@@ -13,6 +13,6 @@ const lazyLoader = () => {
   if (lazyLoadInstance) {
     lazyLoadInstance.update()
   }
-};
+}
 
-export default lazyLoader;
+export default lazyLoader

@@ -13,6 +13,7 @@
   z-index: var(--z-header);
 }
 
+a:focus .a-logo,
 .a-logo:hover,
 .a-logo:focus {
   border-color: var(--blue);

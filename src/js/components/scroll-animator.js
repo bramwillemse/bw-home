@@ -25,4 +25,4 @@ const scrollAnimator = () => {
   }
 }
 
-export default scrollAnimator;
+export default scrollAnimator

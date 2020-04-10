@@ -1,26 +1,30 @@
 {{/*
-    Skip links
-    Provide keyboard accessible skip links
+SKIP LINKS
+----------
+Provide keyboard accessible skip links
 */}}
-<nav class="m-skip-links">
+<nav class="m-skip-links" data-skip-links>
   <ul class="m-skip-links__list">
+    <li class="m-skip-links__item u-margin-bottom">
+      <span class="u-text-italic">Press ESC to close</span>
+    </li>
     <li class="m-skip-links__item">
-      <a href="{{.URL}}#site-main" class="m-skip-links__link">
+      <a class="m-skip-links__link" href="{{.URL}}#site-main" data-skip-links-element>
         Skip to content
       </a>
     </li>
     <li class="m-skip-links__item">
-      <a href="{{.URL}}#site-links" class="m-skip-links__link">
+      <a class="m-skip-links__link" href="{{.URL}}#site-links" data-skip-links-element>
         Skip to site navigation
       </a>
     </li>
     <li class="m-skip-links__item">
-      <a href="{{.URL}}#site-contact" class="m-skip-links__link">
+      <a class="m-skip-links__link" href="{{.URL}}#site-contact" data-skip-links-element>
         Skip to contact information
       </a>
     </li>
     <li class="m-skip-links__item">
-      <a href="{{.URL}}#site-company-info" class="m-skip-links__link">
+      <a class="m-skip-links__link" href="{{.URL}}#site-company-info" data-skip-links-element>
         Skip to company information
       </a>
     </li>
