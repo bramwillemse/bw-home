@@ -1,5 +1,4 @@
 [build]
   command = "gulp build"
 [build.environment]
-  YARN_VERSION = ">=2.0.0"
-  YARN_FLAGS = "--ignore-optional"
+  YARN_VERSION = "2.0.0"
