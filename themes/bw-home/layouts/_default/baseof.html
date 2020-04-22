@@ -22,7 +22,8 @@
 
     <base href="{{ $.Site.BaseURL }}" />
     <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/main.min.css" />
+    {{ $style := resources.Get "css/main.css" | resources.PostCSS (dict "config" "./assets/css/postcss.config.js") | minify }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
   </head>
 
   <body>
@@ -38,7 +39,14 @@
       <!-- The part of the page that begins to differ between templates -->
     {{ end }}
 
-    <script defer src="assets/js/main.min.js"></script>
+    {{ $bundle := resources.Get "js/bundle.js" }}
+    {{ $scripts := $bundle | minify | fingerprint }}
+
+    {{ if .Site.IsServer }}
+      <script type="text/javascript" src="{{ $scripts.RelPermalink }}"></script>
+    {{ else }}
+      <script type="text/javascript" src="{{ ($scripts | minify | fingerprint).RelPermalink }}"></script>
+    {{ end }}
   </body>
 
   </html>

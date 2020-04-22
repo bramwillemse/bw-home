@@ -1,6 +1,6 @@
 
-@import "animation";
-@import "clickable";
-@import "margin";
-@import "screen-reader-only";
-@import "text";
+@import "animation.css";
+@import "clickable.css";
+@import "margin.css";
+@import "screen-reader-only.css";
+@import "text.css";

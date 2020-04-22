@@ -7,5 +7,6 @@ public/*
 node_modules
 tmp/*
 
-# Local Netlify folder
+# Local folders
 .netlify
+.yarn

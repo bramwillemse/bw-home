@@ -1,8 +1,8 @@
-@import "button";
-@import "date";
-@import "figure";
-@import "introduction";
-@import "logo";
-@import "picture";
-@import "video";
-@import "visual-banner-overlay";
+@import "button.css";
+@import "date.css";
+@import "figure.css";
+@import "introduction.css";
+@import "logo.css";
+@import "picture.css";
+@import "video.css";
+@import "visual-banner-overlay.css";
