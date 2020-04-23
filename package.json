@@ -21,9 +21,13 @@
   },
   "scripts": {
     "browserify": "browserify themes/bw-home/assets/js/main.js > themes/bw-home/assets/js/bundle.js",
-    "watchify": "watchify themes/bw-home/assets/js/main.js -o themes/bw-home/assets/js/bundle.js",
+    "watch": "watchify themes/bw-home/assets/js/main.js -o themes/bw-home/assets/js/bundle.js",
     "server": "hugo server --disableFastRender",
     "clean": "rimraf public"
+  },
+  "devDependencies": {
+    "netlify-cli": "^2.19.0",
+    "rimraf": "^3.0.2"
   },
   "dependencies": {
     "@babel/core": "^7.9.0",
@@ -31,19 +35,13 @@
     "@babel/register": "^7.9.0",
     "babelify": "^10.0.0",
     "browserify": "*",
-    "netlify-cli": "^2.19.0",
     "postcss": "^6.0.17",
     "postcss-custom-media": "*",
     "postcss-import": "*",
     "postcss-preset-env": "^6.7.0",
     "postcss-reporter": "*",
-    "require-dir": "^1.2.0",
-    "rimraf": "^3.0.2",
     "stylelint": "^13.3.3",
     "stylelint-order": "*",
     "vanilla-lazyload": "^12.0.0"
-  },
-  "devDependencies": {
-    "npm-run-all": "^4.1.5"
   }
 }
