@@ -4,6 +4,6 @@ ENTITIES
 --------
 Re-usable layouts.
 */
-@import "articles";
-@import "content-block";
-@import "grid-home";
+@import "articles.css";
+@import "content-block.css";
+@import "grid-home.css";

@@ -1,4 +1,4 @@
-baseurl = "/"
+baseURL = "https://bramwillemse.nl"
 DefaultContentLanguage = "en"
 title = "Bram Willemse"
 theme = "bw-home"
@@ -10,3 +10,6 @@ paginatePath = "page"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomyTerm"]
 enableInlineShortcodes = true
+
+[markup.goldmark.renderer]
+  unsafe= true
