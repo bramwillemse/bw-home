@@ -1,2 +1,6 @@
+
 [build]
   command = "yarn browserify && hugo"
+[build.environment]
+  NODE_VERSION = ">=10"
+  YARN_VERSION = ">=1.22.4"

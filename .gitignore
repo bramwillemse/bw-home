@@ -2,10 +2,12 @@
 *.min.css
 *.min.js
 .DS_Store
+.yarn
 
 public/*
 node_modules
 tmp/*
+bundle.js
 
 # Local folders
 .netlify
