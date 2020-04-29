@@ -8,6 +8,10 @@ author: "Bram Willemse"
 date: 2020-04-27T12:16:47+02:00
 url: "drawings/the-wolf-weekly-11"
 type: "drawings"
+parent:
+  title: "Drawings"
+  url: "/drawings"
+  icon: "list"
 ---
 
 {{<figure src="images/drawings/the-wolf-weekly-11.jpeg">}}

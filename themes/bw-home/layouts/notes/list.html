@@ -19,8 +19,8 @@ LIST (DEFAULT)
             <h1 class="u-margin-bottom-none">
               {{ .Title }}
             </h1>
-            <p class="a-date">
-              <time datetime="{{ .Date }}">{{ .Date.Format "Monday, January 2, 2006" }}</time>
+            <p>
+              {{ partial "atoms/date" . }}
             </p>
 
             {{ .Content | safeHTML }}
