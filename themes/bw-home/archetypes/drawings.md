@@ -8,6 +8,6 @@ featured_image:
 author: "Bram Willemse"
 date: {{ .Date }}
 url: ""
-type:
-draft: true
+type: "drawings"
+draft: false
 ---

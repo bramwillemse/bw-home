@@ -1,0 +1,41 @@
+
+{{/*
+LIST (DEFAULT)
+--------------
+*/}}
+
+{{ define "main" }}
+  <main id="site-main" tabindex="-1" class="o-site-main">
+    <section class="o-list">
+      <header class="m-list-header">
+        <h1 class="m-list-header__title">{{ .Title }}</h1>
+        <p class="m-list-header__subline">{{ .Description }}</p>
+      </header>
+
+      <section class="e-drawings">
+      {{ range .Pages }}
+        <article class="o-drawing e-content-block e-content-block--transparent">
+          {{ .Content | safeHTML }}
+
+          <h1 class="u-margin-bottom-none">
+            {{ .Title }}
+          </h1>
+          <p class="a-date">
+            <time datetime="{{ .Date }}">{{ .Date.Format "Monday, January 2, 2006" }}</time>
+          </p>
+
+          <p>
+            <a href="{{ .Permalink }}" title="View drawing {{ .Title }}">View this drawing</a>
+          </p>
+        </article>
+      {{ end }}
+      </section>
+    </section>
+
+    <div class="e-content-block e-content-block--transparent">
+      {{ partial "organisms/site-footer" . }}
+    </div>
+
+  </main>
+
+{{ end }}

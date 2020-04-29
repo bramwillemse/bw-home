@@ -16,49 +16,70 @@ LIST (DEFAULT)
         {{ $paginator := .Paginate (where .Data.Pages "Type" "articles") }}
         {{ range $paginator.Pages }}
           <section class="e-articles e-grid">
-              <article class="o-article o-article--compact e-content-block e-grid__item">
-                <h1>
-                  <a href="{{ .Permalink }}" tabindex="-1">
-                    {{ if (.Params.title_short) }}
-                      {{ .Params.title_short }}
-                    {{ else }}
-                      {{ .Title }}
-                    {{ end }}
-                  </a>
-                </h1>
+            <article class="o-article o-article--compact e-content-block e-grid__item">
+              <h1>
+                <a href="{{ .Permalink }}" tabindex="-1">
+                  {{ if (.Params.title_short) }}
+                    {{ .Params.title_short }}
+                  {{ else }}
+                    {{ .Title }}
+                  {{ end }}
+                </a>
+              </h1>
 
-                <p>{{ .Params.introduction | safeHTML }}</p>
+              <p>{{ .Params.introduction | safeHTML }}</p>
 
-                {{ partial "atoms/button" (dict "ariaLabel" .Title "icon" "read" "label" "Let me read this" "url" .Permalink) }}
+              {{ partial "atoms/button" (dict "ariaLabel" .Title "icon" "read" "label" "Let me read this" "url" .Permalink) }}
 
-              </article>
-            </section>
-          {{ end }}
+            </article>
+          </section>
         {{ end }}
 
-        {{ if eq .Type "notes" }}
-          {{ $paginator := .Paginate (where .Data.Pages "Type" "notes") 3 }}
-          {{ range $paginator.Pages }}
-            <section class="e-notes e-grid">
-              <article class="o-note e-content-block e-grid__item">
-                <h1 class="u-margin-bottom-none">
-                  {{ .Title }}
-                </h1>
-                <p class="a-date">
-                  <time datetime="{{ .Date }}">{{ .Date.Format "Monday, January 2, 2006" }}</time>
-                </p>
+        {{ partial "molecules/pagination" . }}
 
-                {{ .Content | safeHTML }}
+      {{ else if eq .Type "notes" }}
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "notes") 3 }}
+        {{ range $paginator.Pages }}
+          <section class="e-notes e-grid">
+            <article class="o-note e-content-block e-grid__item">
+              <h1 class="u-margin-bottom-none">
+                {{ .Title }}
+              </h1>
+              <p class="a-date">
+                <time datetime="{{ .Date }}">{{ .Date.Format "Monday, January 2, 2006" }}</time>
+              </p>
 
-                <p>
-                  <a href="{{ .Permalink }}" title="View note {{ .Title }}">View this note</a>
-                </p>
-              </article>
-            </section>
+              {{ .Content | safeHTML }}
+
+              <p>
+                <a href="{{ .Permalink }}" title="View note {{ .Title }}">View this note</a>
+              </p>
+            </article>
+          </section>
         {{ end }}
+
+        {{ partial "molecules/pagination" . }}
+
+      {{ else if eq .Type "drawings" }}
+        <section class="e-drawings e-grid">
+        {{ range .Pages }}
+          <article class="o-drawing e-content-block e-grid__item">
+            {{ .Content | safeHTML }}
+
+            <h1 class="u-margin-bottom-none">
+              {{ .Title }}
+            </h1>
+            <p class="a-date">
+              <time datetime="{{ .Date }}">{{ .Date.Format "Monday, January 2, 2006" }}</time>
+            </p>
+
+            <p>
+              <a href="{{ .Permalink }}" title="View drawing {{ .Title }}">View this drawing</a>
+            </p>
+          </article>
+        {{ end }}
+        </section>
       {{ end }}
-
-      {{ partial "molecules/pagination" . }}
     </section>
 
     <div class="e-content-block e-content-block--transparent">
