@@ -1,5 +1,6 @@
 
 module.exports = {
+  map: { inline: true },
   plugins: [
     require('autoprefixer')({
       grid: true

@@ -45,13 +45,11 @@ Focusing on features that actually help people thrive and improve their wellbein
 In privacy a lot more is happening already, with recent changes in European laws. You might complain about those cookie walls, but they give us insight and opportunity to choose if and how we let ourselves be tracked.
 
 ## How can I make a difference?
-This is just a personal exploration and I might write a bit more about this in the time to come. This friday my Mastermind buddies and I will have a call about it
-
-Without diving in too deep, I want to ask you first:
+This is just a personal exploration and I might write a bit more about this in the time to come. This friday my Mastermind buddies and I will have a call about it and in preparation for that I would love to get your input.
 
 > How would you suggest I can, through my work, contribute to a more sustainable economy (and in the end, save the world)?
 
-Let me know on [Twitter](https://twitter.com/bramwillemse), [Linkedin](https://linkedin.com/in/bramwillemse), or send me a mail on [contact@bramwillemse.nl](mailto:contact@bramwillemse.nl)!
+Let me know on [Twitter](https://twitter.com/bramwillemse), [Linkedin](https://linkedin.com/in/bramwillemse), or send me a mail on [contact@bramwillemse.nl](mailto:contact@bramwillemse.nl)! 💚
 
 ## Some semi-random links
 
