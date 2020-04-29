@@ -11,6 +11,8 @@ parent:
   title: "Notes"
   url: "/notes"
   icon: "list"
+featured_image:
+  src: "images/bram-willemse-green-alps-sustainable-work.jpeg"
 draft: false
 ---
 
