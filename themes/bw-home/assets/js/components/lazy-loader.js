@@ -8,6 +8,7 @@ const lazyLoader = () => {
     class_error: 'has-error',
     user_native: true
   }
+
   const lazyLoadInstance = new LazyLoad(options)
 
   if (lazyLoadInstance) {
