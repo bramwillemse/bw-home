@@ -23,7 +23,7 @@
     "browserify": "browserify themes/bw-home/assets/js/main.js > themes/bw-home/assets/js/bundle.js",
     "watch": "watchify themes/bw-home/assets/js/main.js -o themes/bw-home/assets/js/bundle.js",
     "server": "hugo server --disableFastRender",
-    "build": "hugo -v --gc --minify",
+    "build": "hugo -v --minify",
     "clean": "rimraf public"
   },
   "devDependencies": {
