@@ -5,7 +5,6 @@
 .netlify
 .yarn
 node_modules
-resources/*
 
 # Hugo
 public/*
