@@ -56,5 +56,5 @@ Let me know on [Twitter](https://twitter.com/bramwillemse), [Linkedin](https://l
 ## Some semi-random links
 
 - [A definition of sustainability on Wikipedia](https://en.wikipedia.org/wiki/Sustainability)
-- [Insights into the opportunities and risks of remote and distributed work](https://www.youtube.com/watch?v=tIzBLpMAcFU) by John Maeda.
+- Interesting [insights](https://www.youtube.com/watch?v=tIzBLpMAcFU) into the opportunities and risks of remote and distributed work by John Maeda.
 - A beautiful [resource about Humane Design](https://humanebydesign.com/) I picked up from Patrick's [Good Monday newsletter](https://www.patrickloonstra.nl/goodmonday/) (in Dutch).
