@@ -1,4 +1,4 @@
-baseURL = "https://bramwillemse.nl"
+baseURL = "https://bramwillemse.nl/"
 DefaultContentLanguage = "en"
 title = "Bram Willemse"
 theme = "bw-home"

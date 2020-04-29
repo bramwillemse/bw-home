@@ -23,7 +23,7 @@
     <base href="{{ $.Site.BaseURL }}" />
     <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet">
 
-    {{ $style := resources.Get "css/main.css" | resources.PostCSS (dict "config" "./assets/css/postcss.config.js" "noMaps" false ) | minify }}
+    {{ $style := resources.Get "css/main.css" | resources.PostCSS (dict "config" "./assets/css/postcss.config.js" "noMaps" false ) }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
   </head>
 
