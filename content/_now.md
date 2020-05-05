@@ -1,11 +1,11 @@
 ---
 title: Now
 introduction: Curious? On this page you can keep an eye on what is keeping me busy right now.
-date: 2020-04-07T20:00:00+01:00
+date: 2020-05-05T11:00:00+02:00
 description: What is Bram Willemse doing now?
 url: /now/
 featured_image:
-  src: images/now/bram_willemse-amsterdam-houthavens.jpeg
+  src: images/now/bram_willemse-amsterdam-westerpark-bramsterdam.jpeg
 parent:
   title: Bram
   url: "/"
