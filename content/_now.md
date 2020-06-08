@@ -5,7 +5,7 @@ date: 2020-05-13T12:30:00+02:00
 description: What is Bram Willemse doing now?
 url: /now/
 featured_image:
-  src: images/now/bram_willemse-drenthe-trail_running.jpeg
+  src: images/now/bram_willemse-amsterdam-west-roof-view.jpeg
 parent:
   title: Bram
   url: "/"
