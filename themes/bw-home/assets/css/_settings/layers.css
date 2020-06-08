@@ -8,7 +8,7 @@
   --z-content: 321;
   --z-content-below: 222;
   --z-footer: 123;
-  --z-visual-banner: 0;
+  --z-visual-banner: 1;
 
   /* Relative layers */
   --z-rel-10th: 100;

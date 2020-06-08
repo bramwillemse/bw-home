@@ -8,14 +8,13 @@ A blog post or content page
   align-items: center;
   display: flex;
   flex-direction: column;
-  margin-bottom: var(--xxl);
   position: relative;
-  z-index: var(--z-content);
 }
 
 .o-article--compact {
   align-items: flex-start;
   border-left: solid .3rem var(--blue);
+  margin-bottom: var(--xxl);
 }
 
 .o-article--compact .a-button {
