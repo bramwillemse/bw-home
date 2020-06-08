@@ -8,6 +8,6 @@ node_modules
 
 # Hugo
 public/*
-/resources/_gen/
+resources/_gen/*
 tmp/*
 bundle.js

@@ -5,16 +5,25 @@ A blog post or content page
 */
 
 .o-article {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
   margin-bottom: var(--xxl);
+  position: relative;
   z-index: var(--z-content);
 }
 
 .o-article--compact {
+  align-items: flex-start;
   border-left: solid .3rem var(--blue);
 }
 
 .o-article--compact .a-button {
   margin-bottom: 0;
+}
+
+.o-article--has-visual-header {
+  margin-top: 33vh;
 }
 
 .o-article__content {

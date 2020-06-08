@@ -11,7 +11,7 @@
 
 @media (--br-m) {
   .e-content-block {
-    margin: 0 auto var(--spacing-m);
+    margin-bottom: var(--spacing-m);
     padding: var(--xl);
   }
 }

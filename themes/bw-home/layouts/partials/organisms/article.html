@@ -1,4 +1,4 @@
-<article class="o-article">
+<article class="o-article{{ if .Params.featured_image }} o-article--has-visual-header{{ end }}">
   {{ partial "molecules/visual-banner" . }}
 
   {{ partial "molecules/article-header" . }}

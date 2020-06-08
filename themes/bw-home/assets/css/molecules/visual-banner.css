@@ -1,13 +1,26 @@
+
+/*
+VISUAL BANNER
+-------------
+Visual header's full-width banner image. Needs visual banner overlay atom to function properly.
+*/
+
 .m-visual-banner {
   background-color: var(--grey-90);
   display: flex;
-  height: 88vh;
+  height: 50vh;
   left: 0;
   overflow: hidden;
   position: fixed;
   right: 0;
   top: 0;
   z-index: var(--z-visual-banner);
+}
+
+@media (--br-m) {
+  .m-visual-banner {
+    height: 88vh;
+  }
 }
 
 .m-visual-banner--is-empty {
