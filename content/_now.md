@@ -13,13 +13,13 @@ parent:
 ---
 
 ## Keeping busy
-- **I am looking for a new part-time freelance project** as a designer, front-end developer, team lead or the golden combination of those three.
+- **I am building a campaign website** for ['DeGoedeZaak'](https://degoedezaak.org "Check out DeGoedeZaak's website for more information about the ngo") and their sister organisations. It's all about a campaign against CETA. I am developing the website together with my friends and colleagues ['Stef Thoen'](https://stef.co) and ['Sythe Veenje'](https://sythe.nl). More soon!
 - **I am building my home**. Since January 23rd I am the proud  owner of the apartment I had been renting the previous 3.5 years. I've moved to an apartment around the block and I am waiting for the contractor to finish construction before I can start building floors, walls and make it inhabitable again.
 - **I write** about my personal development, apps and hardware that I test and use, and other developments in my work. Right now I'm planning to write a small manifesto integrating a focus on sustainability into my work.
 - **I volunteer at Vluchtelingenwerk** [Dutch for "Refugee Work"]. Since November 2019 I have been helping them out as a 'Wijkvrijwilliger' [or 'neighbourhood volunteer']. It means every week or other week, I will hang out with a refugee buddy and help him find his way in Dutch daily life.
 
 ## Improving my knowledge & skills
-- **I am reading** ['Donkerder'](https://www.goodreads.com/book/show/53319828-donkerder "Check out the book 'Donkerder' on GoodReads") by my good friend Ritzo ten Cate, ['Socrates op Sneakers'](https://www.goodreads.com/book/show/49105212-socrates-op-sneakers "Check out the book 'Socrates op Sneakers' on GoodReads") by Elke Wiss and I am (still) working on <a href="https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes" title="Check out the book 'How to take smart notes' on GoodReads">'How to take smart notes'</a> by Sönke Ahrens.
+- **I am reading** ['No Angel](https://www.goodreads.com/book/show/10164959-no-angel "Check out the book 'No Angel' on GoodReads"): the Secret Life of Bernie Ecclestone' by Tom Bower, ['Socrates op Sneakers'](https://www.goodreads.com/book/show/49105212-socrates-op-sneakers "Check out the book 'Socrates op Sneakers' on GoodReads") by Elke Wiss and I am (still) working on <a href="https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes" title="Check out the book 'How to take smart notes' on GoodReads">'How to take smart notes'</a> by Sönke Ahrens.
 - **I draw wolves**. This is a random idea I had at the start of the year and now I am trying to every week draw a wolf. To get better at drawing and to get to know an animal and my fascination for it. You can [see my drawings on Flickr](https://www.flickr.com/photos/bramwillemse/albums/72157713134882542).
 
 ## Keeping calm & fit
