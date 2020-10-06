@@ -1,22 +1,23 @@
 ---
 title: How can I be more sustainable in my work?
 title_short: Sustainable work
+introduction: This latest crisis doesn't only give me a headache sometimes, it also gives me (a lot of) time to think. I have been walking around thinking about how I can make a difference.
 description: In times of crisis, I start wondering how I want to make a difference through my work.
 date: 2020-04-23T15:59:48+02:00
 author: "Bram Willemse"
-type: "notes"
+type: "articles"
 url: "sustainable-work"
 description: ""
 parent:
-  title: "Notes"
-  url: "/notes"
+  title: "Articles"
+  url: "/article"
   icon: "list"
 featured_image:
   src: "images/bram-willemse-green-alps-sustainable-work.jpeg"
 draft: false
 ---
 
-This latest crisis doesn't only give me a headache sometimes, it also gives me (a lot of) time to think. I have been walking around thinking about how I can make a difference. And the first thing that popped up was to contribute more to a sustainable economy & society. I already do my best with things like separating waste, and trying to limit my use of water and energy. But I do not do much about it through my work. That's an opportunity, right?
+And the first thing that popped up was to contribute more to a sustainable economy & society. I already do my best with things like separating waste, and trying to limit my use of water and energy. But I do not do much about it through my work. That's an opportunity, right?
 
 I started asking colleagues and friends how they think we could make our field of work more sustainable.
 

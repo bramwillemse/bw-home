@@ -1,5 +1,6 @@
 ---
 title: "Doubts during a crisis"
+introduction: 'Should I cancel my new kitchen? Should I take any paid job that comes along? Should I move house? Is it fair that I receive welfare now? So many Corona questions.'
 featured_image:
   src: images/crisis/bram-willemse-corona-crisis.jpeg
 title_short: Crisis doubts
@@ -8,8 +9,8 @@ reading_time: 5 minutes
 date: 2020-04-09T08:54:51+02:00
 url: /crisis-doubts/
 parent:
-  title: "Notes"
-  url: "/notes"
+  title: "Articles"
+  url: "/articles"
   icon: "list"
 ---
 

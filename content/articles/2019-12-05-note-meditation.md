@@ -4,16 +4,14 @@ title_short: Meditation
 introduction: I do yoga and I run. Next to that I've experimented with multiple methods of meditation. Since discovering Sam Harris's 'Waking Up' guided meditations, I belief I have found an entrance to exploring and expanding my mind.
 description:
   "I do yoga, I run and I have experimented with multiple methods of meditation. In this note I give you glimpse in how I meditate."
-featured_image:
-  src: /images/vlieland-beach-netherlands-bram-willemse.jpeg
 author: "Bram Willemse"
 date: 2019-12-05T12:58:35+01:00
 url: "note-on-meditation"
 parent:
-  title: "Notes"
-  url: "/notes"
+  title: "Articles"
+  url: "/articles"
   icon: "list"
-type: notes
+type: articles
 ---
 
 Meditation has made a positive impact in my life. It helps me to start my days from a state of calm and keep it throughout the days, weeks and months, whatever I do. It helps me explore the relation between my body and mind. And it's a way to keep tabs on what I think, how I feel and what I want to do with all that.
