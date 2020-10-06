@@ -9,7 +9,6 @@ html {
   background-color: var(--grey-10);
   color: var(--blue-90);
   font-family: Overpass, sans-serif;
-  font-size: 16px;
   font-weight: 300;
   line-height: 1.6;
   margin: 0;
@@ -23,33 +22,27 @@ html {
   }
 }
 
-@media screen and (min-width: 20rem) {
-  html {
-    font-size: 16px;
-  }
-}
-
 @media (--br-xs) {
   html {
-    font-size: 18px;
+    font-size: 1.1em;
   }
 }
 
 @media (--br-s) {
   html {
-    font-size: 21px;
+    font-size: 1.3em;
   }
 }
 
 @media (--br-l) {
   html {
-    font-size: 24px;
+    font-size: 1.5em;
   }
 }
 
 @media (--br-xl) {
   html {
-    font-size: 26px;
+    font-size: 1.6em;
   }
 }
 

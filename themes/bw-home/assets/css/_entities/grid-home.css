@@ -62,7 +62,19 @@ Grid for the homepage, with skill cards and footer
 
 @media (--br-xl) {
   .e-grid-home__header {
-    grid-column: span 2;
+    grid-column: 2 / 3;
+  }
+
+  .e-grid-home__card-one {
+    order: 1;
+  }
+
+  .e-grid-home__card-two {
+    order: 0;
+  }
+
+  .e-grid-home__card-three {
+    order: 2;
   }
 }
 
