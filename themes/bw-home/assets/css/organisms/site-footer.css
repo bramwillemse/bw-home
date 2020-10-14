@@ -6,10 +6,10 @@ The site's main footer module
 */
 
 .o-site-footer {
-  width: 100%;
   background-color: var(--grey-10);
   padding: 0 var(--spacing-xs) var(--spacing-l);
   position: relative;
+  width: 100%;
   z-index: var(--z-footer);
 }
 
