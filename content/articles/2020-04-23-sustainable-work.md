@@ -10,7 +10,7 @@ url: "sustainable-work"
 description: ""
 parent:
   title: "Articles"
-  url: "/article"
+  url: "/articles"
   icon: "list"
 featured_image:
   src: "images/bram-willemse-green-alps-sustainable-work.jpeg"

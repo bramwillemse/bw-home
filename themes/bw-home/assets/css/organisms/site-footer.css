@@ -6,6 +6,7 @@ The site's main footer module
 */
 
 .o-site-footer {
+  background-color: var(--grey-10);
   padding: 0 var(--spacing-xs) var(--spacing-l);
   position: relative;
   width: 100%;
@@ -15,6 +16,12 @@ The site's main footer module
 @media (--br-m) {
   .o-site-footer {
     padding: 0 var(--spacing-xl) var(--spacing-xl);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .o-site-footer {
+    background-color: var(--blue-80);
   }
 }
 
