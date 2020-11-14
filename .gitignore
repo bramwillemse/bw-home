@@ -3,7 +3,6 @@
 *.min.js
 .DS_Store
 .netlify
-.yarn
 node_modules
 
 # Hugo
@@ -11,3 +10,11 @@ public/*
 resources/*
 tmp/*
 bundle.js
+
+#yarn
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*

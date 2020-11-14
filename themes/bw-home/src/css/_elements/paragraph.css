@@ -1,0 +1,9 @@
+/* PARAGRAPH */
+
+p {
+  margin: 0 0 var(--regular);
+}
+
+p:last-child {
+  margin: 0;
+}

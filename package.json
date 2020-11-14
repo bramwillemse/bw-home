@@ -1,48 +1,37 @@
 {
-  "name": "bw-home",
-  "author": "Bram Willemse <contact@bramwillemse.nl>",
-  "description": "Blog and website for Bram Willemse",
-  "repository": "https://github.com/bramwillemse/bw-home.git",
-  "bugs": {
-    "url": "https://github.com/bramwillemse/bw-home/issues"
-  },
-  "homepage": "https://bramwillemse.nl",
-  "browserify": {
-    "transform": [
-      [
-        "babelify",
-        {
-          "presets": [
-            "@babel/preset-env"
-          ]
-        }
-      ]
-    ]
-  },
+  "name": "webpack-boilerplate",
+  "version": "2.0.0",
+  "description": "Sensible webpack 5 boilerplate using Babel and PostCSS with a hot dev server and an optimized production build.",
+  "main": "index.js",
+  "author": "Tania Rascia",
+  "license": "MIT",
   "scripts": {
-    "browserify": "browserify themes/bw-home/assets/js/main.js > themes/bw-home/assets/js/bundle.js",
-    "watch": "watchify themes/bw-home/assets/js/main.js -o themes/bw-home/assets/js/bundle.js",
-    "server": "hugo server --disableFastRender",
-    "build": "hugo -v --minify",
-    "clean": "rimraf public"
+    "dev:webpack": "webpack-dev-server",
+    "dev:hugo": "hugo --watch",
+    "build:webpack": "webpack --mode=production",
+    "build:hugo": "hugo --environment production"
   },
   "devDependencies": {
-    "netlify-cli": "^2.19.0",
-    "rimraf": "^3.0.2"
-  },
-  "dependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.5",
-    "@babel/register": "^7.9.0",
-    "babelify": "^10.0.0",
-    "browserify": "*",
-    "postcss": "^6.0.17",
+    "@babel/core": "^7.8.1",
+    "@babel/preset-env": "^7.8.7",
+    "autoprefixer": "^9.7.4",
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.6.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "postcss": "^8.0.0",
     "postcss-custom-media": "*",
-    "postcss-import": "*",
+    "postcss-import": "^13.0.0",
+    "postcss-loader": "^4.0.3",
     "postcss-preset-env": "^6.7.0",
-    "postcss-reporter": "*",
+    "postcss-reporter": "^",
     "stylelint": "^13.3.3",
     "stylelint-order": "*",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
     "vanilla-lazyload": "^12.0.0"
   }
 }

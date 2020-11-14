@@ -1,0 +1,11 @@
+/* SPACING */
+
+:root {
+  --spacing-xs: .5rem;
+  --spacing-s: 1rem;
+  --spacing-m: 2rem;
+  --spacing: var(--spacing-m);
+  --spacing-l: 3rem;
+  --spacing-xl: 4rem;
+  --spacing-xxl: 6rem;
+}

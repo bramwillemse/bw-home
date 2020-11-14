@@ -1,0 +1,81 @@
+/*
+ANCHOR
+------
+*/
+
+a {
+  color: var(--blue);
+  display: inline-block;
+  padding-bottom: .1rem;
+  position: relative;
+  text-decoration: none;
+  transform-origin: top right;
+  transition: .15s var(--ease-in-out-quad);
+  transition-property: border, color, transform;
+  z-index: 0;
+}
+
+a:focus,
+a:hover {
+  color: var(--blue-90);
+  outline: none;
+}
+
+a:not(.a-button, .a-logo):active {
+  transform: scale(.95);
+}
+
+@media (prefers-color-scheme: dark) {
+  a {
+    color: var(--blue-50);
+  }
+
+  a:focus,
+  a:hover {
+    color: var(--blue-90);
+  }
+}
+
+/* Animated underline */
+a:not(.a-button)::after {
+  background-color: currentColor;
+  bottom: 1px;
+  content: "";
+  height: .1rem;
+  left: 0;
+  max-width: 100%;
+  position: absolute;
+  transition: .15s var(--ease-in-out-quad);
+  transition-property: all;
+  width: 66%;
+  z-index: -1;
+}
+
+a:not(.a-button):focus::after,
+a:not(.a-button):hover::after {
+  background-color: var(--blue-10);
+  height: 100%;
+  width: 100%;
+}
+
+@media (prefers-color-scheme: dark) {
+  a:not(.a-button):focus::after,
+  a:not(.a-button):hover::after {
+    background-color: var(--yellow);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  a:focus::after,
+  a:hover::after {
+    background-color: var(--yellow);
+  }
+}
+
+.u-disable-link {
+  pointer-events: none;
+}
+
+.u-disable-link::after {
+  display: none;
+}

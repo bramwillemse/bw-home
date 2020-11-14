@@ -1,0 +1,14 @@
+
+/*
+CLICKABLE
+---------
+Enable or disable clickability
+*/
+
+.u-is-not-clickable {
+  pointer-events: none;
+}
+
+.u-is-clickable {
+  pointer-events: auto !important;
+}
