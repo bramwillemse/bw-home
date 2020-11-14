@@ -1,0 +1,29 @@
+.e-content-block {
+  background-color: var(--white);
+  box-shadow: var(--shadow-panel);
+  display: block;
+  margin: 0 var(--spacing-xs) var(--spacing-m);
+  max-width: 56ch;
+  padding: var(--spacing-m) var(--s);
+  position: relative;
+  z-index: var(--z-content);
+}
+
+@media (--br-m) {
+  .e-content-block {
+    margin-bottom: var(--spacing-m);
+    padding: var(--xl);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .e-content-block {
+    background-color: var(--blue-90);
+  }
+}
+
+.e-content-block--transparent {
+  background-color: transparent;
+  box-shadow: none;
+  padding: 0;
+}
