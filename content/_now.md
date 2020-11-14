@@ -30,7 +30,7 @@ parent:
 - **I run**. I had a small injury, so I've started 2020 very calmly. I plan to run my first ultra marathon (later) this year or in 2021, after failing this goal last year. But since most of my energy goes into my home renovation I can't properly build up a serious training schedule I need to run marathons again. You can follow my progress on [Strava](https://strava.com/athletes/bramwillemse "Follow my training progress on Strava").
 
 
-*This page was last updated on <time datetime="2020-11-14T17:24:20+02:00">October 6th, 2020</time> in Amsterdam, the Netherlands*.
+*This page was last updated on <time datetime="2020-11-14T17:24:20+02:00">November 14th, 2020</time> in Amsterdam, the Netherlands*.
 
 ## Want to connect?
 
