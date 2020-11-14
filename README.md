@@ -4,17 +4,20 @@
 ## Requirements
 Globally installed (it's a lot):
 1. Git LFS - Install and configure large media modules [as documented by Netlify](https://docs.netlify.com/large-media/requirements-and-limitations/#requirements)
+2. Node.js
 2. Hugo
-3. Browserify
-4. Watchify
 5. Netlify CLI
 
 ## Getting started
 1. Run `yarn install` or `npm install`
 3. Run `netlify link`
 
-## Run the development workflow
-1. Run `yarn server` (runs Hugo server + compilesCSS)
-2. Run `yarn watch` in another window (compiles JS)
+## Local development
+1. Run `yarn dev:webpack` - runs Webpack server and compiles assets
+2. Run `yarn dev:hugo` - runs Hugo watch (watches and generates static pages on change)
+
+## Production build
+1. Run `yarn build:webpack`
+2. Run `yarn build:hugo`
 
 

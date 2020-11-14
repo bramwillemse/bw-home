@@ -1,7 +1,7 @@
 ---
 title: Now
 introduction: Curious? On this page you can keep an eye on what is keeping me busy right now.
-date: 2020-10-30 17:06:30+02:00
+date: 2020-11-14T17:24:20+02:00
 description: What is Bram Willemse doing now?
 url: /now/
 featured_image:
@@ -16,7 +16,7 @@ parent:
 
 - On July, 1st **I started at FedEx** as a front-end developer. I will be helping them out within my holy triangle of front-end development, design thinking and teamwork.
 - **I have moved back into my home**. Since January 23rd I have been the proud owner of the apartment I had been renting the previous 3,5 years. Now, after a seven  month renovation, I have moved back in. There is still enough to do, but for now I will enjoy the spoils of a new home and not having to share a living space with anyone.
-- **I am still reading** ['1q84'](https://www.goodreads.com/book/show/10357575-1q84 "Check out the book '1q84' on GoodReads") by Haruki Murakami. It is actually three books and I am starting to get bored with it...
+- **I am reading** the appraised Dutch novel ['De Avond is Ongemak'](https://www.goodreads.com/book/show/38344150-de-avond-is-ongemak "Check out the book 'De Avond is Ongemak' on GoodReads") by Marieke Lucas Rijneveld and ['Deep Work'](https://www.goodreads.com/book/show/25744928-deep-work "Check out the book 'Deep Work' on GoodReads") by Cal Newport. The latter actually as part as one of my yearly goals to try and get some more focus in my work.
 
 
 ## Personal development
@@ -29,7 +29,8 @@ parent:
 - **I start my days** with a short yoga exercise and meditation. The yoga exercise consists of the [5 Tibetans](https://en.wikipedia.org/wiki/Five_Tibetan_Rites "Read more about the Five Tibetan Rites on Wikipedia"), plus a few extra exercises from my physiotherapist. Following that I will do the daily meditation by Sam Harris in [the Waking Up app](https://share.wakingup.com/2abce0e26219 "Check out the Waking Up app"). Through this link you can get 1 month of free access to the app, no strings attached.
 - **I run**. I had a small injury, so I've started 2020 very calmly. I plan to run my first ultra marathon (later) this year or in 2021, after failing this goal last year. But since most of my energy goes into my home renovation I can't properly build up a serious training schedule I need to run marathons again. You can follow my progress on [Strava](https://strava.com/athletes/bramwillemse "Follow my training progress on Strava").
 
-*This page was last updated on <time datetime="2020-10-30 17:16:58">October 6th, 2020</time> in Amsterdam, the Netherlands*.
+
+*This page was last updated on <time datetime="2020-11-14T17:24:20+02:00">October 6th, 2020</time> in Amsterdam, the Netherlands*.
 
 ## Want to connect?
 

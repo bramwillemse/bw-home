@@ -9,6 +9,7 @@ node_modules
 public/*
 resources/*
 tmp/*
+assets/*
 bundle.js
 
 #yarn

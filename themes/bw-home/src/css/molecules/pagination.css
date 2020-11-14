@@ -4,7 +4,7 @@
 }
 
 .m-pagination__link {
-  padding: 0 var(--xs)
+  padding: 0 var(--xs);
 }
 
 .m-pagination__link::after {
