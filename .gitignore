@@ -1,5 +1,7 @@
 *.log
+*.css
 *.min.css
+*.bundle.js
 *.min.js
 .DS_Store
 .netlify
