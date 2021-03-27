@@ -1,8 +1,13 @@
+/**
+ * ENTITY: CONTENT BLOCK
+ * Blocks of content.
+ */
+
 .e-content-block {
   background-color: var(--white);
   box-shadow: var(--shadow-panel);
   display: block;
-  margin: 0 var(--spacing-xs) var(--spacing-m);
+  margin: 0 auto var(--spacing-m);
   max-width: 56ch;
   padding: var(--spacing-m) var(--s);
   position: relative;
