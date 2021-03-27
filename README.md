@@ -19,5 +19,3 @@ Globally installed (it's a lot):
 ## Production build
 1. Run `yarn build:webpack`
 2. Run `yarn build:hugo`
-
-
