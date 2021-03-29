@@ -42,21 +42,21 @@ Doing all that I touched on all the main themes I defined for the coming time:
 
 And no these are not my yearly goals. They are themes for the longer term, for as long as I need them to be themes to work on. Inspired by my trusty [Mastermind](https://en.wikipedia.org/wiki/Mastermind_group "Mastermind groups explained on Wikipedia") friends, along those themes I will review and set my goals every new quarter.
 
-The last few years I have experimented with setting more and less ambitious goals. Yearly, quarterly, monthly, weekly and daily. And the more I set, the more it felt like I was failing regularly. Even while I wasn't failing but still improving day by almost every day.
+The last few years I have experimented with setting more and less ambitious goals. Yearly, quarterly, monthly, weekly and daily. And the more I set, the more it felt like I was failing regularly. Even though I was not failing but still improving day by almost every day.
 
-This had to change and this is why I will be focussing more on themes and habits and more importantly: I will not attach deadlines to them. I will get there when I get there. A year is long and a lot of things can change and that's why I learned it might be smarter too keep it smaller. So this year I will be reviewing and setting my goals quarterly.
+This had to change and this is why I will stop focusing on themes and habits and more importantly: I will not attach deadlines to them. I will get there when I get there. A year is long and a lot of things can change and that's why I learned it might be smarter too keep it smaller. So this year I will be reviewing and setting my goals / todo's quarterly.
 
 ## Spring is coming
-So now little lambs are dancing in the meadows, cute kittens are being born and the trees make me sneeze. This spring will be all about:
+So now little lambs are dancing in the meadows, cute kittens are being born and the trees make me sneeze. What will my spring be all about?
 
-1. Finishing by bathroom and preparing the house for the arrival of the cutest kitten ever.
+1. Finishing my bathroom and preparing the house for the arrival of the cutest kitten ever. 😸
 2. Actively learning about investing money.
 3. Continuing to build on my strength training habits (and getting a regular massage after :).
 
 And of course I will keep calling and connecting with my friends & family. Planning the weekends and just randomly calling someone I love during my daily lunch walk have proven key to improving on that.
 
 ## But what about the rest of your year, Bram?
-I don't care! We'll see next quarter. I won't write a public review like this every quarter, I think. But at least it gives you an insight in how I've changed my approach towards my goals last year.
+I don't care! We will see next quarter. I will not write a public review like this every quarter, I think. But at least it gives you an insight in how I've changed my approach towards my goals last year.
 
 I still intend to do an extensive yearly "life review" at the end of every year, like I started [in the winter of '19/'20](/2020-goals/). But my themes will be more fluid and my goals will be shorter and therefore easier to reach.
 
