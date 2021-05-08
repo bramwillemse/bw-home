@@ -5,7 +5,7 @@ date: 2021-05-08T10:28:57+02:00
 description: What is Bram Willemse doing now?
 url: /now/
 featured_image:
-  src: images/now/bram_willemse-amsterdam-westerpark-goos.jpeg
+  src: images/now/bram_willemse-amsterdam-westerpark-goose.jpeg
 parent:
   title: Bram
   url: "/"
