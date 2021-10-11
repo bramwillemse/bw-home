@@ -28,7 +28,7 @@ parent:
 - **I try to start most of my days** with a short yoga exercise and meditation. The yoga exercise often consists of the [5 Tibetans](https://en.wikipedia.org/wiki/Five_Tibetan_Rites "Read more about the Five Tibetan Rites on Wikipedia") or sun salutations, plus a few extra exercises from my physiotherapist. Following that I will do a daily meditation by Sam Harris in [the Waking Up app](https://share.wakingup.com/2abce0e26219 "Check out the Waking Up app"). Through this link you can get 1 month of free access to the app, no strings attached.
 - **I run**. After spending most my energy in keeping calm through a crisis and a home renovation, I steadily crawling out of my running slump.  No ambitious plans, but a healthy focus on getting fitter and fitter and running longer and longer distances. In November I plan to run a 30km trail on Schiermonnikoog, my first race in 2 years! Hopefully at some point all this will lead up to running that first ultra marathon I've been aiming for the last few years! You can follow my progress on [Strava](https://strava.com/athletes/bramwillemse "Follow my training progress on Strava").
 
-*This page was last updated on <time datetime="2021-10-11T14:15:22+02:00">May 8th, 2021</time> in Amsterdam, the Netherlands*.
+*This page was last updated on <time datetime="2021-10-11T14:15:22+02:00">October 11th, 2021</time> in Amsterdam, the Netherlands*.
 
 ## Want to connect?
 
