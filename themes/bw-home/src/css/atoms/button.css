@@ -5,8 +5,8 @@ BUTTON
 
 .a-button {
   align-items: center;
-  background-color: var(--blue);
-  border: .15rem solid var(--blue);
+  background-color: var(--black);
+  border: .15rem solid var(--black);
   border-radius: 3.3rem;
   color: var(--white);
   display: inline-flex;
@@ -25,28 +25,27 @@ BUTTON
 }
 
 .a-button:hover {
-  background-color: var(--blue-50);
-  border-color: var(--blue);
-  border-left-color: var(--blue-30);
-  border-top-color: var(--blue-30);
+  background-color: var(--black);
+  border-color: var(--grey-90);
+  border-left-color: var(--grey-50);
+  border-top-color: var(--grey-50);
   box-shadow: var(--shadow-default);
   color: var(--white);
   transform: scale(1.03);
 }
 
 /* Accessible focus */
-.a-button:focus {
-  background-color: var(--blue);
+.a-button:focus-visible {
   border-color: var(--blue-30);
   box-shadow: none;
   color: var(--white);
 }
 
 .a-button:active {
-  background-color: var(--blue);
-  border-color: var(--blue-50);
-  border-left-color: var(--blue-80);
-  border-top-color: var(--blue-80);
+  background-color: var(--black);
+  border-color: var(--grey-50);
+  border-left-color: var(--grey-80);
+  border-top-color: var(--grey-80);
   box-shadow: none;
   transform: scale(1);
 }
@@ -71,47 +70,28 @@ BUTTON
 
 @media (prefers-color-scheme: dark) {
   .a-button {
-    background-color: var(--blue-50);
-    border-color: var(--blue-50);
+    background-color: var(--white);
+    border-color: var(--black);
+    color: var(--black);
   }
 
   .a-button:hover,
   .a-button:focus {
     background-color: var(--yellow);
-    border-color: var(--yellow);
-    color: var(--blue-90);
+    border-color: var(--black);
+    color: var(--black);
   }
-}
 
-/* Secondary button */
-.a-button--secondary {
-  background-color: var(--grey-70);
-  border-color: var(--grey-70);
-}
+  .a-button .a-icon line {
+    stroke: var(--black) !important;
+  }
 
-.a-button--secondary:hover {
-  background-color: var(--grey-50);
-  border-color: var(--grey-60);
-  border-left-color: var(--grey-30);
-  border-top-color: var(--grey-30);
-}
-
-.a-button--secondary:focus-visible {
-  background-color: var(--grey-70);
-  border-color: var(--blue-30) !important;
-  color: var(--white);
-}
-
-.a-button--secondary:active {
-  background-color: var(--grey-70);
-  border-color: var(--grey-60);
-  border-left-color: var(--grey-80);
-  border-top-color: var(--grey-80);
 }
 
 @media (prefers-color-scheme: dark) {
   .a-button--secondary,
   .a-button--secondary:hover {
-    color: var(--white);
+    background-color: var(--white);
+    border-color: var(--black);
   }
 }
