@@ -520,7 +520,6 @@ BUTTON
 .a-button:focus-visible {
   border-color: var(--blue-30);
   box-shadow: none;
-  color: var(--white);
 }
 .a-button:active {
   background-color: var(--black);
@@ -553,6 +552,7 @@ BUTTON
 
   .a-button:hover,
   .a-button:focus {
+    background-color: var(--white);
     color: var(--black);
   }
 
