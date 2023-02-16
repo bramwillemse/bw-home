@@ -1,0 +1,26 @@
+/* LAYERS */
+:root {
+  /* Global layers */
+  --z-modal: 1337;
+  --z-overlay: 1234;
+  --z-header: 888;
+  --z-dropdown: 666;
+  --z-content: 321;
+  --z-content-below: 222;
+  --z-footer: 123;
+  --z-visual-banner: 1;
+
+  /* Relative layers */
+  --z-rel-10th: 100;
+  --z-rel-9th: 90;
+  --z-rel-8th: 80;
+  --z-rel-7th: 70;
+  --z-rel-6th: 60;
+  --z-rel-5th: 50;
+  --z-rel-4th: 40;
+  --z-rel-3rd: 30;
+  --z-rel-2nd: 20;
+  --z-rel-1st: 10;
+  --z-rel-ground: 0;
+  --z-rel-basement: -1;
+}

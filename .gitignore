@@ -1,5 +1,4 @@
 *.log
-*.css
 *.min.css
 *.bundle.js
 *.min.js
@@ -11,7 +10,8 @@ node_modules
 public/*
 resources/*
 tmp/*
-assets/*
+assets/*.js
+assets/*.css
 bundle.js
 
 #yarn
