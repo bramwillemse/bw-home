@@ -10,11 +10,11 @@ module.exports = {
     writeToDisk: true
   },
   entry: [
-    path.resolve('./themes/bw-home/src', 'js', 'main.js'),
-    path.resolve('./themes/bw-home/src', 'css', 'main.css'),
+    path.resolve('./themes/bw-monochrome/src', 'js', 'main.js'),
+    path.resolve('./themes/bw-monochrome/src', 'css', 'main.css'),
   ],
   output: {
-    path: path.resolve('./themes/bw-home/assets'),
+    path: path.resolve('./themes/bw-monochrome/assets'),
     filename: 'bundle.js',
   },
   module: {

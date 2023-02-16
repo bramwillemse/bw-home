@@ -6,7 +6,7 @@ module.exports = {
       grid: true
     }),
     require('postcss-import')({
-      path: 'themes/bw-home/assets/css'
+      path: 'themes/bw-monochrome/assets/css'
     }),
     require('postcss-reporter')({
       clearMessages: true,
