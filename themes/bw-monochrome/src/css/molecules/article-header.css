@@ -4,7 +4,7 @@ ARTICLE HEADER
 */
 
 .m-article-header {
-  border-top: solid 1rem var(--blue);
+  border-top: solid 1rem var(--black);
   padding-top: 1rem;
   position: relative;
   z-index: var(--z-rel-1st);
@@ -12,7 +12,8 @@ ARTICLE HEADER
 
 @media (prefers-color-scheme: dark) {
   .m-article-header {
-    background-color: var(--blue-90);
+    background-color: var(--grey-90);
+    border-top-color: var(--grey-80);
   }
 }
 

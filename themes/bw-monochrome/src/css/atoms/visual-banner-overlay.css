@@ -24,6 +24,6 @@ Background overlay to scroll over the banner's full-width image.
 
 @media (prefers-color-scheme: dark) {
   .a-visual-banner-overlay {
-    background-color: var(--blue-80);
+    background-color: var(--black);
   }
 }

@@ -21,7 +21,7 @@ The site's main footer module
 
 @media (prefers-color-scheme: dark) {
   .o-site-footer {
-    background-color: var(--blue-80);
+    background-color: var(--black);
   }
 }
 

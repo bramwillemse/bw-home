@@ -23,7 +23,7 @@
 
 @media (prefers-color-scheme: dark) {
   .e-content-block {
-    background-color: var(--blue-90);
+    background-color: var(--grey-90);
   }
 }
 

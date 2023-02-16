@@ -26,6 +26,7 @@
   --grey-20: #CCC;
   --grey-10: #F9F9F9;
   --white: #FFF;
+  --white-50: rgba(250, 250, 250, .2);
 
   /* Signal colors */
 }
@@ -121,6 +122,12 @@
 :root {
   --shadow-default: 0 .333rem 1rem -.5rem var(--black);
   --shadow-panel: 0 .5rem 2rem -1rem var(--black-50);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --shadow-default: 0 .333rem 1rem -.5rem var(--white);
+    --shadow-panel: 0 .5rem 2rem -1rem var(--white-50);
+  }
 }
 /* ELEMENTS */
 /*
@@ -375,7 +382,7 @@ Shifted layout on bigger screens
 }
 @media (prefers-color-scheme: dark) {
   .e-content-block {
-    background-color: var(--blue-90);
+    background-color: var(--grey-90);
   }
 }
 .e-content-block--transparent {
@@ -731,7 +738,7 @@ Background overlay to scroll over the banner's full-width image.
 }
 @media (prefers-color-scheme: dark) {
   .a-visual-banner-overlay {
-    background-color: var(--blue-80);
+    background-color: var(--black);
   }
 }
 /* MOLECULES */
@@ -740,14 +747,15 @@ ARTICLE HEADER
 --------------
 */
 .m-article-header {
-  border-top: solid 1rem var(--blue);
+  border-top: solid 1rem var(--black);
   padding-top: 1rem;
   position: relative;
   z-index: var(--z-rel-1st);
 }
 @media (prefers-color-scheme: dark) {
   .m-article-header {
-    background-color: var(--blue-90);
+    background-color: var(--grey-90);
+    border-top-color: var(--grey-80);
   }
 }
 .m-article-header h1 {
@@ -888,8 +896,14 @@ A blog post or content page
 }
 .o-article--compact {
   align-items: flex-start;
-  border-left: solid .3rem var(--blue);
+  border-left: solid .3rem var(--black);
   margin-bottom: var(--xxl);
+}
+@media (prefers-color-scheme: dark) {
+  .o-article--compact {
+    background-color: var(--grey-90);
+    border-left-color: var(--grey-80);
+  }
 }
 .o-article--compact .a-button {
   margin-bottom: 0;
@@ -924,7 +938,7 @@ The site's main footer module
 }
 @media (prefers-color-scheme: dark) {
   .o-site-footer {
-    background-color: var(--blue-80);
+    background-color: var(--black);
   }
 }
 /* UNORDERED LISTS */
