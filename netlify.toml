@@ -2,6 +2,6 @@
 [build]
   command = "yarn build:webpack && yarn build:hugo"
 [build.environment]
-  NODE_VERSION = "19"
+  NODE_VERSION = "16"
   YARN_VERSION = "1.22.19"
   HUGO_VERSION = "0.105.0"
