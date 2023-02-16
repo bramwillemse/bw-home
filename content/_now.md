@@ -24,9 +24,9 @@ parent:
 
 ## Keeping calm &amp; fit
 
-- **I try to start most of my days** with a daily meditation by Sam Harris in [the Waking Up app](https://share.wakingup.com/2abce0e26219 "Check out the Waking Up app").
+- **I try to start most of my days** with a daily meditation by Sam Harris in [the Waking Up app](https://wakingup.com "Check out the Waking Up app").
 - Before that I will do some **short yoga exercise**. Which often consists of the [5 Tibetans](https://en.wikipedia.org/wiki/Five_Tibetan_Rites "Read more about the Five Tibetan Rites on Wikipedia") or sun salutations, plus a few extra core power and specific exercises prescribed by my physio.
-- I **started bouldering** this year and I love it. I try to do it twice a week. With or without friends. 
+- I **started bouldering** this year and I love it. I try to do it twice a week. With or without friends.
 - **I run**. After spending most my energy in keeping calm through a crisis and a home renovation, I steadily crawled out of my running slump since 2020.  No ambitious plans, but a healthy focus on getting fitter and fitter and running longer and longer distances. Last October I rean the Amsterdam marathon. It was not a lot of fun, so I plan to fully get back to trailrunning after I recovered from my first COVID in November '22.  You can follow my progress on [Strava](https://strava.com/athletes/bramwillemse "Follow my training progress on Strava").
 
 *This page was last updated on <time datetime="2022-12-02T11:24:10+02:00
