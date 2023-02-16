@@ -1,8 +1,0 @@
-/* BLOCKQUOTE */
-
-blockquote {
-  /* font-size: var(--m); */
-  font-style: italic;
-  /* display: inline; */
-  margin: 0 0 var(--regular) var(--regular);
-}
