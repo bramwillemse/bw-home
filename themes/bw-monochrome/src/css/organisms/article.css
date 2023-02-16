@@ -13,8 +13,15 @@ A blog post or content page
 
 .o-article--compact {
   align-items: flex-start;
-  border-left: solid .3rem var(--blue);
+  border-left: solid .3rem var(--black);
   margin-bottom: var(--xxl);
+}
+
+@media (prefers-color-scheme: dark) {
+  .o-article--compact {
+    background-color: var(--grey-90);
+    border-left-color: var(--grey-80);
+  }
 }
 
 .o-article--compact .a-button {

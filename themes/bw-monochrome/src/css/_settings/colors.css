@@ -23,6 +23,7 @@
   --grey-20: #CCC;
   --grey-10: #F9F9F9;
   --white: #FFF;
+  --white-50: rgba(250, 250, 250, .2);
 
   /* Signal colors */
 }

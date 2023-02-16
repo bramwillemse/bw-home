@@ -1,6 +1,6 @@
 
 .m-skip-links {
-  background-color: var(--blue-90);
+  background-color: var(--grey-90);
   box-shadow: var(--shadow-default);
   color: var(--white);
   display: flex;
@@ -37,4 +37,14 @@
 
 .m-skip-links__link {
   color: var(--white);
+}
+
+.m-skip-links__link:focus,
+.m-skip-links__link:hover {
+  color: var(--black);
+}
+
+.m-skip-links__link:not(.a-button):focus::after,
+.m-skip-links__link:not(.a-button):hover::after {
+  background-color: var(--white);
 }

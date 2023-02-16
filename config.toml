@@ -1,7 +1,7 @@
 baseURL = "/"
 DefaultContentLanguage = "en"
 title = "Bram Willemse"
-theme = "bw-home"
+theme = "bw-monochrome"
 paginate = 8
 paginatePath = "page"
 
