@@ -626,11 +626,12 @@ LOGO
 a:focus .a-logo__image,
 .a-logo:hover .a-logo__image,
 .a-logo:focus .a-logo__image {
-  border-color: var(--blue);
-  border-left-color: var(--blue-50);
-  border-top-color: var(--blue-50);
+  border-color: var(--black);
   box-shadow: var(--shadow-default);
   transform: scale(1.03);
+}
+.a-logo:focus-visible .a-logo__image {
+  border-color: var(--blue-30);
 }
 .a-logo:active .a-logo__image {
   box-shadow: none;
@@ -640,11 +641,11 @@ a:focus .a-logo__image,
   a:focus .a-logo__image,
   .a-logo:hover .a-logo__image,
   .a-logo:focus .a-logo__image {
-    border-color: var(--yellow);
+    border-color: var(--white);
   }
 }
 .a-logo__label {
-  color: var(--blue);
+  color: var(--black);
   font-size: var(--regular);
   font-weight: 600;
   left: 100%;
@@ -671,7 +672,7 @@ a:focus .a-logo__image,
 @media (prefers-color-scheme: dark) {
   .a-logo:hover .a-logo__label,
   .a-logo:focus .a-logo__label {
-    color: var(--yellow);
+    color: var(--white);
   }
 }
 /*
