@@ -77,15 +77,12 @@ BUTTON
 
   .a-button:hover,
   .a-button:focus {
-    background-color: var(--yellow);
-    border-color: var(--black);
     color: var(--black);
   }
 
   .a-button .a-icon line {
     stroke: var(--black) !important;
   }
-
 }
 
 @media (prefers-color-scheme: dark) {

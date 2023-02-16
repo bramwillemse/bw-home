@@ -553,15 +553,12 @@ BUTTON
 
   .a-button:hover,
   .a-button:focus {
-    background-color: var(--yellow);
-    border-color: var(--black);
     color: var(--black);
   }
 
   .a-button .a-icon line {
     stroke: var(--black) !important;
   }
-
 }
 @media (prefers-color-scheme: dark) {
   .a-button--secondary,
@@ -630,8 +627,8 @@ a:focus .a-logo__image,
   box-shadow: var(--shadow-default);
   transform: scale(1.03);
 }
-.a-logo:focus-visible .a-logo__image {
-  border-color: var(--blue-30);
+a:focus-visible .a-logo__image {
+  border-color: var(--blue-50) !important;
 }
 .a-logo:active .a-logo__image {
   box-shadow: none;

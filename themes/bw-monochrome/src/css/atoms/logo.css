@@ -50,8 +50,8 @@ a:focus .a-logo__image,
   transform: scale(1.03);
 }
 
-.a-logo:focus-visible .a-logo__image {
-  border-color: var(--blue-30);
+a:focus-visible .a-logo__image {
+  border-color: var(--blue-50) !important;
 }
 
 .a-logo:active .a-logo__image {
