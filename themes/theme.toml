@@ -4,5 +4,5 @@ homepage = "https://bramwillemse.nl"
 tags = ["blog", "company"]
 
 [author]
-    name = "Bram Willemse"
-    homepage = "Bram Willemse"
+  name = "Bram Willemse"
+  homepage = "Bram Willemse"

@@ -1,11 +1,11 @@
 ---
 title: Now
-introduction: Curious? On this page you can keep an eye on what is keeping me busy right now.
+introduction: Curious what I am up to? On this page you can keep an eye on what is keeping me busy right now.
 date: 2023-02-17T11:33:10+02:00
 description: What is Bram Willemse doing now?
 url: /now/
 featured_image:
-  src: images/now/bram_willemse-devils_trail_run_schiermonnikoog_2021.jpeg
+  src: images/now/bram_willemse-now-2023-westerpark-cute_couple.jpeg
 parent:
   title: Bram
   url: "/"
