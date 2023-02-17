@@ -8,7 +8,7 @@
  */
 
 html {
-  background-color: var(--white);
+  background-color: var(--grey-10);
   color: var(--black);
   font-family: Overpass, sans-serif;
   font-weight: 300;

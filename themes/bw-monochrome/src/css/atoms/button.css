@@ -27,8 +27,6 @@ BUTTON
 .a-button:hover {
   background-color: var(--black);
   border-color: var(--grey-90);
-  border-left-color: var(--grey-50);
-  border-top-color: var(--grey-50);
   box-shadow: var(--shadow-default);
   color: var(--white);
   transform: scale(1.03);
@@ -43,8 +41,6 @@ BUTTON
 .a-button:active {
   background-color: var(--black);
   border-color: var(--grey-50);
-  border-left-color: var(--grey-80);
-  border-top-color: var(--grey-80);
   box-shadow: none;
   transform: scale(1);
 }
@@ -70,7 +66,7 @@ BUTTON
 @media (prefers-color-scheme: dark) {
   .a-button {
     background-color: var(--white);
-    border-color: var(--black);
+    border-color: var(--grey-90);
     color: var(--black);
   }
 
@@ -81,7 +77,7 @@ BUTTON
   }
 
   .a-button .a-icon line {
-    stroke: var(--black) !important;
+    stroke: var(--grey-90) !important;
   }
 }
 

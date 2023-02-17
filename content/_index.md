@@ -11,16 +11,17 @@ type: page
 </header>
 
 <article class="e-grid-home__card e-grid-home__card-one">
-  <h1>Developer</h1>
-  <p>I am a senior front-end developer. I love building good looking, accessible and scalable web based solutions.</p>
+  <h1>Digital product owner</h1>
+  <p>I am a digital product owner driven to help build good looking, accessible and scalable web based solutions that work well for your business, your clients and users.</p>
 </article>
 
 <article class="e-grid-home__card e-grid-home__card-two">
-  <h1>Designer</h1>
-  <p>I am an experienced designer, best at interaction design, ideation and prototyping. I love to inspire &amp; educate you and your team in the opportunities of design.</p>
+  <h1>Front-end developer &amp; designer</h1>
+  <p>I am an experienced developer & designer, best at connecting your business goals with your client's or users' wishes and creating user friendly interfaces. I will help your team to focus on the ideas and processes delivering the best results for everyone.
+</p>
 </article>
 
 <article class="e-grid-home__card e-grid-home__card-three">
   <h1>Team player</h1>
-  <p>I love working in teams. As a front-end lead, design lead and scrum master I helped them form, grow and succeed and I can help you improve or set up your team.</p>
+  <p>I am a team player. I love working with people who are better than me at anything. As an interim Product Owner, project lead, front-end lead, design lead and scrum master I have helped many teams form, grow and succeed.</p>
 </article>
