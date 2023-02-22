@@ -1,7 +1,7 @@
 ---
 # Homepage
-description: Bram Willemse is a freelance, senior front-end developer,  designer and team player in Amsterdam, the Netherlands.
-title: Bram Willemse - freelance developer / designer / team player
+description: Bram Willemse is a digital product owner (freelance) in Amsterdam, the Netherlands.
+title: Bram Willemse - Digital product owner (freelance)
 type: page
 ---
 
