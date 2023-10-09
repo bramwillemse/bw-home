@@ -5,7 +5,7 @@ date: 2023-10-09T11:25:58+02:00
 description: What is Bram Willemse doing now?
 url: /now/
 featured_image:
-  src: images/now/bram_willemse-now-france-burgundy-morvan-2023.jpeg
+  src: images/now/bram_willemse-model_cars-202310.jpeg
 parent:
   title: Bram
   url: "/"
@@ -13,7 +13,8 @@ parent:
 ---
 ## Keeping busy
 
-- I am now looking for a new challenge as [a freshly certified product owner](https://www.credly.com/badges/08421a52-3b82-472e-96c7-ef686d323866 "Inspect Bram's PSPO-I certification on Credly").
+- After stopping at FedEx after 3 years, I am now looking for a new freelance job as [a freshly certified](https://www.credly.com/badges/08421a52-3b82-472e-96c7-ef686d323866 "Inspect Bram's PSPO-I certification on Credly") product owner.
+- **I have been running [Home Assistant](https://www.home-assistant.io/ "Read about Home Assistant")** on a Raspberry Pi for a while now. It's a great open source operating system for my smart home. It makes paid, cloud-based services like IFTTT a thing of my past. Great fun!
 - **I am currently reading** [The Professional Product Owner](https://www.goodreads.com/book/show/35133269-the-professional-product-owner "Read about the Professional Product Owner by Don McGreal on GoodReads") by Don McGreal, [The Culture Map](https://www.goodreads.com/book/show/22085568-the-culture-map "Read about The Culture Map by Erin Meyer on GoodReads") by Erin Meyer and [The City We Became](https://www.goodreads.com/book/show/50308712-the-city-we-became "Read about The City We Became by N.K. Jemisin on GoodReads") by N.K. Jemisin.
 
 ## Personal development
