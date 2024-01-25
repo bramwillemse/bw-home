@@ -129,6 +129,13 @@
     --shadow-panel: 0 .5rem 2rem -1rem var(--white-50);
   }
 }
+/**
+ TEXT
+ Text styles settings
+ */
+:root {
+  --font-weight-bold: 600;
+}
 /* ELEMENTS */
 /*
 ANCHOR
@@ -347,7 +354,7 @@ p:last-child {
 }
 /* STRONG */
 strong {
-  font-weight: 600;
+  font-weight: var(--font-weight-bold);
 }
 /* ENTITIES */
 /*
@@ -416,7 +423,7 @@ Grid for the homepage, with skill cards and footer
 @media (min-width: 70em) {
   .e-grid-home {
     grid-gap: var(--xl);
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     grid-template-rows: auto auto;
   }
 }
@@ -438,13 +445,14 @@ Grid for the homepage, with skill cards and footer
 }
 @media(min-width: 70em) {
   .e-grid-home__header {
-    grid-column: span 2;
+    grid-column: span 4;
     grid-row: 1 / 2;
   }
 }
 @media (min-width: 90em) {
   .e-grid-home__header {
-    grid-column: 2 / 3;
+    grid-column: 2 / span 4;
+    grid-row: 1 / 2;
   }
 
   .e-grid-home__card-one {
@@ -470,7 +478,7 @@ Grid for the homepage, with skill cards and footer
 }
 @media (min-width: 70em) {
   .e-grid-home__card {
-    grid-column: span 1;
+    grid-column: span 2;
     grid-row: 2 / 4;
   }
 }
@@ -1116,4 +1124,7 @@ Enable or disable clickability
 }
 .u-text-italic {
   font-style: italic !important;
+}
+.u-text-bold {
+  font-weight: var(--font-weight-bold);
 }

@@ -29,7 +29,7 @@ Grid for the homepage, with skill cards and footer
 @media (--br-l) {
   .e-grid-home {
     grid-gap: var(--xl);
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     grid-template-rows: auto auto;
   }
 }
@@ -55,14 +55,15 @@ Grid for the homepage, with skill cards and footer
 
 @media(--br-l) {
   .e-grid-home__header {
-    grid-column: span 2;
+    grid-column: span 4;
     grid-row: 1 / 2;
   }
 }
 
 @media (--br-xl) {
   .e-grid-home__header {
-    grid-column: 2 / 3;
+    grid-column: 2 / span 4;
+    grid-row: 1 / 2;
   }
 
   .e-grid-home__card-one {
@@ -91,7 +92,7 @@ Grid for the homepage, with skill cards and footer
 
 @media (--br-l) {
   .e-grid-home__card {
-    grid-column: span 1;
+    grid-column: span 2;
     grid-row: 2 / 4;
   }
 }

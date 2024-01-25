@@ -1,27 +1,27 @@
 ---
 # Homepage
-description: Bram Willemse is a technical product owner (freelance) in Amsterdam, the Netherlands.
-title: Bram Willemse - Technical product owner (freelance)
 type: page
+title: Bram Willemse - Product owner (ad interim)
+description: Bram Willemse is a technical product owner (freelance) in Amsterdam, the Netherlands.
 ---
 
 <header class="e-grid-home__header">
   <h1>Hi, my name is Bram.</h1>
-  <p>I have an analytical mind. I naturally connect dots and people. I am an ambassador to your users. Eager to learn and eager to lead.</p>
-</header>
+  <p class="u-text-bold">My work is rooted in a strong analytical mindset and empathy, adept at connecting dots and people to forge cohesive teams and innovative solutions. I am an advocate for engineering excellence and team happiness, bringing a wealth of experience from roles at KVK, Waternet, Dept Agency and FedEx.</p>
+
+  <p>Keeping the following 3 principles at heart, as a product owner I am eager to guide teams towards innovative practices that not only enhance productivity and business value but also contribute to a positive and dynamic work environment.</p></header>
 
 <article class="e-grid-home__card e-grid-home__card-one">
-  <h1>Technical product owner</h1>
-  <p>I am a <a href="https://www.credly.com/badges/08421a52-3b82-472e-96c7-ef686d323866" title="Inspect Bram's PSPO-I certificate">certified product owner</a> driven to help my teams build good looking, accessible and scalable digital products that work well for your business, your clients and users.</p>
+  <h1>Empathetic grassroots teamwork</h1>
+  <p>Let's start with fostering a culture of open communication, inclusivity and mutual respect. Through mentorship, regular feedback, and fostering a culture of continuous learning, we commit to empower our colleagues.</p>
 </article>
 
 <article class="e-grid-home__card e-grid-home__card-two">
-  <h1>Development &amp; design</h1>
-  <p>I have a background in digital design &amp; development. I am best at connecting your business goals with your client's or users' wishes. I help my teams to focus on the ideas and processes delivering the best value for everyone.
-</p>
+  <h1>Data-driven & design-led</h1>
+  <p>In a world rife with assumptions let’s champion data-driven insights & design-led innovation, creating technically sound and user-centric digital solutions. Balancing analytical rigor with creative empathy, solutions meet objectives and deliver exceptional UX.</p>
 </article>
 
 <article class="e-grid-home__card e-grid-home__card-three">
-  <h1>Team player</h1>
-  <p>I am a team player. I love working with people who are better than me at anything. As a product owner, project lead, front-end lead, design lead and scrum master I have helped many teams form, grow and succeed.</p>
+  <h1>Continuous improvement</h1>
+  <p>Staying in tune with emerging trends and continually refining our methods, we stay ahead in an ever-evolving digital landscape. To keep pace, let’s embrace new technologies, methods and ideas. This way our products and strategies remain relevant, effective and forward-thinking.</p>
 </article>
