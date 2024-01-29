@@ -32,7 +32,7 @@ parent:
 ## Keeping calm &amp; fit
 
 - I **started bouldering** in 2021 and I love it. I try to do it twice a week and I've been climbing up until 6A levels.
-- **I run**. After spending most my energy in keeping calm through a crisis and a home renovation, I steadily crawled out of my running slump since 2020.  No ambitious plans, but a healthy focus on getting fitter and fitter and running longer and longer distances. I I rean the Amsterdam marathon. It was not a lot of fun, so I plan to fully get back to trailrunning after slowly recovering from my first COVID in November '22.  You can follow my progress on [Strava](https://strava.com/athletes/bramwillemse "Follow my training progress on Strava").
+- **I run**. After spending most my energy in keeping calm through a crisis and a home renovation, I steadily crawled out of my running slump since 2020.  No ambitious plans, but a healthy focus on getting fitter and fitter and running longer and longer distances. After some injuries and COVID (again) end of 2023, I aim to get in marathon form again and to run the Utrechtse Heuvelrug Trail (UHT) at least once. You can follow my progress on [Strava](https://strava.com/athletes/bramwillemse "Follow my training progress on Strava").
 - **I run**. After recovering from my first COVID-19 early '23, I tried to get to a long distance trailrun in October, but stress and migraines prevented me from partaking. I'll take it easy for a bit and focus on something fun next year again.
 
 *This page was last updated on <time datetime="2024-01-29T17:08:29+02:00
