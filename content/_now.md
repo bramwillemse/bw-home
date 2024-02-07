@@ -1,7 +1,7 @@
 ---
 title: Now
 introduction: Curious what I am up to? On this page you can keep an eye on what is keeping me busy right now.
-date: 2024-01-29T17:08:29+02:00
+date: 2024-02-07T08:30:59+02:00
 description: What is Bram Willemse doing now?
 url: /now/
 featured_image:
@@ -27,7 +27,7 @@ parent:
 ## Personal development
 
 - On a bi-weekly basis **I am meeting up with my Mastermind group** with 2 befriended colleagues. We help keep ourselves and each other accountable for our personal development goals and discuss themes we run into while doing so.
-- **I am currently reading** [The Mars Room](https://www.goodreads.com/book/show/36373648-the-mars-room "Read about The Mars Room by Rachel Kushner on GoodReads") by Rachel Kushner, [The Culture Map](https://www.goodreads.com/book/show/22085568-the-culture-map "Read about The Culture Map by Erin Meyer on GoodReads") by Erin Meyer, [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep "Read about Why We Sleep by Matthew Walker on GoodReads") by Matthew Walker, [The Professional Product Owner](https://www.goodreads.com/book/show/35133269-the-professional-product-owner "Read about the Professional Product Owner by Don McGreal on GoodReads") by Don McGreal.
+- **I am currently reading** [Pillars of the Earth](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth "Read about Pillars of the Earth by Ken Follet on GoodReads") by Ken Follet, [The Culture Map](https://www.goodreads.com/book/show/22085568-the-culture-map "Read about The Culture Map by Erin Meyer on GoodReads") by Erin Meyer, [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep "Read about Why We Sleep by Matthew Walker on GoodReads") by Matthew Walker, [The Professional Product Owner](https://www.goodreads.com/book/show/35133269-the-professional-product-owner "Read about the Professional Product Owner by Don McGreal on GoodReads") by Don McGreal.
 
 ## Keeping calm &amp; fit
 
@@ -35,8 +35,8 @@ parent:
 - **I run**. After spending most my energy in keeping calm through a crisis and a home renovation, I steadily crawled out of my running slump since 2020.  No ambitious plans, but a healthy focus on getting fitter and fitter and running longer and longer distances. After some injuries and COVID (again) end of 2023, I aim to get in marathon form again and to run the Utrechtse Heuvelrug Trail (UHT) at least once. You can follow my progress on [Strava](https://strava.com/athletes/bramwillemse "Follow my training progress on Strava").
 - **I run**. After recovering from my first COVID-19 early '23, I tried to get to a long distance trailrun in October, but stress and migraines prevented me from partaking. I'll take it easy for a bit and focus on something fun next year again.
 
-*This page was last updated on <time datetime="2024-01-29T17:08:29+02:00
-">January 29th, 2024</time> in Amsterdam, the Netherlands*.
+*This page was last updated on <time datetime="2024-02-07T08:30:59+02:00
+">February 7th, 2024</time> in Amsterdam, the Netherlands*.
 
 ## Want to connect?
 
