@@ -279,22 +279,22 @@ html {
 }
 @media (min-width: 30em) {
   html {
-    font-size: 1.1em;
+    font-size: 1em;
   }
 }
 @media (min-width: 40em) {
   html {
-    font-size: 1.3em;
+    font-size: 1.1em;
   }
 }
 @media (min-width: 70em) {
   html {
-    font-size: 1.5em;
+    font-size: 1.3em;
   }
 }
 @media (min-width: 90em) {
   html {
-    font-size: 1.6em;
+    font-size: 1.5em;
   }
 }
 /* Generic styles */

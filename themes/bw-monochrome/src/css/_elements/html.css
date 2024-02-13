@@ -26,25 +26,25 @@ html {
 
 @media (--br-xs) {
   html {
-    font-size: 1.1em;
+    font-size: 1em;
   }
 }
 
 @media (--br-s) {
   html {
-    font-size: 1.3em;
+    font-size: 1.1em;
   }
 }
 
 @media (--br-l) {
   html {
-    font-size: 1.5em;
+    font-size: 1.3em;
   }
 }
 
 @media (--br-xl) {
   html {
-    font-size: 1.6em;
+    font-size: 1.5em;
   }
 }
 

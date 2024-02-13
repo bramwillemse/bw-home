@@ -2,14 +2,12 @@
 # Homepage
 type: page
 title: Bram Willemse - Product owner (ad interim)
-description: Bram Willemse is a freelance technical product owner in Amsterdam, the Netherlands.
+description: Bram Willemse is an interim scrum master or product owner with a background in digital product development, based in Amsterdam, the Netherlands.
 ---
 
 <header class="e-grid-home__header">
   <h1>Hi, my name is Bram.</h1>
-  <p>As a product owner, my work is rooted in a strong analytical mindset and empathy, adept at connecting dots and people to forge cohesive teams and innovative solutions. I am an advocate for engineering excellence and team happiness, bringing a wealth of experience from roles at KVK, Waternet, Dept Agency and FedEx.</p>
-
-  <p>Keeping the following 3 principles at heart, I am eager to guide teams towards innovative practices that not only enhance productivity and business value but also contribute to a positive and dynamic work environment.</p>
+  <p>As a product owner or scrum master, I combine analytical thinking and empathy to unite teams and ideas, advocating for engineering excellence and team well-being. I am committed to the following 3 principles, fostering innovation, productivity, and a positive work environment.</p>
 </header>
 
 <article class="e-grid-home__card e-grid-home__card-one">
