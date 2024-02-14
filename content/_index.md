@@ -1,7 +1,7 @@
 ---
 # Homepage
 type: page
-title: Bram Willemse - Product owner (ad interim)
+title: Bram Willemse - Interim product owner or scrum master
 description: Bram Willemse is an interim scrum master or product owner with a background in digital product development, based in Amsterdam, the Netherlands.
 ---
 
