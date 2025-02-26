@@ -1,0 +1,59 @@
+
+/**
+ * HTML + scaling base font size system
+ * The scaling font is used to scale all contents based on screen size, using rem
+ * as the standard sizing unit.
+ *
+ * Read more about this method:
+ */
+
+html {
+  background-color: var(--grey-10);
+  color: var(--black);
+  font-family: Overpass, sans-serif;
+  font-weight: 300;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: var(--black);
+    color: var(--white);
+  }
+}
+
+@media (--br-xs) {
+  html {
+    font-size: 1em;
+  }
+}
+
+@media (--br-s) {
+  html {
+    font-size: 1.1em;
+  }
+}
+
+@media (--br-l) {
+  html {
+    font-size: 1.3em;
+  }
+}
+
+@media (--br-xl) {
+  html {
+    font-size: 1.5em;
+  }
+}
+
+/* Generic styles */
+*::selection {
+  background-color: var(--yellow);
+  color: var(--black);
+}
+
+*,*::before,*::after {
+  box-sizing: border-box;
+}

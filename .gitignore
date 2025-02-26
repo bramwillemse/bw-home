@@ -1,0 +1,26 @@
+*.log
+*.min.css
+*.bundle.js
+*.min.js
+.DS_Store
+.env
+.netlify
+.lfs.local
+node_modules
+
+# Hugo
+public/*
+resources/*
+tmp/*
+assets/*.js
+assets/*.css
+bundle.js
+
+#yarn
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+.aider*

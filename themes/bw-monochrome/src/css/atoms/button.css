@@ -1,0 +1,90 @@
+/*
+BUTTON
+------
+*/
+
+.a-button {
+  align-items: center;
+  background-color: var(--black);
+  border: .15rem solid var(--black);
+  border-radius: 3.3rem;
+  color: var(--white);
+  display: inline-flex;
+  margin-bottom: var(--regular);
+  outline: none;
+  padding: var(--xxs) var(--s);
+  text-transform: lowercase;
+  transform-origin: bottom center;
+  transition-duration: .3s;
+  transition-property: background-color, border-color, color, box-shadow, transform;
+  transition-timing-function: var(--ease-in-out-cubic);
+}
+
+.a-button::after {
+  display: none;
+}
+
+.a-button:hover {
+  background-color: var(--black);
+  border-color: var(--grey-90);
+  box-shadow: var(--shadow-default);
+  color: var(--white);
+  transform: scale(1.03);
+}
+
+/* Accessible focus */
+.a-button:focus-visible {
+  border-color: var(--blue-30);
+  box-shadow: none;
+}
+
+.a-button:active {
+  background-color: var(--black);
+  border-color: var(--grey-50);
+  box-shadow: none;
+  transform: scale(1);
+}
+
+.a-button .a-icon {
+  fill: currentColor;
+  height: 1em;
+  width: 1em;
+}
+
+.a-button .a-icon line {
+  stroke: var(--white) !important;
+}
+
+.a-button .a-icon:first-child {
+  margin-right: .333em;
+}
+
+.a-button .a-icon:last-child {
+  margin-left: .333em;
+}
+
+@media (prefers-color-scheme: dark) {
+  .a-button {
+    background-color: var(--white);
+    border-color: var(--grey-90);
+    color: var(--black);
+  }
+
+  .a-button:hover,
+  .a-button:focus {
+    background-color: var(--white);
+    color: var(--black);
+  }
+
+  .a-button .a-icon line {
+    stroke: var(--grey-90) !important;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .a-button--secondary,
+  .a-button--secondary:hover {
+    background-color: var(--white);
+    border-color: var(--black);
+  }
+}

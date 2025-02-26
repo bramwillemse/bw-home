@@ -1,0 +1,28 @@
+{{/*
+  Atom: Button
+
+  Properties:
+  .ariaLabel: 'string'
+  .classes: 'string'
+  .size: 'string'
+  .label: 'string'
+  .icon: 'string'
+  .url: 'string'
+*/}}
+<a class="a-button{{ if .icon }} a-button--icon a-button--icon-{{ .icon }}{{ end }}{{ if .size }} button--{{ .size }}{{ end }} {{ if .classes }} {{ .classes }} {{ end }}" href="{{ .url }}" {{ if .ariaLabel }} aria-label="Read {{ .ariaLabel }}" {{ end }}>
+  {{ if eq .icon "back" }}
+    {{ partial "svg/cancel.svg" }}
+  {{ else if eq .icon "link" }}
+    {{ partial "svg/link.svg" }}
+  {{ else if eq .icon "list" }}
+    {{ partial "svg/list.svg" }}
+  {{ else if eq .icon "home" }}
+    {{ partial "svg/home.svg" }}
+  {{ else if eq .icon "read" }}
+    {{ partial "svg/circled_play.svg" }}
+  {{ end }}
+
+  <span class="a-button__label">
+    {{ .label }}
+  </span>
+</a>

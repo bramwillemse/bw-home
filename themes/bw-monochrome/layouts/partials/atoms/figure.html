@@ -1,0 +1,37 @@
+{{/*
+FIGURE
+------
+Picture element in a figure.
+*/}}
+
+<figure class="a-figure">
+  {{ with resources.Get .src }}
+    {{ $tiny := .Resize "20x" }}
+    {{ $small := .Resize "320x" }}
+    {{ $medium := .Resize "720x" }}
+    {{ $large := .Resize "1440x" }}
+    {{ $xlarge := .Resize "2160x" }}
+
+    <picture class="a-picture">
+      <source data-srcset="{{ $xlarge.RelPermalink }}" media="(min-width: 1200px)">
+      <source data-srcset="{{ $large.RelPermalink }}" media="(min-width: 700px)">
+      <source data-srcset="{{ $medium.RelPermalink }}" media="(min-width: 300px)">
+      <img
+        src="{{ $tiny.RelPermalink }}"
+        data-src="{{ $small.RelPermalink }}"
+        alt="{{ $.alt }}"
+        width="{{ $.width }}"
+        height="{{ $.height }}"
+        loading="lazy"
+        data-animation="zoom-in">
+    </picture>
+
+    {{ if $.caption }}
+      <figcaption>
+       {{ $.caption }}
+      </figcaption>
+    {{ end }}
+  {{ else }}
+    {{ errorf "Image not found: %s" .src }}
+  {{ end }}
+</figure>

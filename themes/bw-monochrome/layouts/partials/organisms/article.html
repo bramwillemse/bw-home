@@ -1,0 +1,15 @@
+<article class="o-article{{ if .Params.featured_image }} o-article--has-visual-header{{ end }}">
+  {{ partial "molecules/visual-banner" . }}
+
+  {{ partial "molecules/article-header" . }}
+
+  <section class="e-content-block e-content-block--background o-article__content">
+    {{ .Content }}
+  </section>
+
+  {{/*
+  <footer class="o-article__footer e-content-block e-content-block--transparent">
+    {# Add related content or other click through material #}
+  </footer>
+  */}}
+</article>

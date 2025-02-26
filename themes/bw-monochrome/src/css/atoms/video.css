@@ -1,0 +1,26 @@
+
+/*
+VIDEO
+-----
+Embedded video in a 16:9 ratio
+*/
+
+/* .a-video {} */
+
+.a-video__box {
+  height: 5rem;
+  max-width: 100%;
+  overflow: hidden;
+  padding-bottom: 56.6%;
+  position: relative;
+}
+
+.a-video__iframe {
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}

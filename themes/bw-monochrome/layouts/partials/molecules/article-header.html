@@ -1,0 +1,9 @@
+<header class="m-article-header e-content-block">
+  <h1>{{ .Title }}</h1>
+  <div class="m-article-header__date">
+    {{ partial "atoms/date" . }}
+  </div>
+  {{ if .Params.introduction }}
+    <p class="a-introduction">{{ .Params.introduction | safeHTML }}</p>
+  {{ end }}
+</header>

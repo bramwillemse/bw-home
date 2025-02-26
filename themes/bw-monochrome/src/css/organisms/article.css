@@ -1,0 +1,37 @@
+/*
+ARTICLE
+-------
+A blog post or content page
+*/
+
+.o-article {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.o-article--compact {
+  align-items: flex-start;
+  border-left: solid .3rem var(--black);
+  margin-bottom: var(--xxl);
+}
+
+@media (prefers-color-scheme: dark) {
+  .o-article--compact {
+    background-color: var(--grey-90);
+    border-left-color: var(--grey-80);
+  }
+}
+
+.o-article--compact .a-button {
+  margin-bottom: 0;
+}
+
+.o-article--has-visual-header {
+  margin-top: 33vh;
+}
+
+.o-article__content {
+  align-items: center;
+}

@@ -1,0 +1,29 @@
+
+{{/*
+SITE: HEADER
+------------
+The site's main header, containing logo and conditional navigational elements.
+*/}}
+
+<header class="o-site-header u-is-not-clickable">
+  <div class="o-site-header__left">
+    {{ if .Params.parent }}
+      {{ $parentTitle := .Params.parent.title }}
+      {{ $parentLabel := (print "Back to " $parentTitle) }}
+      {{ $parentUrl := .Params.parent.url }}
+      {{ $parentIcon := .Params.parent.icon }}
+      
+      {{ partial "atoms/button" (dict "icon" $parentIcon "url" $parentUrl "label" $parentLabel "classes" "a-button--secondary m-article-navigation__button u-is-clickable") }}
+    {{ end }}
+  </div>
+
+  <div class="o-site-header__center">
+    {{ partial "atoms/logo" }}
+  </div>
+
+  <div class="o-site-header__right">
+    <!-- Riiiiight -->
+  </div>
+</header>
+
+<div class="a-site-header-spacer"></div>

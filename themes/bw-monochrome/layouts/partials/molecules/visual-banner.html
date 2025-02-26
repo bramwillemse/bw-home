@@ -1,0 +1,33 @@
+{{ if .Params.featured_image }}
+  {{ with resources.Get .Params.featured_image.src }}
+    {{ $tiny := .Resize "20x" }}
+    {{ $small := .Resize "150x" }}
+    {{ $medium := .Resize "720x" }}
+    {{ $large := .Resize "1440x" }}
+    {{ $xlarge := .Resize "2160x" }}
+
+    <figure class="m-visual-banner">
+      <picture class="a-picture">
+        <source data-srcset="{{ $xlarge.RelPermalink }}" media="(min-width: 1200px)">
+        <source data-srcset="{{ $large.RelPermalink }}" media="(min-width: 700px)">
+        <source data-srcset="{{ $medium.RelPermalink }}" media="(min-width: 300px)">
+        <img
+          class="m-visual-banner__image"
+          src="{{ $tiny.RelPermalink }}"
+          data-src="{{ $small.RelPermalink }}"
+          loading="lazy"
+          data-animation="fade-in">
+      </picture>
+
+      {{ if $.Params.feature_image_label }}
+        <figcaption>{{ $.Params.feature_image_label }}</figcaption>
+      {{ end }}
+    </figure>
+  {{ else }}
+    {{ errorf "Featured image not found: %s" $.Params.featured_image.src }}
+  {{ end }}
+{{ else }}
+  <figure class="m-visual-banner m-visual-banner--is-empty"></figure>
+{{ end }}
+
+<div class="a-visual-banner-overlay"></div>
