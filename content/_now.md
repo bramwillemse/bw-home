@@ -25,9 +25,9 @@ parent:
 	- [the Kingsbridge series](https://www.goodreads.com/series/60161-kingsbridge "Read about the Kingsbridge series by Ken Follett on GoodReads") by Ken Follett (1/3 left)
 
 ## Keeping calm &amp; fit
-- **I will am picking up running again**. As stated above, I've been off running for a few months. Now getting back into it, starting from scratch is hard. Follow my ups & downs on  [Strava](https://strava.com/athletes/bramwillemse "Follow my training progress on Strava").
-- I **started bouldering** in 2021 and I love it. I try to do it twice a week and I've been climbing up until 6B levels recently. For reasons named above I am taking it a bit easier at the moment.
 - **I am practicing yoga twice a week** after finding an awesome Amsterdam yoga school called [Tula Yoga](https://www.tulayogastudios.nl/). I practice yin and hatha yoga. It's a great contrasting exercise next to running and bouldering and perfect for addressing Post-COVID symptoms too.
+- **I am picking up running again**. As stated above, I've been off running for a few months. Now getting back into it, starting from scratch is hard. Follow my ups & downs on  [Strava](https://strava.com/athletes/bramwillemse "Follow my training progress on Strava").
+- I **started bouldering** in 2021 and I love it. I try to do it twice a week and I've been climbing up until 6B levels recently. For reasons named above I am taking it a bit easier at the moment.
 
 *This page was last updated on <time datetime="2025-02-27T21:32:44+02:00
 ">February 27th, 2025</time> at home in Amsterdam, the Netherlands*.
