@@ -57,7 +57,7 @@ Waking Up is not just a pretty app. It’s a whole new level of learning about m
 ## Device
 This year was all about my renewed love for the Apple Watch. I bought the series 4, the one with the bigger screen, and I hadn’t expected to love it as much as I do.
 
-{{<figure src="images/2019-highlights/Apple-Watch-Series-4-GPS-Grey40MMMU672KSA_grey.png" alt="Apple Watch Series 4 Space Grey" caption="Apple Watch Series 4" width="250" height="250">}}
+{{<figure src="images/2019-highlights/apple-watch-series-4-gps-grey40mmmu672ksa_grey.png" alt="Apple Watch Series 4 Space Grey" caption="Apple Watch Series 4" width="250" height="250">}}
 
 The bigger screen makes it feel more like a proper, good looking and functional watch. It’s health features do not only make me stand up after sitting for too long, but also motivates me by keeping fit.
 
