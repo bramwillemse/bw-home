@@ -2,10 +2,8 @@
 *.min.css
 *.bundle.js
 *.min.js
-*.js.map
 *.hot-update.js.map
 *.hot-update.js
-*.css.map
 .DS_Store
 .env
 .netlify
