@@ -18,7 +18,7 @@ parent:
 - **I might have (had) [Post-COVID](https://www.rivm.nl/en/coronavirus-covid-19/post-covid "read more about Post-COVID symptoms")** or at least some kind of stress response. So the last half year I've been struggling in keeping up my energy levels. I stopped running for a few months, took time for some medical checkups (all good 🤷‍♂️) and now slowly getting back into it. Fingers crossed on getting back into proper training later this year!
 
 ## Personal development
-- **I am currently reading** [Een Kleine Geschiedenis van Amsterdam]("Read more about Een Kleine Geschiedenis van Amsterdam on GoodReads") by Geert Mak. A Dutch book about the history of my town.
+- **I am currently reading** [Een Kleine Geschiedenis van Amsterdam](https://www.goodreads.com/book/show/579118.Een_kleine_geschiedenis_van_Amsterdam "Read more about Een Kleine Geschiedenis van Amsterdam on GoodReads") by Geert Mak. A Dutch book about the history of my town.
 - **I still want to finish**:
 	- [the Stormlight Archive](https://www.goodreads.com/series/49075-the-stormlight-archive "Read about the Stormlight Archive series by Brandon Sanderson on GoodReads") series by Brandon Sanderson
   (2/5 left)
