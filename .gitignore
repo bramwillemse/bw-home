@@ -7,17 +7,12 @@
 .DS_Store
 .env
 .netlify
-.lfs.local
 node_modules
 
 # Hugo
 public/*
 resources/*
 tmp/*
-assets/*
-!assets/images/
-!assets/images/**/*
-bundle.js
 
 #yarn
 .yarn/*
@@ -27,3 +22,4 @@ bundle.js
 !.yarn/versions
 .pnp.*
 .aider*
+themes/bw-monochrome/assets/*
