@@ -1,5 +1,8 @@
 # Browsers that we support
-last 2 version
-> 1%
+defaults
+not IE
 maintained node versions
+> 0.5%
+last 2 versions
+Firefox ESR
 not dead

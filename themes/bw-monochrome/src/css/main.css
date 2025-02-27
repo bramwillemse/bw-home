@@ -1,20 +1,20 @@
 /* SETTINGS */
-@import "_settings";
+@import-glob "_settings/**/*.css";
 
 /* ELEMENTS */
-@import "_elements";
+@import-glob "_elements/**/*.css";
 
 /* ENTITIES */
-@import "_entities";
+@import-glob "_entities/**/*.css";
 
 /* ATOMS */
-@import "atoms";
+@import-glob "atoms/**/*.css";
 
 /* MOLECULES */
-@import "molecules";
+@import-glob "molecules/**/*.css";
 
 /* ORGANISMS */
-@import "organisms";
+@import-glob "organisms/**/*.css";
 
 /* UTILITIES */
-@import "_utilities";
+@import-glob "_utilities/**/*.css";

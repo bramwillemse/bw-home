@@ -2,14 +2,14 @@ baseURL = "/"
 DefaultContentLanguage = "en"
 title = "Bram Willemse"
 theme = "bw-monochrome"
-paginate = 8
-paginatePath = "page"
+
+[pagination]
+pagerSize = 8
+path = "page"
 
 # RSS, categories and tags disabled for an easy start
-# See configuration options for more details:
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomy", "term"]
 enableInlineShortcodes = true
 
 [markup.goldmark.renderer]
-  unsafe= true
+unsafe = true
