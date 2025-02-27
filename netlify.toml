@@ -1,5 +1,5 @@
 [build]
-  command = "find assets -type f -name \"*.jpg\" -o -name \"*.jpeg\" -o -name \"*.png\" -o -name \"*.gif\" -o -name \"*.svg\" | sort && yarn build:webpack && yarn build:hugo"
+  command = "yarn build:webpack && yarn build:hugo"
 [build.environment]
   NODE_VERSION = "23"
   YARN_VERSION = "1.22.22"
