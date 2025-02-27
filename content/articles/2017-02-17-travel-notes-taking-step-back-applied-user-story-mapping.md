@@ -45,10 +45,10 @@ And this how it's done (by me, today 8-). Off course it's better to do this in a
 
 As you might already know my idea for Travel Notes has come from my own personal travel journey. So what you're seeing here is mostly based on my 4 month trip to South America last year.
 
-{{<figure src="images/travel-notes/travel-notes-step-1-1.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 1)">}}
-{{<figure src="images/travel-notes/travel-notes-step-1-2.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 2)">}}
-{{<figure src="images/travel-notes/travel-notes-step-1-3.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 3)">}}
-{{<figure src="images/travel-notes/travel-notes-step-1-4.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 4)">}}
+{{<figure src="/images/travel-notes/travel-notes-step-1-1.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 1)">}}
+{{<figure src="/images/travel-notes/travel-notes-step-1-2.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 2)">}}
+{{<figure src="/images/travel-notes/travel-notes-step-1-3.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 3)">}}
+{{<figure src="/images/travel-notes/travel-notes-step-1-4.jpeg" alt="Travel Notes User Journey - Idea and preparation phase (step 4)">}}
 
 ## 2. Grouping the actions
 
@@ -63,7 +63,7 @@ As you could see in the pictures, I kept it simple:
 
 Quantity is more important than quality. As I was on my own I took quite a lot of time for this phase. The only limitation I set was the amount of blue post-its I had.
 
-{{<figure src="images/travel-notes/travel-notes-step-2-ideas.jpeg" alt="Travel Notes Brainstorm phase: adding as much ideas as possible">}}
+{{<figure src="/images/travel-notes/travel-notes-step-2-ideas.jpeg" alt="Travel Notes Brainstorm phase: adding as much ideas as possible">}}
 
 ## 4. Vote and arrange ideas
 

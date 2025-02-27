@@ -21,7 +21,7 @@ The Morvan Oxygene Trail was going to suck. I already had given up on my goal to
 
 From the first step I felt I had no energy in my body. Every step was going to be a challenge, especially in these steep Morvan hills.
 
-{{<figure src="images/2019-highlights/bram-willemse-trailrunning-morvan-oxygene-trail.jpg" alt="Bram looking very tired, with a Morvan sunset in the background" caption="Yes. I was tired.">}}
+{{<figure src="/images/2019-highlights/bram-willemse-trailrunning-morvan-oxygene-trail.jpg" alt="Bram looking very tired, with a Morvan sunset in the background" caption="Yes. I was tired.">}}
 
 It hurt and it was attractive to step out at so many points, but I’m so proud of not giving up and finishing. I will never forget that hill at 18km, where I screamed & grunted of frustration. The tears no one saw me shed, when 5 kilometers later a farmer sprayed me with cold water. And a bit later on when my friend Stef ran with me, to the foot of the last big climb to the finish.
 
@@ -43,7 +43,7 @@ We hope to return to the Alps next year :) Any tips?
 ## Vlieland
 After my beautiful summer break I had a bit of a tough time. I had some injuries so I couldn't run as much, which made me a bit less energetic. Besides that I just a a tough time in my personal life and in work. After I finished the project I could finally take some time off and spent some time on dutch _Wadden island_ Vlieland.
 
-{{<figure src="images/2019-goals/vlieland-wadden-island-netherlands.jpg" alt="Vlieland dunes by sunrise" caption="Vlieland magic">}}
+{{<figure src="/images/2019-goals/vlieland-wadden-island-netherlands.jpg" alt="Vlieland dunes by sunrise" caption="Vlieland magic">}}
 
 The first days I meditated and read by the fireplace, walked and ran on the beach, over the dunes and through the forests. I spent that time thinking and writing to [reflect on the year](/reflecting-2019-goals).
 

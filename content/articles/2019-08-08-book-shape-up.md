@@ -124,7 +124,7 @@ A lot of concepts could be applied within companies and teams working Scrum or K
 
 ### Go read!
 
-{{<figure src="images/shape-up-ryan-singer.jpeg" alt="Shape Up book cover">}}
+{{<figure src="/images/shape-up-ryan-singer.jpeg" alt="Shape Up book cover">}}
 
 So yes. I'd highly recommend diving into this little book. Read it for yourself and I'm very curious what you think and which opportunities you see arise in your work.
 

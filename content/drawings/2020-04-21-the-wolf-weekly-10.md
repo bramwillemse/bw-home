@@ -16,4 +16,4 @@ styles:
   background: black
 ---
 
-{{<figure src="images/drawings/the-wolf-weekly-10-druid-21.jpeg" width="2224" height="1668">}}
+{{<figure src="/images/drawings/the-wolf-weekly-10-druid-21.jpeg" width="2224" height="1668">}}

@@ -14,4 +14,4 @@ parent:
   icon: "list"
 ---
 
-{{<figure src="images/drawings/the-wolf-weekly-1.jpeg" width="1902" height="1352">}}
+{{<figure src="/images/drawings/the-wolf-weekly-1.jpeg" width="1902" height="1352">}}
