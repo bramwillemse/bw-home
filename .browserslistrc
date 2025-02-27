@@ -1,6 +1,6 @@
 # Browsers that we support
 defaults
-not IE
+not IE > 0
 maintained node versions
 > 0.5%
 last 2 versions
