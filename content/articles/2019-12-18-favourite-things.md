@@ -24,7 +24,7 @@ I rediscovered fantasy. I loved Joe Abercrombie's _First Law trilogy_ and N.K. J
 
 I finally read the runner's classic _Born to Run_ and was really inspired to give barefoot running a try again. And I could keep naming many other books, like [Shape Up](/book-basecamp-shape-up/).
 
-{{<figure src="/images/2019-highlights/yuval-noah-harari-homo-deus.jpg" alt="Multiple renditions of the book Homo Deus" caption="Book of my year">}}
+{{<figure src="images/2019-highlights/yuval-noah-harari-homo-deus.jpg" alt="Multiple renditions of the book Homo Deus" caption="Book of my year">}}
 
 But I would say _Homo Deus_ takes the cake. Because it is relatively easy to read (up until the last 100 pages maybe..) while Yuval Noah Harari gives you a mindblowing view on the possible future of human kind. It is amazing how he connects history, economics, technology, religion, biology and more into a comprehensive story.
 
@@ -57,7 +57,7 @@ Waking Up is not just a pretty app. It’s a whole new level of learning about m
 ## Device
 This year was all about my renewed love for the Apple Watch. I bought the series 4, the one with the bigger screen, and I hadn’t expected to love it as much as I do.
 
-{{<figure src="/images/2019-highlights/Apple-Watch-Series-4-GPS-Grey40MMMU672KSA_grey.png" alt="Apple Watch Series 4 Space Grey" caption="Apple Watch Series 4" width="250" height="250">}}
+{{<figure src="images/2019-highlights/Apple-Watch-Series-4-GPS-Grey40MMMU672KSA_grey.png" alt="Apple Watch Series 4 Space Grey" caption="Apple Watch Series 4" width="250" height="250">}}
 
 The bigger screen makes it feel more like a proper, good looking and functional watch. It’s health features do not only make me stand up after sitting for too long, but also motivates me by keeping fit.
 
@@ -66,14 +66,14 @@ One feature, being able to compare your activity with friends, is actually a nic
 ## Running shoe
 I loved its looks and the engineering that went into the Nike Terra Kiger 5. I loved the promise of a more natural running style of the Vibram Five fingers. But in the end I had the best experience in the Altra Superior 3.5. It is comfortable (for the medium long distances), it is neutral, and it has got space for my super wide feet. A definite winner in 2019!
 
-{{<figure src="/images/2019-highlights/bram-willemse-altra-superior-3-5.jpg" alt="Looking down on red Altra Superior running shoes" caption="Altra Superior 3.5 running shoes">}}
+{{<figure src="images/2019-highlights/bram-willemse-altra-superior-3-5.jpg" alt="Looking down on red Altra Superior running shoes" caption="Altra Superior 3.5 running shoes">}}
 
 Because of that and my ultra goal – and because the Ginger Runner tells me so – I'm looking forward to give the Altra Olympus a chance next year’s longer distances. 🤗
 
 ## Car
 I drove the latest Porsche 911 and then some. But I think the Mercedes EQC was the b... Nah. I don’t. 😏
 
-{{<figure src="/images/2019-highlights/bram-willemse-porsche-992-carrera-s.jpg" caption="Me acting like I own this car 😬" alt="Bram posing in front of a Porsche Carrera 992 Carrera S">}}
+{{<figure src="images/2019-highlights/bram-willemse-porsche-992-carrera-s.jpg" caption="Me acting like I own this car 😬" alt="Bram posing in front of a Porsche Carrera 992 Carrera S">}}
 
 The Porsche 992 Carrera S is a blast to drive, beautiful up to the last detail and just unmatched on it’s all-round high quality. It’s impressive how predictable Porsche is at being the best in this industry, like they are proving with building an impressive first Porsche Full Electric Vehicle too, with the Taycan.
 
