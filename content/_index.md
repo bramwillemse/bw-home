@@ -1,13 +1,12 @@
 ---
-# Homepage
 type: page
-title: Bram Willemse - Interim product owner
-description: Bram Willemse is an interim product owner with a background in digital product development, based in Amsterdam, the Netherlands.
+title: Bram Willemse - Interim product professional
+description: Bram Willemse is an interim product professional with a background in digital product development, based in Amsterdam, the Netherlands.
 ---
 
 <header class="e-grid-home__header">
   <h1>Hi, my name is Bram.</h1>
-  <p>As a product owner, I combine analytical thinking and empathy to unite teams and ideas, advocating for engineering excellence and team well-being. I am committed to the following 3 principles, contributing to innovation, productivity, and a positive work environment.</p>
+  <p>As a product professional, I combine analytical thinking and empathy to unite teams and ideas, advocating for engineering excellence and team well-being. I am committed to the following 3 principles, contributing to innovation, productivity, and a positive work environment.</p>
 </header>
 
 <article class="e-grid-home__card e-grid-home__card-one">
